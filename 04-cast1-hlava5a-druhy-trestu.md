@@ -103,7 +103,7 @@ Novější doplněk — soud musí přihlédnout k zájmům **obětí TČ**. Kon
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 4139/2013](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2015%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2015&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-30_Cdo_4139_2013.txt) — 17. 12. 2014, kat. A
+- *NS* [30 Cdo 4139/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB61D8F9675ACB40C1257DCF004104D9?openDocument) — 17. 12. 2014, kat. A
   > „Vzdá-li se obžalovaný odvolání proti odsuzujícímu rozsudku, kterým mu je i ukládán trest podle zákona č. 40/2009 Sb., trestní zákoník, má se za to, že je se stanoveným druhem trestu a jeho výměrou srozuměn, a to i z hlediska kompenzace nepřiměřené délky trestního řízení, a nemůže se z důvodu nepřiměřené délky trestního řízení domáhat ještě zadostiučinění v penězích"
 
 #### Faktory pro výběr trestu (odst. 1)
