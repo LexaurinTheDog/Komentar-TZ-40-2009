@@ -139,6 +139,11 @@ Sazba: **6 měsíců — 3 roky**.
 
 ### § 241 — Neodvedení daně, pojistného
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 156/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C5934C7DF0F56078C1258507001E5359?openDocument) — 31. 10. 2019, kat. A
+  > „Omezení dlužníka při nakládání s majetkovou podstatou dle § 111 odst. 1 insolvenčního zákona, spočívající v tom, že peněžité závazky vzniklé před zahájením insolvenčního řízení je dlužník oprávněn plnit jen v rozsahu a za podmínek stanovených tímto zákonem, dopadá i na pohledávky z titulu pojistného na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti. Platba pojistného na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti není právním jednáním nutným ke splnění povinností stanovených zvláštními právními předpisy ve smyslu § 111 odst. 2 insolvenčního zákona"
+
 #### Pojem
 **Zaměstnavatel** nebo plátce **nesplní** povinnost odvést srážkovou daň, sociální/zdravotní pojistné za zaměstnance. Sazba: až 3 roky / 1—5 / 2—8 let.
 

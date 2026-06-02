@@ -131,6 +131,11 @@ Vědomá vs. nevědomá nedbalost (§ 16) je rozhodující pro výši trestu.
 
 ### § 144 — Účast na sebevraždě
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 106/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D278E729B22E6AA3C125873B00160418?openDocument) — 16. 6. 2021, kat. A
+  > „Pro závěr o dědické nezpůsobilosti ve smyslu ustanovení § 1481 o. z. je rozhodující, zda soud v řízení o pozůstalosti dospěje k závěru, že dědicem spáchaný čin (např. účast na sebevraždě zůstavitele podle § 144 tr. zákoníku) směřuje proti zůstaviteli nepostačí pravomocný rozsudek soudu v trestním řízení určující, že šlo o úmyslný trestný čin spáchaný dědicem"
+
 #### Pojem (odst. 1)
 **Aktivní pomoc** k sebevraždě:
 - **Pohnutí k sebevraždě** (přemluvit jiného k sebevraždě).

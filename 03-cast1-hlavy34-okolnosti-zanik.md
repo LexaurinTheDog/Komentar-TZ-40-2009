@@ -96,6 +96,11 @@ Specifická varianta krajní nouze, kdy pachatel je v situaci, ve které **musí
 > „(1) Čin jinak trestný, kterým někdo odvrací přímo hrozící nebo trvající útok na zájem chráněný trestním zákonem, není trestným činem.  
 > (2) Nejde o nutnou obranu, byla-li obrana zcela zjevně nepřiměřená způsobu útoku."
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 3094/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AAEF0B7D743759BCC1258017003BEA09?openDocument) — 14. 6. 2016, kat. A
+  > „Podíl poškozeného na vzniku situace, pro kterou byl následně (nedůvodně) trestně stíhán, je pro posouzení intenzity jeho nemajetkové újmy způsobené výkonem vazby a přiznání zadostiučinění za ni podle § 31a odst. 2 zák. č. 82/1998 Sb. (ve znění pozdějších předpisů) rozhodný jen tehdy, jestliže dané jednání poškozeného nebylo vynuceno, například protiprávním útokem, jemuž poškozený čelil v mezích nutné obrany, ledaže by svým jednáním útok vyprovokoval"
+
 #### Pojem nutné obrany
 Nutná obrana (*Notwehr*) je **klasická OVP**, kořeny už v římském právu (*vim vi repellere licet*). Brání útok lidský — pachatel reaguje na **přímo hrozící nebo trvající útok** druhé osoby a může způsobit i závažný následek, je-li to k odvrácení útoku přiměřené.
 

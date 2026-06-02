@@ -101,6 +101,11 @@ Novější doplněk — soud musí přihlédnout k zájmům **obětí TČ**. Kon
 
 **Klíčový paragraf**, kterým se řídí veškerá soudní volba trestu. § 39 je „**rozhodovací mapa**" pro každý odsuzující rozsudek.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4139/2013](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2015%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2015&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-30_Cdo_4139_2013.txt) — 17. 12. 2014, kat. A
+  > „Vzdá-li se obžalovaný odvolání proti odsuzujícímu rozsudku, kterým mu je i ukládán trest podle zákona č. 40/2009 Sb., trestní zákoník, má se za to, že je se stanoveným druhem trestu a jeho výměrou srozuměn, a to i z hlediska kompenzace nepřiměřené délky trestního řízení, a nemůže se z důvodu nepřiměřené délky trestního řízení domáhat ještě zadostiučinění v penězích"
+
 #### Faktory pro výběr trestu (odst. 1)
 Při stanovení **druhu a výměry** trestu soud přihlédne k:
 - **Povaze a závažnosti TČ** (vyložená v odst. 2)
@@ -739,6 +744,11 @@ U **jiných TČ než ZZZ**: po výkonu/upuštění od peněžitého trestu **se 
 
 ### § 70—72 — Propadnutí věci a náhradní hodnoty
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 142/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8398A6D36DD156EAC125877C00187F53?openDocument) — 23. 9. 2021, kat. A
+  > „Jestliže v průběhu insolvenčního řízení vyústí zkoumání (ne)platnosti právního úkonu týkajícího se majetku nebo závazků dlužníka jiným (než insolvenčním) soudem či jiným orgánem ve vydání rozhodnutí, jímž se žaloba o takové určení zamítá (ve zjištění, že není důvod vyslovit neplatnost právního úkonu), jde ve smyslu ustanovení § 231 odst. 1 insolvenčního zákona o „jiný způsob zjištění“ namítané neplatnosti, jímž insolvenční soud rovněž není vázán. Trest propadnutí věci uložený podle ustanovení § 70 tr. zák. dlužníku v průběhu insolvenčního řízení vedeného na jeho majetek je mimosmluvní sankcí postihující majetek dlužníka, jejíž uspokojení v insolvenčním řízení vedeném na majetek dlužníka zakazuje (znemožňuje) ustanovení § 170 písm. d/ insolvenčního zákona. Takový trest nelze vykonat (realizovat) za trvání insolvenčního řízení vedeného na majetek dlužníka a jeho uložení nemá vliv na…"
+
 #### § 70 — Propadnutí věci
 **Obligatorní** — soud **musí** uložit propadnutí věci, která je **bezprostředním výnosem** z trestné činnosti (odst. 1).
 
@@ -752,6 +762,11 @@ U **jiných TČ než ZZZ**: po výkonu/upuštění od peněžitého trestu **se 
 **Obligatorní u nelegálně držených věcí** (odst. 4): drží-li pachatel věc nelegálně (nepovolená zbraň, droga), soud uloží propadnutí **vždy**.
 
 **Zákaz dispozic** (odst. 5): od rozhodnutí prvního stupně.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 142/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8398A6D36DD156EAC125877C00187F53?openDocument) — 23. 9. 2021, kat. A
+  > „Jestliže v průběhu insolvenčního řízení vyústí zkoumání (ne)platnosti právního úkonu týkajícího se majetku nebo závazků dlužníka jiným (než insolvenčním) soudem či jiným orgánem ve vydání rozhodnutí, jímž se žaloba o takové určení zamítá (ve zjištění, že není důvod vyslovit neplatnost právního úkonu), jde ve smyslu ustanovení § 231 odst. 1 insolvenčního zákona o „jiný způsob zjištění“ namítané neplatnosti, jímž insolvenční soud rovněž není vázán. Trest propadnutí věci uložený podle ustanovení § 70 tr. zák. dlužníku v průběhu insolvenčního řízení vedeného na jeho majetek je mimosmluvní sankcí postihující majetek dlužníka, jejíž uspokojení v insolvenčním řízení vedeném na majetek dlužníka zakazuje (znemožňuje) ustanovení § 170 písm. d/ insolvenčního zákona. Takový trest nelze vykonat (realizovat) za trvání insolvenčního řízení vedeného na majetek dlužníka a jeho uložení nemá vliv na…"
 
 #### § 71 — Náhradní hodnota
 Pokud pachatel věc před propadnutím **zničí/zcizí/zužitkuje**, soud uloží propadnutí **náhradní hodnoty** odpovídající ceně té věci.

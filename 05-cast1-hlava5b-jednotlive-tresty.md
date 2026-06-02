@@ -237,6 +237,11 @@ Po **1/3 zkušební doby** (min. 6 měsíců) může soud zrušit omezení/povin
 
 ### § 83 — Rozhodnutí o podmíněném odsouzení
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2005/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2182A5E0A12258FCC1257E8C0025D030?openDocument) — 21. 5. 2015, kat. A
+  > „Pracovní smlouva není neplatná pro omyl zaměstnavatele, nesdělil-li mu zaměstnanec, na něhož se podle zákona hledí, jako by nebyl odsouzen, při jejím uzavírání pravdivou informaci o svém odsouzení za trestný čin"
+
 #### Osvědčení (odst. 1)
 - **Pachatel uspěl** → soud vysloví, že **se osvědčil**.
 - **Pachatel neuspěl** → soud rozhodne, že **se trest vykoná**. Toto rozhodnutí lze učinit **i během zkušební doby**.

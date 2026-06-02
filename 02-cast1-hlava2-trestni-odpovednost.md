@@ -124,6 +124,11 @@ Zavinění (subjektivní stránka TČ) je **psychický vztah pachatele k jednán
 > &nbsp;&nbsp;b) věděl, že svým jednáním může takové porušení nebo ohrožení způsobit, a pro případ, že je způsobí, byl s tím srozuměn.  
 > (2) Srozuměním se rozumí i smíření pachatele s tím, že způsobem uvedeným v trestním zákoně může porušit nebo ohrozit zájem chráněný takovým zákonem."
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 1016/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E5774B1A7051DB77C12585EA001881AE?openDocument) — 24. 6. 2020, kat. A
+  > „Jednání pojistníka či pojištěného v případě havarijního pojištění vozidel může představovat úmyslné jednání vylučující nahodilost skutečnosti označené jako pojistná událost v pojistné smlouvě nebo ve zvláštním právním předpisu, na který se pojistná smlouva odvolává, a to i ve formě nepřímého úmyslu (např. poškození pojištěného vozidla vědomým porušením dopravních předpisů jízdou v provozu extrémně vysokou rychlostí za dalších mimořádných okolností dopravní nehody), byť byl pojistník či pojištěný v souvislosti s tímto jednáním shledán v trestním řízení vinným nedbalostním trestným činem, jehož objektem je život, zdraví nebo majetek třetích osob"
+
 #### Dvě formy úmyslu
 
 **Úmysl přímý** (*dolus directus*) — písm. a):
@@ -157,6 +162,11 @@ Srozumění obsahuje i **smíření** s následkem. Pachatel nemusí následek e
 > &nbsp;&nbsp;a) věděl, že může způsobem uvedeným v trestním zákoně porušit nebo ohrozit zájem chráněný takovým zákonem, ale bez přiměřených důvodů spoléhal, že takové porušení nebo ohrožení nezpůsobí, nebo  
 > &nbsp;&nbsp;b) nevěděl, že svým jednáním může takové porušení nebo ohrožení způsobit, ač o tom vzhledem k okolnostem a k svým osobním poměrům vědět měl a mohl.  
 > (2) Trestný čin je spáchán z hrubé nedbalosti, jestliže přístup pachatele k požadavku náležité opatrnosti svědčí o zřejmé bezohlednosti pachatele k zájmům chráněným trestním zákonem."
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 1016/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E5774B1A7051DB77C12585EA001881AE?openDocument) — 24. 6. 2020, kat. A
+  > „Jednání pojistníka či pojištěného v případě havarijního pojištění vozidel může představovat úmyslné jednání vylučující nahodilost skutečnosti označené jako pojistná událost v pojistné smlouvě nebo ve zvláštním právním předpisu, na který se pojistná smlouva odvolává, a to i ve formě nepřímého úmyslu (např. poškození pojištěného vozidla vědomým porušením dopravních předpisů jízdou v provozu extrémně vysokou rychlostí za dalších mimořádných okolností dopravní nehody), byť byl pojistník či pojištěný v souvislosti s tímto jednáním shledán v trestním řízení vinným nedbalostním trestným činem, jehož objektem je život, zdraví nebo majetek třetích osob"
 
 #### Dva stupně nedbalosti
 

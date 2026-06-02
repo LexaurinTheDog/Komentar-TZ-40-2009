@@ -57,6 +57,11 @@ Pro **ztrátu čestných titulů** a **ztrátu vojenské hodnosti** se doba **ř
 
 > „Bylo-li odsouzení zahlazeno, hledí se na pachatele, jako by nebyl odsouzen."
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2005/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2182A5E0A12258FCC1257E8C0025D030?openDocument) — 21. 5. 2015, kat. A
+  > „Pracovní smlouva není neplatná pro omyl zaměstnavatele, nesdělil-li mu zaměstnanec, na něhož se podle zákona hledí, jako by nebyl odsouzen, při jejím uzavírání pravdivou informaci o svém odsouzení za trestný čin"
+
 #### Konkrétní důsledky fikce
 - **Pro účely Rejstříku trestů**: ve **veřejném výpisu** (pro zaměstnavatele, soudy v jiné věci, úřady) se zahlazené odsouzení **nezobrazuje**.
 - **Pro účely recidivy**: zahlazené odsouzení **nelze považovat za přitěžující okolnost** podle § 42 písm. q) ani jako podklad pro mimořádné zvýšení trestu (§ 59).
