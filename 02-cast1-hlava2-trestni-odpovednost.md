@@ -283,9 +283,19 @@ Velmi úzký prostor — v praxi se omluvitelný právní omyl objevuje **velmi 
 
 ### § 20 — Příprava
 
-> „(1) Jednání, které záleží v úmyslném vytváření podmínek pro spáchání zvlášť závažného zločinu (§ 14 odst. 3), zejména v jeho organizování, opatřování nebo přizpůsobování prostředků nebo nástrojů k jeho spáchání, ve spolčení, srocení, v návodu nebo pomoci k takovému zločinu, je přípravou jen tehdy, jestliže to trestní zákon u příslušného trestného činu výslovně stanoví a pokud nedošlo k pokusu ani dokonání zvlášť závažného zločinu.  
-> (2) Příprava je trestná podle trestní sazby stanovené na zvlášť závažný zločin, k němuž směřovala, jestliže trestní zákon nestanoví něco jiného.  
-> (3) Trestní odpovědnost za přípravu k zvlášť závažnému zločinu zaniká, jestliže pachatel dobrovolně upustil od dalšího jednání směřujícího k spáchání zvlášť závažného zločinu a [...]"
+> (1) Jednání, které záleží v úmyslném vytváření podmínek pro spáchání zvlášť závažného zločinu (§ 14 odst. 3), zejména v jeho organizování, opatřování nebo přizpůsobování prostředků nebo nástrojů k jeho spáchání, ve spolčení, srocení, v návodu nebo pomoci k takovému zločinu, je přípravou jen tehdy, jestliže to trestní zákon u příslušného trestného činu výslovně stanoví a pokud nedošlo k pokusu ani dokonání zvlášť závažného zločinu.
+>
+> (2) Příprava je trestná podle trestní sazby stanovené na zvlášť závažný zločin, k němuž směřovala, jestliže trestní zákon nestanoví něco jiného.
+>
+> (3) Trestní odpovědnost za přípravu k zvlášť závažnému zločinu zaniká, jestliže pachatel dobrovolně upustil od dalšího jednání směřujícího k spáchání zvlášť závažného zločinu a
+>
+> - a) odstranil nebezpečí, které vzniklo zájmu chráněnému trestním zákonem z podniknuté přípravy, nebo
+>
+> - b) učinil o přípravě k zvlášť závažnému zločinu oznámení v době, kdy nebezpečí, které vzniklo zájmu chráněnému trestním zákonem z podniknuté přípravy, mohlo být ještě odstraněno; oznámení je nutno učinit státnímu zástupci nebo policejnímu orgánu, voják může místo toho učinit oznámení nadřízenému.
+>
+> (4) Je-li na činu zúčastněno více osob, nebrání zániku trestní odpovědnosti za přípravu pachatele, který takto jednal, je-li čin dokonán ostatními pachateli nezávisle na jeho dřívějším přispění k činu nebo přes jeho včasné oznámení.
+>
+> (5) Ustanovením odstavců 3 a 4 není dotčena trestní odpovědnost pachatele za jiný dokonaný trestný čin, který již jednáním uvedeným v odstavci 1 spáchal.
 
 #### Klíčová pravidla
 
@@ -356,8 +366,9 @@ Analogická úprava jako u přípravy: dobrovolné upuštění + odstranění ne
 
 ### § 22 — Pachatel
 
-> „(1) Pachatelem trestného činu je, kdo svým jednáním naplnil znaky skutkové podstaty trestného činu nebo jeho pokusu či přípravy, je-li trestná.  
-> (2) Pachatelem trestného činu je i ten, kdo k provedení činu užil jiné osoby, která není trestně odpovědná pro nedostatek věku, nepříčetnost, omyl, anebo proto, že jednala v nutné obraně, krajní nouzi či za jiné okolnosti vylučující protiprávnost, anebo sama nejednala nebo nejednala zaviněně. [...]"
+> (1) Pachatelem trestného činu je, kdo svým jednáním naplnil znaky skutkové podstaty trestného činu nebo jeho pokusu či přípravy, je-li trestná.
+>
+> (2) Pachatelem trestného činu je i ten, kdo k provedení činu užil jiné osoby, která není trestně odpovědná pro nedostatek věku, nepříčetnost, omyl, anebo proto, že jednala v nutné obraně, krajní nouzi či za jiné okolnosti vylučující protiprávnost, anebo sama nejednala nebo nejednala zaviněně. Pachatelem trestného činu je i ten, kdo k provedení činu užil takové osoby, která nejednala ve zvláštním úmyslu či z pohnutky předpokládané zákonem; v těchto případech není vyloučena trestní odpovědnost takové osoby za jiný trestný čin, který tímto jednáním spáchala.
 
 #### Tři kategorie pachatelství
 
