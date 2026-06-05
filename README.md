@@ -46,6 +46,10 @@ Komentář je rozdělen do **21 souborů** podle struktury zákona. Hlavní vstu
 
 Komentář **není autoritativní právní názor**. Před aplikací konkrétního ustanovení v praxi vždy ověřte aktuální znění zákona a recentní judikaturu.
 
+## Důvodová zpráva
+
+Původní **důvodová zpráva** k zákonu (z oficiálního sněmovního tisku Poslanecké sněmovny ČR) je k dispozici v souboru [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) — podklad pro historický a teleologický výklad jednotlivých ustanovení.
+
 ## Licence
 
 Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).
