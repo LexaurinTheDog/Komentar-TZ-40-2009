@@ -115,6 +115,11 @@ Pochází z **anglosaského pojetí** "no pay, no drive" — nutí povinného k 
 
 ## § 198 — Týrání svěřené osoby
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [72 A 30/2022 - 28](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/721090) — 3. 4. 2024
+  > „Nejvyšší soud ve věci trestného činu týrání svěřené osoby podle § 198 zákona č. 40/2009 Sb., trestní zákoník, v usnesení ze dne 19. 7. 2022, sp. zn. 8 Tdo 564/2022, zdůraznil, že „ačkoliv v České republice nebylo dosud přikročeno k zákazu fyzických trestů na dětech, nelze zásadně takové metody tolerovat, poněvadž a priori představují zásah do tělesné integrity dítěte a ve svých důsledcích se nutně dotýkají lidské důstojnosti.“"
+
 ### Pojem
 **Týrání osoby v péči nebo výchově** pachatele.
 

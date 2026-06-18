@@ -288,6 +288,13 @@ Pro vztah k dalším trestům (§ 81 odst. 2) a zápočet doby (§ 82 odst. 6) s
 
 ### § 88 — Podmíněné propuštění z výkonu OS
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV.ÚS 279/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-279-14_1) — usnesení, 29. 1. 2014
+  > „Dispozice ustanovení § 88 odst. 1 zákona č. 40/2009 Sb., trestní zákoník, ve znění pozdějších předpisů, dává obecným soudům "možnost", nikoli však povinnost propustit odsouzeného z výkonu trestu odnětí svobody, pokud jsou splněna zákonná kritéria. … Jedná se o takový předpoklad pro propuštění z výkonu trestu odnětí svobody, který je veden důvěrou v osobu odsouzeného. … otázku důvěry v nápravu odsouzeného nelze zúžit na prosté matematické sečtení dober, dosažených odsouzeným během výkonu trestu. Důvěra v odsouzeného tento matematický kalkul nepochybně přesahuje. Závěr soudce musí být v obdobných případech především odrazem jeho vnitřního přesvědčení o nápravě pachatele"
+- *NSS* [62 A 46/2022 - 77](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/722859) — 28. 5. 2024
+  > „samotná skutečnost, že pachatel byl podmíněně propuštěn na svobodu, znamená, že soud rozhodující o podmíněném propuštění seznal v chování pachatele polepšení a očekával, že pachatel povede nadále řádný život (viz hypotéza § 88 odst. 1 zákona č. 40/2009 Sb., trestního zákoníku). … Pokud má trestní právo plnit rehabilitační funkci, jak je stále častěji prosazováno v moderní teorii trestního práva, bylo by zcela v rozporu s tímto účelem, aby se na odsouzeného, který svým chováním splnil podmínky pro předčasné podmíněné propuštění z výkonu trestu, neboť je vzhledem ke všem okolnostem důvodné očekávat, že jeho chování nepovede k recidivě, bez dalšího hledělo jako na osobu, od níž hrozí nebezpečí závažného narušení veřejného pořádku…"
+
 #### Pojem
 **Klíčový institut** — během výkonu nepodmíněného OS může soud propustit odsouzeného „na podmínku" před uplynutím celé délky trestu.
 

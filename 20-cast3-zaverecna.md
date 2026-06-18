@@ -15,6 +15,11 @@
 
 ## § 419 — Přechodné ustanovení
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV.ÚS 2447/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-2447-10_1) — usnesení, 1. 2. 2012
+  > „… nejsou naplněny podmínky ustanovení § 419 tr. z., podle něhož se nevykonají pouze tresty za taková jednání, která již nejsou trestným činem. Zde je přitom nutno vyjít nikoli z toho, jak je trestné jednání označeno v marginální rubrice, ale z toho, zda lze jednání odsouzeného považovat za trestné i podle některé stávající skutkové podstaty"
+
 #### Pojem
 **Trest uložený přede dnem účinnosti TZ za čin, který podle TZ není trestným činem**, se **nevykoná** (resp. jeho nevykonaný zbytek).
 

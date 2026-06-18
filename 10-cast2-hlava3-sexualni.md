@@ -144,6 +144,11 @@ Postupné zostřování:
 
 ## § 187 — Pohlavní zneužití
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV.ÚS 3831/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3831-11_1) — usnesení, 3. 4. 2012
+  > „napadené ustanovení § 187 odst. 1 trestního zákoníku přiměřeným způsobem chrání zájmy osob mladších patnácti let jakožto osob zvlášť zranitelných. Objektem kritizovaného trestného činu přitom není jen biologický či tělesný (pohlavní) vývoj dítěte, jak ve své argumentaci naznačuje stěžovatel, ale také jeho vývoj mravní a duševní, přičemž tyto různé oblasti celkového dospívání a dozrávání člověka neprobíhají nutně (a často) zároveň… Celá společnost má totiž zájem na důsledné ochraně příznivého vývoje dětí, a tak spáchání dotčeného trestného činu nevyžaduje, aby došlo k narušení konkrétní zneužité osoby"
+
 ### Pojem
 **Soulož s dítětem mladším 15 let** nebo jeho jiné pohlavní zneužití.
 

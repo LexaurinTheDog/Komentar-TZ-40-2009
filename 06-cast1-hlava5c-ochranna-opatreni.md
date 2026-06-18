@@ -75,6 +75,13 @@ Upravuje **zákon o soudnictví ve věcech mládeže** (z. č. 218/2003 Sb.) —
 
 ### § 99 — Ochranné léčení (OL)
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 1128/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1128-14_1) — usnesení, 12. 8. 2014
+  > „cílem řízení o prodloužení ochranného léčení je periodický přezkum důvodů trvání ochranného léčení, kdy trvání těchto důvodů je nepochybně přezkoumáno i v řízení o změně formy ochranného léčení. Dvouletá lhůta pak běží od okamžiku zahájení výkonu změněné formy ochranného léčení"
+- *ÚS* [I.ÚS 1846/15](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1846-15_1) — usnesení, 24. 9. 2015
+  > „Ochranné léčení podle trestněprávní úpravy potrvá, dokud to vyžaduje účel léčby, nejdéle však dva roky. Nebude-li v dané době léčba ukončena, rozhodne soud před skončením doby o prodloužení ochranného léčení, a to i opakovaně, vždy však nejdéle o další dva roky; jinak rozhodne o propuštění z ochranného léčení (§ 72 odst. 6 zákona č. 140/1961 Sb., trestní zákon, ve znění pozdějších předpisů, a § 99 odst. 6 zákona č. 40/2009 Sb., trestní zákoník, ve znění pozdějších předpisů)"
+
 #### Pojem
 **Léčebný zásah pod státním dohledem** — pachatel je léčen ve zdravotnickém zařízení (ústavní léčení) nebo dochází na léčení (ambulantní). Cíl: **vyléčit nebo zmírnit duševní poruchu nebo závislost** tak, aby pacient přestal být pro společnost nebezpečný.
 
@@ -181,6 +188,13 @@ ZD je extrémně tvrdé opatření a v praxi se ukládá vzácně — typicky u 
 ---
 
 ### § 101 — Zabrání věci
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 2301/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2301-14_1) — nález, 19. 2. 2015
+  > „Orgány veřejné moci, v tomto případě obecný soud, musí rovněž důsledně sledovat účel, jemuž každé konkrétní zákonné omezení slouží a jehož naplňování představuje pro užití omezující právní normy nepřekročitelnou mez (srov. čl. 2 odst. 2 a čl. 4 odst. 4 Listiny). Ústavní soud tedy posoudil, zda krajský soud aplikoval předmětné ustanovení § 101 odst. 2 písm. a) trestního zákoníku v souladu s jeho účelem a smyslem"
+- *NSS* [30 Af 30/2022 - 39](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/714949) — 31. 8. 2023
+  > „Institut zabrání věci nalezneme též v trestním právu (§ 101 zákona č. 40/2009 Sb., trestní zákoník) a v obecné rovině slouží témuž cíli jako v právu přestupkovém. … „ochranná opatření působí preventivně, jejich primárním (a vlastně jediným) účelem je právě účinná ochrana společnosti před trestnými činy, resp. činy jinak trestnými, jde ovšem výlučně o prevenci individuální, nikoli generální (jako u trestů)"
 
 #### Pojem
 **Odebrání věci do vlastnictví státu** v situacích, kdy nelze uložit trest propadnutí věci podle § 70 (protože pachatel není odsouzen, nebo věc nepatří pachateli atd.).

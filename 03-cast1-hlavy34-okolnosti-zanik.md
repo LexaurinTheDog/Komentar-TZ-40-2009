@@ -204,6 +204,11 @@ Klíčová formulace: „**zájmy, o nichž tato osoba může bez omezení oprá
 > „(1) Trestný čin nespáchá, kdo v souladu s dosaženým stavem poznání a informacemi, které měl v době svého rozhodování o dalším postupu, vykonává v rámci svého zaměstnání, povolání, postavení nebo funkce společensky prospěšnou činnost, kterou ohrozí nebo poruší zájem chráněný trestním zákonem, nelze-li společensky prospěšného výsledku dosáhnout jinak.  
 > (2) Nejde o přípustné riziko, jestliže taková činnost ohrozí život nebo zdraví člověka, aniž by jím byl dán k ní v souladu s jiným právním předpisem souhlas, nebo výsledek, k němuž směřuje, zcela zřejmě neodpovídá míře rizika, anebo provádění této činnosti zřejmě odporuje požadavkům jiného právního předpisu, veřejnému zájmu, zásadám lidskosti nebo se příčí dobrým mravům."
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 As 6/2024 - 22](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/725789) — 18. 10. 2024
+  > „Okolnost vylučující protiprávnost (a tedy i přestupkovou odpovědnost) dle § 27 přestupkového zákona byla do přestupkového práva přebrána z trestního práva hmotného, kde je zakotvena v obdobně formulovaném § 31 odst. 1 zákona č. 40/2009 Sb., trestní zákon. Podle judikatury Nejvyššího soudu vztahující se k tomuto ustanovení, „je riziko určitý stav nejistoty, zdali se vůbec nebo v očekávané míře dostaví žádoucí následek, a to při vědomí, že může dojít také k následku negativnímu. … Riziko tak spočívá v jednání, které, pokud nastane následek relevantní z hlediska trestního práva, by vedlo k trestní odpovědnosti. V případě, že jsou však dodrženy určité podmínky a pravidla, je vyloučena protiprávnost takového jednání.“"
+
 #### Pojem přípustného rizika
 Nový institut zavedený TZ 2009 (starý zákon ho neměl). Reaguje na potřebu ospravedlnit jednání, které **objektivně může vést k poškození chráněného zájmu**, ale je **společensky žádoucí** — typicky vědecký výzkum, lékařské experimenty, sportovní aktivity s rizikem, klinické zkoušky, technologický vývoj.
 

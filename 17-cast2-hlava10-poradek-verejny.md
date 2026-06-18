@@ -403,6 +403,11 @@ Nadržování **osobě blízké NENÍ TRESTNÉ** — výjimečně **trestné**, 
 
 ### § 367 — Nepřekažení trestného činu
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 8/25](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-8-25_3) — nález, 25. 3. 2026
+  > „Současný český právní řád upravuje ve vztahu ke zpovědnímu tajemství výjimku z oznamovací povinnosti (§ 368 trestního zákoníku), tedy v souvislosti se skutkem, který se již stal, ale nikoli z nepřekažení trestného činu (§ 367 trestního zákoníku), tj. ze skutku, který je teprve plánován"
+
 #### Pojem
 **Hodnověrná znalost** o tom, že někdo **připravuje nebo páchá** taxativně vyjmenovaný TČ + nepřekazení → TČ. Sazba: až 3 roky.
 
@@ -420,6 +425,11 @@ Obsahuje **nejtěžší TČ**: vražda, těžké ublížení, mučení, obchodov
 **Včasné oznámení** SZ/policii (voják nadřízenému).
 
 ### § 368 — Neoznámení trestného činu
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 8/25](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-8-25_3) — nález, 25. 3. 2026
+  > „Výjimka z dopadů § 368 trestního zákoníku, tj. neoznámení trestného činu, chrání osoby v určitém postavení proto, že "v tomto postavení vykonávají určité společensky prospěšné činnosti, které pro řádné naplnění svého účelu vyžadují vysoký stupeň důvěry, jenž se s oznamovací povinností vylučuje, a zájem na dosažení účelu takových činností podle zákonodárce převažuje nad zájmem na oznámení uvedených trestných činů"
 
 #### Pojem
 **Pachatel se hodnověrně dozví o spáchání** taxativně vyjmenovaného TČ + **neoznámí** policii/SZ. Sazba: až 3 roky.

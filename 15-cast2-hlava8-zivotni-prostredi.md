@@ -45,6 +45,11 @@ TČ je **blanketní** — vyžaduje porušení **jiného právního předpisu** 
 ### § 294 — Z nedbalosti
 **Z hrubé nedbalosti** — analogická konstrukce. Sazba: až 6 měsíců / 2 roky (kvalifikované).
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 A 225/2015 - 48](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/448609) — 30. 11. 2018
+  > „Obdobný společenský zájem je pak chráněn i ust. § 294 zákona č. 40/2009 Sb., trestního zákoníku, ve znění pozdějších předpisů (poškození či ohrožení životního prostředí, přičemž životním prostředím se rozumí půda, voda, ovzduší, les nebo jiná složka životního prostředí)"
+
 ---
 
 ### § 294a — Poškození vodního zdroje
@@ -183,6 +188,11 @@ Sazba: až 3 roky.
 ## D. Zvířata (welfare)
 
 ### § 302 — Týrání zvířat (klíčový TČ)
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [41 A 12/2024 - 39](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/736626) — 4. 10. 2024
+  > „Týráním se ve smyslu § 4 zákona na ochranu zvířat proti týrání rozumí různé formy objektivně špatného či potenciálně nebezpečného zacházení se zvířaty, které není závislé na subjektivní (vnitřním) vztahu chovatele k nim. … Tím se týrání ve smyslu zákona na ochranu zvířat proti týrání odlišuje od trestného činu týrání zvířat podle § 302 zákona č. 40/2009 Sb., trestní zákoník, ve znění pozdějších předpisů, k jehož spáchání se ze strany pachatele vyžaduje úmysl, který se musí vztahovat i na konkrétní způsob týrání (tj. surovým nebo trýznivým způsobem)"
 
 #### Pojem (odst. 1)
 **Týrání zvířete surovým nebo trýznivým způsobem**. Sazba: **6 m — 3 r** + zákaz činnosti + propadnutí věci.

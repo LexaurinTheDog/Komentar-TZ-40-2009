@@ -19,6 +19,11 @@
 
 > „Čin je trestný, jen pokud jeho trestnost byla zákonem stanovena dříve, než byl spáchán."
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 A 123/2016 - 59](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/455951) — 14. 6. 2018
+  > „V oblasti trestání se pak shora uvedené principy odráží v zásadě nullum crimen, nulla poena sine lege (není zločinu ani trestu bez zákona), jež je výslovně zakotvena v trestním právu (§ 1 zákona č. 40/2009 Sb., trestní zákoník, ve znění pozdějších předpisů, čl. 7 odst. 1 Úmluvy o ochraně lidských práv a základních svobod), avšak jakožto zásadu vyvěrající ze samé podstaty právního státu ji je třeba … ctít i v oblasti správního trestání. … Z této zásady pak vyplývá mimo jiné požadavek na určité, jasné a přesné vyjádření skutkových podstat deliktů a zákaz analogie v neprospěch odpovědné osoby; není tak přípustné zejména rozšiřování podmínek odpovědnosti … nad rámec stanovený příslušnými zákony"
+
 ### Obsah ustanovení
 Ustanovení § 1 TZ vyjadřuje fundamentální zásadu právního státu: nikdo nemůže být trestán za jednání, které v okamžiku spáchání nebylo zákonem prohlášeno za trestné. Jde o **ústavně podloženou** zásadu — viz čl. 39 LZPS: „Jen zákon stanoví, které jednání je trestným činem a jaký trest, jakož i jaké jiné újmy na právech nebo majetku, lze za jeho spáchání uložit." A čl. 7 EÚLP: „Nikdo nesmí být odsouzen za jednání nebo opomenutí, které v době, kdy bylo spácháno, nebylo podle vnitrostátního či mezinárodního práva trestným činem."
 

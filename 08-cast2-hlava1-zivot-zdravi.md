@@ -75,6 +75,11 @@ Klíčové rozhodnutí: NS sp. zn. 7 Tdo 425/2014 — kritéria pro odlišení.
 
 > „Kdo jiného úmyslně usmrtí v silném rozrušení ze strachu, úleku, zmatku nebo jiného omluvitelného hnutí mysli anebo v důsledku předchozího zavrženíhodného jednání poškozeného, bude potrestán trestem odnětí svobody na tři léta až deset let."
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV.ÚS 3410/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3410-10_1) — usnesení, 28. 6. 2011
+  > „Užití ustanovení § 141 odst. 1 trestního zákoníku předpokládá silné rozrušení ze strachu, úleku, zmatku nebo jiného omluvitelného hnutí mysli; alternativně by mohlo jít o důsledek předchozího zavrženíhodného jednání poškozeného. Míra závažnosti předchozího zavrženíhodného jednání by pak měla být v odpovídajícím poměru k mimořádnému významu objektu trestného činu (ochrana lidského života). Silné rozrušení musí … navazovat na vnější podněty, které by muselo dosahovat mimořádné intenzity a závažnosti. … Mezi zavrženíhodným jednání poškozeného a jeho následným usmrcením musí být dána zřejmá příčinná souvislost"
+
 #### Privilegovaná skutková podstata
 Zabití je **mírnější forma vraždy** — pachatel jednal **úmyslně**, ale za okolností, které **omlouvají** jeho jednání.
 
@@ -221,6 +226,13 @@ Analogie k § 141 (zabití) pro úmyslné ublížení:
 - Základ: až 1 rok nebo zákaz činnosti.
 - Hrubé porušení + 2+ osob: až 3 roky.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [61 A 8/2019 - 61](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/415703) — 23. 6. 2020
+  > „Způsobí-li lyžař porušením této povinnosti z nedbalosti jinému těžkou újmu na zdraví, přichází v úvahu jeho trestní odpovědnost za trestný čin těžkého ublížení na zdraví z nedbalosti podle § 147 odst. 1 zákona č. 40/2009 Sb., trestního zákoníku"
+- *NSS* [9 As 206/2014 - 48](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/635422) — 2. 7. 2015
+  > „I s ohledem na trestněprávní judikaturu vztahující se k trestnému činu těžké ublížení na zdraví z nedbalosti podle § 147 zákona č. 40/2009 Sb., trestního zákoníku, který postihuje jednání vedoucí k závažnějším následkům na zdraví než přestupek dle § 49 odst. 1 písm. b) zákona o přestupcích, lze vyvodit závěr, že aby došlo ke spáchání trestného činu, či přestupku, musí být naplněn i předpoklad protiprávnosti jednání"
+
 #### Vztah k dopravním nehodám
 - Lehké ublížení v dopravní nehodě = obvykle **přestupek** (z. č. 250/2016 Sb.), nikoli TČ — pokud nedošlo k „důležité povinnosti" (alkohol, vysoká rychlost atd.).
 - Těžká újma → § 147 (nedbalostní těžké ublížení).
@@ -283,8 +295,18 @@ Neposkytnutí pomoci je často chápáno jako **opomenutí** — pachatel měl z
 
 ### § 152—153 — Šíření nakažlivé lidské nemoci (úmyslné a nedbalostní)
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 Af 8/2025 - 101](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/780823) — 26. 2. 2026
+  > „Jestliže je určitá nemoc uvedena na seznamu v příloze č. 1 k tomuto nařízení v době spáchání trestného činu šíření nakažlivé lidské nemoci podle § 152 zákona č. 40/2009 Sb., trestní zákoník, avšak v průběhu trestního řízení je z tohoto seznamu odstraněna, odpovědnost za tento dříve spáchaný trestný čin zaniká. … Citované ustanovení trestního zákoníku nelze bez prováděcího předpisu vůbec aplikovat, jelikož podle § 154 trestního zákoníku je trestné pouze šíření nemocí v něm uvedených"
+
 #### § 152 — Úmyslné šíření
 Sazba **6 měsíců — 3 roky** (základ), až **5—12 let** při smrti 2+ osob.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 Af 8/2025 - 101](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/780823) — 26. 2. 2026
+  > „Jestliže je určitá nemoc uvedena na seznamu v příloze č. 1 k tomuto nařízení v době spáchání trestného činu šíření nakažlivé lidské nemoci podle § 152 zákona č. 40/2009 Sb., trestní zákoník, avšak v průběhu trestního řízení je z tohoto seznamu odstraněna, odpovědnost za tento dříve spáchaný trestný čin zaniká. … Citované ustanovení trestního zákoníku nelze bez prováděcího předpisu vůbec aplikovat, jelikož podle § 154 trestního zákoníku je trestné pouze šíření nemocí v něm uvedených"
 
 #### § 153 — Z nedbalosti
 Nižší sazby.

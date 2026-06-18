@@ -349,6 +349,11 @@ Sazba: až 1 rok (základ), 1—3 / 2—8 / 5—12 let kvalifikované.
 - Co jsou rostliny/houby s drogou → **NV č. 463/2013 Sb.**
 - Co jsou anabolika/dopingové metody → **NV č. 454/2009 Sb.**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 13/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-13-12_1) — nález, 23. 7. 2013
+  > „Normou nižší právní síly, než je zákon, nelze stanovit mez, která zakládá trestnost činu. Pokud trestní zákoník zmocňuje vládu jako orgán moci výkonné k určení meze trestnosti podzákonnou normou, je takové ustanovení zákona v rozporu se zásadou nullum crimen sine lege vyjádřenou v čl. 39 Listiny"
+
 ---
 
 ## DÍL 2 — TČ ohrožující vzdušný dopravní prostředek, civilní plavidlo a pevnou plošinu

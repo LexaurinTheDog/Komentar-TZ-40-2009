@@ -73,6 +73,11 @@ Limit „**ponížení lidské důstojnosti**" je relevantní pro:
 > (2) Tam, kde postačí uložení trestní sankce pachatele méně postihující, nesmí být uložena trestní sankce pro pachatele citelnější.  
 > (3) Při ukládání trestních sankcí se přihlédne i k právem chráněným zájmům osob poškozených trestným činem."
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 2731/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2731-14_1) — nález, 13. 10. 2015
+  > „V tomto směru se pak musí do postupu soudů promítnout princip proporcionality zásahů do právního postavení obětí. Tento požadavek působí jak v oblasti hmotněprávní, kupříkladu při ukládání trestu (srov. ustanovení § 38 odst. 3 zákona č. 40/2009 Sb., trestní zákoník, ve znění pozdějších předpisů), tak při určování způsobu vedení každé fáze trestního řízení (srov. např. ustanovení § 209 trestního řádu)"
+
 #### Tři dimenze přiměřenosti
 
 **1. Přiměřenost k povaze a závažnosti TČ (odst. 1)** — sankce musí odpovídat tomu, **co pachatel udělal**. Bagatelní TČ nesnese těžké sankce; závažný TČ nemůže být vyřešen symbolickou sankcí.
@@ -103,8 +108,10 @@ Novější doplněk — soud musí přihlédnout k zájmům **obětí TČ**. Kon
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 4139/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB61D8F9675ACB40C1257DCF004104D9?openDocument) — 17. 12. 2014, kat. A
-  > „Vzdá-li se obžalovaný odvolání proti odsuzujícímu rozsudku, kterým mu je i ukládán trest podle zákona č. 40/2009 Sb., trestní zákoník, má se za to, že je se stanoveným druhem trestu a jeho výměrou srozuměn, a to i z hlediska kompenzace nepřiměřené délky trestního řízení, a nemůže se z důvodu nepřiměřené délky trestního řízení domáhat ještě zadostiučinění v penězích"
+- *ÚS* [Pl.ÚS 37/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-37-11_1) — nález, 30. 7. 2013
+  > „… zbaven možnosti přihlédnout k povaze a závažnosti spáchaného správního deliktu, k osobním, rodinným, majetkovým a jiným poměrům pachatele, k jeho dosavadnímu způsobu života a k možnosti jeho nápravy, k chování pachatele po činu, k účinkům a důsledkům, které lze očekávat od trestu pro budoucí život pachatele, k polehčujícím a přitěžujícím okolnostem atd., jak je typické pro trestní právo (§ 39 zákona č. 40/2009 Sb., trestní zákoník …)"
+- *NSS* [53 A 4/2017 - 38](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/510841) — 13. 12. 2017
+  > „Zásada zákazu dvojího přičítání má zabránit tomu, aby se jedna a tatáž skutečnost určité kvality hodnotila a přičítala pachateli dvakrát - jednou jako znak skutkové podstaty a podruhé znovu jako okolnost polehčující nebo přitěžující (§ 39 odst. 4 zákona č. 40/2009 Sb., trestní zákoník)"
 
 #### Faktory pro výběr trestu (odst. 1)
 Při stanovení **druhu a výměry** trestu soud přihlédne k:
@@ -262,6 +269,11 @@ Speciální pravidlo pro **mimořádné zvýšení trestu** — viz § 59.
 ---
 
 ### § 43 — Úhrnný a souhrnný trest
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [30 Af 8/2022 - 72](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/724571) — 31. 7. 2024
+  > „Při ukládání trestu za přestupky ve vícečinném souběhu je třeba při analogické aplikaci § 43 zákona č. 40/2009 Sb., trestní zákoník, ve znění pozdějších předpisů (dále jen „trestní zákoník“) uložit souhrnný trest při aplikaci absorpční zásady. Podstatné rysy absorpční zásady musí být aplikovány i v případě správního trestání …"
 
 #### Úhrnný trest (odst. 1)
 Pokud soud odsuzuje pachatele **současně za více TČ** (typicky obžaloba pokrývá více skutků), uloží **úhrnný trest**:
@@ -746,8 +758,8 @@ U **jiných TČ než ZZZ**: po výkonu/upuštění od peněžitého trestu **se 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 ICdo 142/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8398A6D36DD156EAC125877C00187F53?openDocument) — 23. 9. 2021, kat. A
-  > „Jestliže v průběhu insolvenčního řízení vyústí zkoumání (ne)platnosti právního úkonu týkajícího se majetku nebo závazků dlužníka jiným (než insolvenčním) soudem či jiným orgánem ve vydání rozhodnutí, jímž se žaloba o takové určení zamítá (ve zjištění, že není důvod vyslovit neplatnost právního úkonu), jde ve smyslu ustanovení § 231 odst. 1 insolvenčního zákona o „jiný způsob zjištění“ namítané neplatnosti, jímž insolvenční soud rovněž není vázán. Trest propadnutí věci uložený podle ustanovení § 70 tr. zák. dlužníku v průběhu insolvenčního řízení vedeného na jeho majetek je mimosmluvní sankcí postihující majetek dlužníka, jejíž uspokojení v insolvenčním řízení vedeném na majetek dlužníka zakazuje (znemožňuje) ustanovení § 170 písm. d/ insolvenčního zákona. Takový trest nelze vykonat (realizovat) za trvání insolvenčního řízení vedeného na majetek dlužníka a jeho uložení nemá vliv na…"
+- *NS* [29 ICdo 142/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8398A6D36DD156EAC125877C00187F53?openDocument) — kat. A, 23. 9. 2021
+  > „Trest propadnutí věci uložený podle ustanovení § 70 tr. zák. dlužníku v průběhu insolvenčního řízení vedeného na jeho majetek je mimosmluvní sankcí postihující majetek dlužníka, jejíž uspokojení v insolvenčním řízení vedeném na majetek dlužníka zakazuje (znemožňuje) ustanovení § 170 písm. d/ insolvenčního zákona. Takový trest nelze vykonat (realizovat) za trvání insolvenčního řízení vedeného na majetek dlužníka …"
 
 #### § 70 — Propadnutí věci
 **Obligatorní** — soud **musí** uložit propadnutí věci, která je **bezprostředním výnosem** z trestné činnosti (odst. 1).
@@ -765,8 +777,8 @@ U **jiných TČ než ZZZ**: po výkonu/upuštění od peněžitého trestu **se 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 ICdo 142/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8398A6D36DD156EAC125877C00187F53?openDocument) — 23. 9. 2021, kat. A
-  > „Jestliže v průběhu insolvenčního řízení vyústí zkoumání (ne)platnosti právního úkonu týkajícího se majetku nebo závazků dlužníka jiným (než insolvenčním) soudem či jiným orgánem ve vydání rozhodnutí, jímž se žaloba o takové určení zamítá (ve zjištění, že není důvod vyslovit neplatnost právního úkonu), jde ve smyslu ustanovení § 231 odst. 1 insolvenčního zákona o „jiný způsob zjištění“ namítané neplatnosti, jímž insolvenční soud rovněž není vázán. Trest propadnutí věci uložený podle ustanovení § 70 tr. zák. dlužníku v průběhu insolvenčního řízení vedeného na jeho majetek je mimosmluvní sankcí postihující majetek dlužníka, jejíž uspokojení v insolvenčním řízení vedeném na majetek dlužníka zakazuje (znemožňuje) ustanovení § 170 písm. d/ insolvenčního zákona. Takový trest nelze vykonat (realizovat) za trvání insolvenčního řízení vedeného na majetek dlužníka a jeho uložení nemá vliv na…"
+- *NS* [29 ICdo 142/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8398A6D36DD156EAC125877C00187F53?openDocument) — kat. A, 23. 9. 2021
+  > „Trest propadnutí věci uložený podle ustanovení § 70 tr. zák. dlužníku v průběhu insolvenčního řízení vedeného na jeho majetek je mimosmluvní sankcí postihující majetek dlužníka, jejíž uspokojení v insolvenčním řízení vedeném na majetek dlužníka zakazuje (znemožňuje) ustanovení § 170 písm. d/ insolvenčního zákona. Takový trest nelze vykonat (realizovat) za trvání insolvenčního řízení vedeného na majetek dlužníka …"
 
 #### § 71 — Náhradní hodnota
 Pokud pachatel věc před propadnutím **zničí/zcizí/zužitkuje**, soud uloží propadnutí **náhradní hodnoty** odpovídající ceně té věci.
