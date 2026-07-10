@@ -99,6 +99,10 @@ Aktuální znění k **1. 1. 2026** (zdroj: lokální výtah z e-Sbírky, soubor
 
 > Tento soubor (INDEX.md) je živý — aktualizuje se s každou iterací.
 
+## Právní modality
+
+- [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — výklad příkazů, zákazů, dovolení, zmocnění, oprávnění a povinností, domněnek a fikcí použitých v předpisu.
+
 ## Zásady z místní judikatury
 
 - [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
