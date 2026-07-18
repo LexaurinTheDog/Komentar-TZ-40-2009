@@ -88,6 +88,52 @@ V praxi § 1 funguje jako vstupní filtr: dříve než se zkoumá vina, je nutn�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a63f58404033dd3247c6 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+### Revizní doplnění k § 1 — Zákaz retroaktivity
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+#### Znění ustanovení
+
+> Čin je trestný, jen pokud jeho trestnost byla zákonem stanovena dříve, než byl spáchán.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a63f58404033dd3247c6 -->
+
 ## § 2 — Trestnost činu a doba jeho spáchání
 
 > „(1) Trestnost činu se posuzuje podle zákona účinného v době, kdy byl čin spáchán; podle pozdějšího zákona se posuzuje jen tehdy, jestliže to je pro pachatele příznivější.  
@@ -165,6 +211,58 @@ To má dopad i na běh **promlčecích lhůt** (§ 34 TZ — počítá se od dok
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=716feda3bbfbdede5b89 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+### Revizní doplnění k § 2 — Trestnost činu a doba jeho spáchání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+#### Znění ustanovení
+
+> (1) Trestnost činu se posuzuje podle zákona účinného v době, kdy byl čin spáchán; podle pozdějšího zákona se posuzuje jen tehdy, jestliže to je pro pachatele příznivější.
+>
+> (2) Jestliže se zákon změní během páchání činu, užije se zákona, který je účinný při dokončení jednání, kterým je čin spáchán.
+>
+> (3) Při pozdějších změnách zákona, který je účinný při dokončení jednání, jímž je čin spáchán, se užije zákona nejmírnějšího.
+>
+> (4) Čin je spáchán v době, kdy pachatel nebo účastník konal nebo v případě opomenutí byl povinen konat. Není rozhodující, kdy následek nastane nebo kdy měl nastat.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=716feda3bbfbdede5b89 -->
+
 ## § 3 — Užití zákona účinného v době rozhodování
 
 > „(1) Pachateli lze uložit vždy pouze takový druh trestu, který dovoluje uložit zákon účinný v době, kdy se o trestném činu rozhoduje.  
@@ -222,6 +320,54 @@ Pro **ochranná opatření** (ochranné léčení, zabezpečovací detence, zabr
 **Typicky rozhodné důkazy / podklady:** znění katalogu trestů v době činu a v době rozhodování, znalecké posudky odůvodňující ochranné opatření, srovnání sankčních sazeb.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=133c68ff8353aa2d231b generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+### Revizní doplnění k § 3 — Užití zákona účinného v době rozhodování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+#### Znění ustanovení
+
+> (1) Pachateli lze uložit vždy pouze takový druh trestu, který dovoluje uložit zákon účinný v době, kdy se o trestném činu rozhoduje.
+>
+> (2) O ochranném opatření se rozhodne vždy podle zákona účinného v době, kdy se o ochranném opatření rozhoduje.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=133c68ff8353aa2d231b -->
 
 ## § 4 — Zásada teritoriality
 
@@ -292,6 +438,66 @@ Zde se hodnotí pouze místní působnost; otázka, zda **jednání pachatele by
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4f811caa2de82ecbdcc3 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+### Revizní doplnění k § 4 — Zásada teritoriality
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+#### Znění ustanovení
+
+> (1) Podle zákona České republiky se posuzuje trestnost činu, který byl spáchán na jejím území.
+>
+> (2) Trestný čin se považuje za spáchaný na území České republiky,
+>
+> - a) dopustil-li se tu pachatel zcela nebo zčásti jednání, i když porušení nebo ohrožení zájmu chráněného trestním zákonem nastalo nebo mělo nastat zcela nebo zčásti v cizině, nebo
+>
+> - b) porušil-li nebo ohrozil-li tu pachatel zájem chráněný trestním zákonem nebo měl-li tu alespoň zčásti takový následek nastat, i když se jednání dopustil v cizině.
+>
+> (3) Účastenství je spácháno na území České republiky,
+>
+> - a) je-li tu spáchán čin pachatele, kdy místo spáchání takového činu se posuzuje obdobně podle odstavce 2, nebo
+>
+> - b) jednal-li tu zčásti účastník činu spáchaného v cizině.
+>
+> (4) Jednal-li účastník na území České republiky, užije se na účastenství zákona České republiky bez ohledu na to, zda je čin pachatele v cizině trestný.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4f811caa2de82ecbdcc3 -->
+
 ## § 5 — Zásada registrace
 
 > „Podle zákona České republiky se posuzuje též trestnost činu, který byl spáchán mimo území České republiky na palubě lodi nebo jiného plavidla, anebo letadla nebo jiného vzdušného dopravního prostředku, které jsou registrovány v České republice. Místo spáchání takového činu se posuzuje obdobně podle § 4 odst. 2 a 3."
@@ -347,6 +553,52 @@ Vraždu spáchanou na palubě letadla ČSA letícího nad Atlantikem soudí čes
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c941ce92ee4d320a7e43 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+### Revizní doplnění k § 5 — Zásada registrace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+#### Znění ustanovení
+
+> Podle zákona České republiky se posuzuje též trestnost činu, který byl spáchán mimo území České republiky na palubě lodi nebo jiného plavidla, anebo letadla nebo jiného vzdušného dopravního prostředku, které jsou registrovány v České republice. Místo spáchání takového činu se posuzuje obdobně podle § 4 odst. 2 a [[#§ 3|3.]]
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4, § 3
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c941ce92ee4d320a7e43 -->
+
 ## § 6 — Zásada personality (aktivní)
 
 > „Podle zákona České republiky se posuzuje i trestnost činu, který v cizině spáchal občan České republiky nebo osoba bez státní příslušnosti, která má na jejím území povolen trvalý pobyt."
@@ -401,6 +653,52 @@ Pokud byl občan ČR za daný čin už pravomocně odsouzen v cizině, otevírá
 **Typicky rozhodné důkazy / podklady:** doklad o státním občanství ČR (či trvalém pobytu apatridy), listiny a výpovědi o jednání v cizině, výpis z Rejstříku trestů/ECRIS, cizí trestní spis.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8e95624074e768875dd7 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+### Revizní doplnění k § 6 — Zásada personality
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+#### Znění ustanovení
+
+> Podle zákona České republiky se posuzuje i trestnost činu, který v cizině spáchal občan České republiky nebo osoba bez státní příslušnosti, která má na jejím území povolen trvalý pobyt.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8e95624074e768875dd7 -->
 
 ## § 7 — Zásada ochrany a zásada univerzality
 
@@ -467,6 +765,54 @@ Univerzalitní princip vychází z **mezinárodněprávní povinnosti** (či mo�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e989af5ad742e3273173 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+### Revizní doplnění k § 7 — Zásada ochrany a zásada univerzality
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+#### Znění ustanovení
+
+> (1) Podle zákona České republiky se posuzuje trestnost mučení a jiného nelidského a krutého zacházení ([[#§ 149|§ 149]]), padělání a pozměnění peněz ([[#§ 233|§ 233]]), udávání padělaných a pozměněných peněz ([[#§ 235|§ 235]]), výroby a držení padělatelského náčiní a zařízení určeného k neoprávněnému získání platebního prostředku ([[#§ 236|§ 236]]), neoprávněné výroby peněz ([[#§ 237|§ 237]]), rozvracení republiky ([[#§ 310|§ 310]]), teroristického útoku ([[#§ 311|§ 311]]), teroru ([[#§ 312|§ 312]]), účasti na teroristické skupině ([[#§ 312a|§ 312a]]), financování terorismu ([[#§ 312d|§ 312d]]), podpory a propagace terorismu ([[#§ 312e|§ 312e]]), vyhrožování teroristickým trestným činem ([[#§ 312f|§ 312f]]), sabotáže ([[#§ 314|§ 314]]), vyzvědačství ([[#§ 316|§ 316]]), násilí proti orgánu veřejné moci ([[#§ 323|§ 323]]), násilí proti úřední osobě ([[#§ 325|§ 325]]), padělání a pozměnění veřejné listiny ([[#§ 348|§ 348]]), genocidia ([[#§ 400|§ 400]]), útoku proti lidskosti ([[#§ 401|§ 401]]), apartheidu a diskriminace skupiny lidí ([[#§ 402|§ 402]]), přípravy útočné války ([[#§ 406|§ 406]]), použití zakázaného bojového prostředku a nedovoleného vedení boje ([[#§ 411|§ 411]]), válečné krutosti ([[#§ 412|§ 412]]), perzekuce obyvatelstva ([[#§ 413|§ 413]]), plenění v prostoru válečných operací ([[#§ 414|§ 414]]), zneužití mezinárodně uznávaných a státních znaků ([[#§ 415|§ 415]]), zneužití vlajky a příměří ([[#§ 416|§ 416]]) a ublížení parlamentáři ([[#§ 417|§ 417]]) i tehdy, spáchal-li takový trestný čin v cizině cizí státní příslušník nebo osoba bez státní příslušnosti, která nemá na území České republiky povolen trvalý pobyt.
+>
+> (2) Podle zákona České republiky se posuzuje trestnost činu, který byl spáchán v cizině proti občanu České republiky nebo proti osobě bez státní příslušnosti, která má na území České republiky povolen trvalý pobyt, jestliže je čin v místě spáchání činu trestný nebo jestliže místo spáchání činu nepodléhá žádné trestní pravomoci.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 149, § 233, § 235, § 236, § 237, § 310, § 311, § 312, § 312a, § 312d, § 312e, § 312f, § 314, § 316, § 323, § 325, § 348, § 400, § 401, § 402, § 406, § 411, § 412, § 413, § 414, § 415, § 416, § 417
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e989af5ad742e3273173 -->
+
 ## § 8 — Subsidiární zásada univerzality
 
 > „(1) Podle zákona České republiky se posuzuje trestnost činu spáchaného v cizině cizím státním příslušníkem nebo osobou bez státní příslušnosti, která nemá na území České republiky povolen trvalý pobyt, i tehdy, jestliže  
@@ -532,6 +878,62 @@ Pokud jde o předání podle Evropského zatýkacího rozkazu (zákon č. 104/20
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6b9133310577368ebfae generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+### Revizní doplnění k § 8 — Subsidiární zásada univerzality
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+#### Znění ustanovení
+
+> (1) Podle zákona České republiky se posuzuje trestnost činu spáchaného v cizině cizím státním příslušníkem nebo osobou bez státní příslušnosti, která nemá na území České republiky povolen trvalý pobyt, i tehdy, jestliže
+>
+> - a) čin je trestný i podle zákona účinného na území, kde byl spáchán,
+>
+> - b) pachatel byl dopaden na území České republiky, proběhlo vydávací nebo předávací řízení a pachatel nebyl vydán nebo předán k trestnímu stíhání nebo výkonu trestu cizímu státu nebo jinému oprávněnému subjektu a
+>
+> - c) cizí stát nebo jiný oprávněný subjekt, který žádal o vydání nebo předání pachatele k trestnímu stíhání nebo výkonu trestu, požádal o provedení trestního stíhání pachatele v České republice.
+>
+> (2) Podle zákona České republiky se posuzuje trestnost činu spáchaného v cizině cizím státním příslušníkem nebo osobou bez státní příslušnosti, která nemá na území České republiky povolen trvalý pobyt, také tehdy, byl-li čin spáchán ve prospěch právnické osoby, která má na území České republiky sídlo nebo organizační složku.
+>
+> (3) Pachateli však nelze uložit trest přísnější, než jaký stanoví zákon státu, na jehož území byl trestný čin spáchán.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6b9133310577368ebfae -->
+
 ## § 9 — Působnost stanovená mezinárodní smlouvou
 
 > „(1) Trestnost činu se posuzuje podle zákona České republiky také tehdy, jestliže to stanoví mezinárodní smlouva, která je součástí právního řádu (dále jen „mezinárodní smlouva").  
@@ -585,6 +987,54 @@ Pokud jde o předání podle Evropského zatýkacího rozkazu (zákon č. 104/20
 **Typicky rozhodné důkazy / podklady:** text a údaj o vyhlášení smlouvy ve Sbírce mezinárodních smluv, doklad o statusu osoby (SOFA), podklady o povaze činu (ve službě), případná prováděcí ujednání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e7f7fa7f6f09562ed3f0 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+### Revizní doplnění k § 9 — Působnost stanovená mezinárodní smlouvou
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+#### Znění ustanovení
+
+> (1) Trestnost činu se posuzuje podle zákona České republiky také tehdy, jestliže to stanoví mezinárodní smlouva, která je součástí právního řádu (dále jen „mezinárodní smlouva“).
+>
+> (2) Ustanovení § 4 až 8 se nepoužijí, jestliže to mezinárodní smlouva nepřipouští.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e7f7fa7f6f09562ed3f0 -->
 
 ## § 11 — Účinky rozsudku cizího státu
 
@@ -649,6 +1099,54 @@ Implementace **rámcového rozhodnutí Rady 2008/675/SVV** o zohledňování ods
 **Typicky rozhodné důkazy / podklady:** výpis z Rejstříku trestů a z ECRIS, stejnopis cizího rozsudku, srovnání skutkových podstat (oboustranná trestnost), podklady pro převzetí výkonu trestu podle MJS/mezinárodní smlouvy.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1383e151bd9fc60023a5 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+### Revizní doplnění k § 11 — Účinky rozsudku cizího státu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+#### Znění ustanovení
+
+> (1) Trestní rozsudek cizího státu nemůže být vykonán na území České republiky ani tu mít jiné účinky, nestanoví-li zákon nebo mezinárodní smlouva něco jiného.
+>
+> (2) Na pravomocné odsouzení soudem jiného členského státu Evropské unie v trestním řízení se pro účely trestního řízení hledí jako na odsouzení soudem České republiky, pokud bylo vydáno pro čin trestný i podle práva České republiky.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1383e151bd9fc60023a5 -->
 
 ## Shrnutí Hlavy I
 

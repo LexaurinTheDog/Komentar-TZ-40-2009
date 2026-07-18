@@ -79,6 +79,72 @@ Obecné ohrožení podle § 272 je úmyslný ohrožovací delikt mířící na n
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5c7dfd5dc85c42735f56 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 272 — Obecné ohrožení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo úmyslně způsobí obecné nebezpečí tím, že vydá lidi v nebezpečí smrti nebo těžké újmy na zdraví nebo cizí majetek v nebezpečí škody velkého rozsahu tím, že zapříčiní požár nebo povodeň nebo škodlivý účinek výbušnin, plynu, elektřiny nebo jiných podobně nebezpečných látek nebo sil nebo se dopustí jiného podobného nebezpečného jednání, nebo
+> kdo takové obecné nebezpečí zvýší anebo ztíží jeho odvrácení nebo zmírnění,
+> bude potrestán odnětím svobody na tři léta až osm let.
+>
+> (2) Odnětím svobody na osm až patnáct let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 jako člen organizované skupiny,
+>
+> - b) spáchá-li takový čin opětovně v krátké době,
+>
+> - c) způsobí-li takovým činem škodu velkého rozsahu, nebo
+>
+> - d) způsobí-li takovým činem těžkou újmu na zdraví nejméně dvou osob nebo smrt.
+>
+> (3) Odnětím svobody na dvanáct až dvacet let nebo výjimečným trestem bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 úmyslně smrt, nebo
+>
+> - b) spáchá-li takový čin za stavu ohrožení státu nebo za válečného stavu.
+>
+> (4) Příprava je trestná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5c7dfd5dc85c42735f56 -->
+
 ### § 273 — Obecné ohrožení z nedbalosti
 
 #### Pojem
@@ -129,6 +195,70 @@ Sazba: až 2 roky (základ), 6 m—5 let / 2—8 / 3—10 let kvalifikované.
 **Typicky rozhodné důkazy / podklady:** znalecký posudek (příčina havárie), bezpečnostní a technologická dokumentace, provozní řády a předpisy BOZP, záznamy řídicích a monitorovacích systémů, doklady o výši škody a zdravotnická dokumentace.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=85d21e56e28d74badd05 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 273 — Obecné ohrožení z nedbalosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo z nedbalosti způsobí obecné nebezpečí tím, že vydá lidi v nebezpečí smrti nebo těžké újmy na zdraví nebo cizí majetek v nebezpečí škody velkého rozsahu tím, že zapříčiní požár nebo povodeň nebo škodlivý účinek výbušnin, plynu, elektřiny nebo jiných podobně nebezpečných látek nebo sil nebo se dopustí jiného podobného nebezpečného jednání, nebo
+> kdo z nedbalosti takové obecné nebezpečí zvýší nebo ztíží jeho odvrácení nebo zmírnění,
+> bude potrestán odnětím svobody až na dvě léta nebo zákazem činnosti.
+>
+> (2) Odnětím svobody na šest měsíců až pět let nebo zákazem činnosti bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 těžkou újmu na zdraví,
+>
+> - b) spáchá-li takový čin proto, že porušil důležitou povinnost vyplývající z jeho zaměstnání, povolání, postavení nebo funkce nebo uloženou mu podle zákona, nebo
+>
+> - c) způsobí-li takovým činem značnou škodu.
+>
+> (3) Odnětím svobody na dvě léta až osm let bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 smrt, nebo
+>
+> - b) způsobí-li činem uvedeným v odstavci 2 písm. b) škodu velkého rozsahu nebo těžkou újmu na zdraví.
+>
+> (4) Odnětím svobody na tři léta až deset let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 2 písm. b) smrt.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=85d21e56e28d74badd05 -->
 
 ### § 274 — Ohrožení pod vlivem návykové látky (klasický dopravní TČ)
 
@@ -195,6 +325,60 @@ Při způsobení **těžké újmy/smrti**: § 274 + § 143 (usmrcení z nedbalos
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3dbf83129a7ebc0c6033 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 274 — Ohrožení pod vlivem návykové látky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo vykonává ve stavu vylučujícím způsobilost, který si přivodil vlivem návykové látky, zaměstnání nebo jinou činnost, při kterých by mohl ohrozit život nebo zdraví lidí nebo způsobit značnou škodu na majetku, bude potrestán odnětím svobody až na jeden rok, peněžitým trestem nebo zákazem činnosti.
+>
+> (2) Odnětím svobody na šest měsíců až tři léta, peněžitým trestem nebo zákazem činnosti bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 havárii, dopravní nebo jinou nehodu, jinému ublížení na zdraví nebo větší škodu na cizím majetku nebo jiný závažný následek,
+>
+> - b) spáchá-li takový čin při výkonu zaměstnání nebo jiné činnosti, při kterých je vliv návykové látky zvlášť nebezpečný, zejména řídí-li hromadný dopravní prostředek, nebo
+>
+> - c) byl-li za takový čin v posledních dvou letech odsouzen nebo z výkonu trestu odnětí svobody uloženého za takový čin propuštěn.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3dbf83129a7ebc0c6033 -->
+
 ### § 275 — Porušení povinnosti při hrozivé tísni
 **Záchranářská povinnost při hromadných katastrofách**. Pachatel s povinností pomoci (záchranář, hasič, lékař) **odepře pomoc** nebo **zmaří pomoc jiného**, postiženo více osob (větší skupina). Sazba: až 3 roky.
 
@@ -236,6 +420,58 @@ Při způsobení **těžké újmy/smrti**: § 274 + § 143 (usmrcení z nedbalos
 **Typicky rozhodné důkazy / podklady:** doklady o služebním/pracovním zařazení a povinnostech, dokumentace zásahu IZS, výpovědi svědků a zasahujících, zdravotnická dokumentace postižených.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=edc089978b3b948cb619 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 275 — Porušení povinnosti při hrozivé tísni
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> Kdo zmaří nebo ztíží odvrácení nebo zmírnění hrozivé tísně, která přímo postihuje větší skupinu osob, tím, že bez závažného důvodu
+>
+> - a) odepře pomoc, která je mu podle zákona uložena nebo k níž se zavázal, nebo
+>
+> - b) zmaří poskytnutí takové pomoci jinou osobou,
+>
+> bude potrestán odnětím svobody až na tři léta nebo zákazem činnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=edc089978b3b948cb619 -->
 
 ### § 276—277 — Poškození obecně prospěšného zařízení (úmyslné i nedbalostní)
 
@@ -289,6 +525,118 @@ Při způsobení **těžké újmy/smrti**: § 274 + § 143 (usmrcení z nedbalos
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=202b6e0c443a118e19e2 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 276 — Poškození a ohrožení provozu obecně prospěšného zařízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo úmyslně poškodí obecně prospěšné zařízení nebo ohrozí jeho provoz nebo využívání, bude potrestán odnětím svobody až na tři léta nebo zákazem činnosti.
+>
+> (2) Odnětím svobody na jeden rok až šest let bude pachatel potrestán,
+>
+> - a) zničí-li, odstraní-li nebo učiní-li neupotřebitelným obecně prospěšné zařízení,
+>
+> - b) způsobí-li činem uvedeným v odstavci 1 poruchu provozu obecně prospěšného zařízení, nebo
+>
+> - c) způsobí-li takovým činem značnou škodu.
+>
+> (3) Odnětím svobody na dvě léta až osm let bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 nebo 2 písm. a) škodu velkého rozsahu, nebo
+>
+> - b) spáchá-li takový čin za stavu ohrožení státu nebo za válečného stavu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=202b6e0c443a118e19e2 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=bd455e99044c6ed65e5d generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 277 — Poškození a ohrožení provozu obecně prospěšného zařízení z nedbalosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo z hrubé nedbalosti zničí, poškodí, odstraní nebo učiní neupotřebitelným obecně prospěšné zařízení nebo ohrozí provoz obecně prospěšného zařízení, bude potrestán odnětím svobody až na jeden rok nebo zákazem činnosti.
+>
+> (2) Odnětím svobody až na tři léta bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 škodu velkého rozsahu, nebo
+>
+> - b) spáchá-li takový čin za stavu ohrožení státu nebo za válečného stavu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bd455e99044c6ed65e5d -->
+
 ### § 278 — Poškození geodetického bodu
 Speciální TČ pro **geodetické body** (základní geodynamická síť, nivelační síť, tíhové body, **GPS stanice**). Sazba: až 2 roky.
 
@@ -332,6 +680,66 @@ Ochrana **kartografického a navigačního systému** ČR. Bez geodetických bod
 **Typicky rozhodné důkazy / podklady:** evidenční listy a souřadnice bodu, fotodokumentace označení, geodetické přeměření, doklady o informování pachatele, výpovědi.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c753bdbb37d555a9bb58 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 278 — Poškození geodetického bodu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo úmyslně zničí, poškodí nebo učiní neupotřebitelnou značku
+>
+> - a) geodetického bodu základní geodynamické sítě,
+>
+> - b) geodetického bodu referenční sítě nultého řádu,
+>
+> - c) geodetického bodu referenční sítě doplněného nultého řádu,
+>
+> - d) základního nivelačního geodetického bodu, nebo
+>
+> - e) absolutního tíhového geodetického bodu,
+>
+> bude potrestán odnětím svobody až na dvě léta.
+>
+> (2) Stejně bude potrestán, kdo úmyslně zničí, poškodí nebo učiní neupotřebitelným zařízení permanentní stanice pro příjem signálů globálních navigačních systémů České sítě permanentních stanic pro určování polohy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c753bdbb37d555a9bb58 -->
 
 ### § 279 — Nedovolené ozbrojování (klíčový TČ pro zbraně)
 
@@ -405,6 +813,70 @@ Sazba: **6 měsíců — 5 let**.
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d6066682a73138320d47 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 279 — Nedovolené ozbrojování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo bez povolení vyrobí, sobě nebo jinému opatří nebo přechovává střelnou zbraň nebo její hlavní části, tlumič hluku výstřelu, munici anebo ve větším množství střelivo nebo polotovary hlavních částí zbraně, bude potrestán odnětím svobody až na dvě léta, zákazem činnosti nebo propadnutím věci.
+>
+> (2) Stejně bude potrestán, kdo padělá, pozmění, zahlazuje nebo odstraňuje jedinečné označení střelné zbraně, které umožňuje její identifikaci.
+>
+> (3) Kdo bez povolení
+>
+> - a) vyrobí, sobě nebo jinému opatří nebo přechovává v množství větším než malém munici, výbušninu nebo pyrotechnický výrobek, pokud je pro zacházení s ním potřebná odborná způsobilost, zbraň hromadně účinnou nebo součástky, jichž je k užití takové zbraně nezbytně třeba, nebo
+>
+> - b) hromadí, vyrábí nebo sobě nebo jinému opatřuje zbraně nebo ve značném množství střelivo,
+>
+> bude potrestán odnětím svobody na šest měsíců až pět let.
+>
+> (4) Odnětím svobody na dvě léta až osm let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 3 jako člen organizované skupiny,
+>
+> - b) spáchá-li takový čin ve větším rozsahu, nebo
+>
+> - c) spáchá-li takový čin za stavu ohrožení státu nebo za válečného stavu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d6066682a73138320d47 -->
+
 ### § 280 — Vývoj, výroba a držení zakázaných bojových prostředků
 
 #### Pojem
@@ -458,6 +930,64 @@ Sazba: **2—8 let** + propadnutí majetku (základ), **5—12 let** + propadnut
 **Typicky rozhodné důkazy / podklady:** pyrotechnický/znalecký posudek o povaze a funkčnosti prostředku, dokumentace nálezu, doklady o zákazu (mezinárodní úmluva), komunikace o výrobě/prodeji, inventarizace.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8cab015f76146dcd625b generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 280 — Vývoj, výroba a držení zakázaných bojových prostředků
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo vyrobí, doveze, vyveze, proveze, vyvíjí, přechovává nebo hromadí zbraně, bojové prostředky, munici nebo výbušniny zakázané zákonem nebo mezinárodní smlouvou anebo s nimi jinak nakládá, bude potrestán odnětím svobody na dvě léta až osm let nebo propadnutím majetku.
+>
+> (2) Stejně bude potrestán, kdo provozy určené k vývoji, výrobě nebo skladování zbraní, bojových prostředků, munice nebo výbušnin uvedených v odstavci 1 projektuje, staví nebo užívá.
+>
+> (3) Odnětím svobody na pět až dvanáct let nebo propadnutím majetku bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 nebo [[#§ 2|2]] jako člen organizované skupiny,
+>
+> - b) spáchá-li takový čin ve větším rozsahu, nebo
+>
+> - c) spáchá-li takový čin za stavu ohrožení státu nebo za válečného stavu.
+>
+> (4) Příprava je trestná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8cab015f76146dcd625b -->
 
 ### § 281—281a — Radioaktivní a vysoce nebezpečné látky
 
@@ -582,6 +1112,118 @@ V praxi § 281 dopadá na neoprávněné nakládání s radioaktivními a vysoce
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=aac2acfca67a65ee14a5 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 281 — Nedovolená výroba a držení radioaktivní látky a vysoce nebezpečné látky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo bez povolení, byť i z hrubé nedbalosti, vyrobí, doveze, vyveze, proveze, přechovává anebo jinému obstará radioaktivní látku nebo vysoce nebezpečnou látku nebo předměty určené k její výrobě, bude potrestán odnětím svobody na jeden rok až pět let nebo zákazem činnosti.
+>
+> (2) Odnětím svobody na dvě léta až deset let nebo propadnutím majetku bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 těžkou újmu na zdraví,
+>
+> - b) spáchá-li takový čin ve větším rozsahu, nebo
+>
+> - c) získá-li takovým činem pro sebe nebo pro jiného značný prospěch.
+>
+> (3) Odnětím svobody na osm až šestnáct let nebo propadnutím majetku bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 těžkou újmu na zdraví nejméně dvou osob nebo smrt,
+>
+> - b) získá-li takovým činem pro sebe nebo pro jiného prospěch velkého rozsahu,
+>
+> - c) spáchá-li takový čin jako člen organizované skupiny, nebo
+>
+> - d) spáchá-li takový čin za stavu ohrožení státu nebo za válečného stavu.
+>
+> (4) Příprava je trestná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=aac2acfca67a65ee14a5 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=cef715cf69f0e3266cc1 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 281a — Vysoce nebezpečná látka
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> Vysoce nebezpečnou látkou se pro účely tohoto zákona rozumí látka zařazená do seznamu 1 v příloze Úmluvy o zákazu vývoje, výroby, hromadění zásob a použití chemických zbraní a o jejich zničení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cef715cf69f0e3266cc1 -->
+
 ### § 282 — Jaderný materiál
 
 #### Pojem
@@ -635,6 +1277,56 @@ V praxi § 281 dopadá na neoprávněné nakládání s radioaktivními a vysoce
 **Typicky rozhodné důkazy / podklady:** izotopová/znalecká analýza materiálu, evidence jaderného zařízení a inventura materiálu, doklady o absenci povolení, komunikace o prodeji, podklady o mezinárodním kontextu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8f2643d3a1c2959841c8 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 282 — Nedovolená výroba a držení jaderného materiálu a zvláštního štěpného materiálu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo bez povolení, byť i z hrubé nedbalosti, vyrobí, doveze, vyveze, proveze, přechovává anebo jinému obstará výchozí jaderný materiál nebo předměty určené k jeho výrobě, bude potrestán odnětím svobody na dva roky až deset let.
+>
+> (2) Kdo bez povolení, byť i z hrubé nedbalosti, vyrobí, doveze, vyveze, proveze, přechovává anebo jinému obstará zvláštní štěpný materiál nebo předměty určené k jeho výrobě, bude potrestán odnětím svobody na osm až patnáct let.
+>
+> (3) Příprava je trestná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8f2643d3a1c2959841c8 -->
 
 ### § 283 — Neoprávněná výroba a nakládání s drogami (klíčový „toxikomanský paragraf")
 
@@ -719,6 +1411,82 @@ Sazba: **1—5 let**.
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=17e28b19c7e624043631 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 283 — Neoprávněná výroba a jiné nakládání s omamnými nebo psychotropními látkami, s rostlinami nebo houbami je obsahujícími nebo s jedy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo neoprávněně vyrobí, doveze, vyveze, proveze, nabídne, zprostředkuje, prodá nebo jinak jinému opatří nebo pro jiného přechovává omamnou nebo psychotropní látku, přípravek obsahující omamnou nebo psychotropní látku, prekursor nebo jed, nebo kdo neoprávněně pro jiného pěstuje, sklízí, sbírá nebo zpracovává rostlinu nebo houbu obsahující omamnou nebo psychotropní látku, bude potrestán odnětím svobody na jeden rok až pět let.
+>
+> (2) Odnětím svobody na dvě léta až deset let nebo propadnutím majetku bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1
+>
+> - a) jako člen organizované skupiny,
+>
+> - b) ač byl za takový čin v posledních třech letech odsouzen nebo potrestán,
+>
+> - c) ve značném rozsahu, nebo
+>
+> - d) ve větším rozsahu vůči dítěti nebo v množství větším než malém vůči dítěti mladšímu patnácti let.
+>
+> (3) Odnětím svobody na pět až dvanáct let nebo propadnutím majetku bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 těžkou újmu na zdraví,
+>
+> - b) spáchá-li takový čin v úmyslu získat pro sebe nebo pro jiného značný prospěch,
+>
+> - c) spáchá-li takový čin ve velkém rozsahu, nebo
+>
+> - d) spáchá-li takový čin ve větším rozsahu vůči dítěti mladšímu patnácti let.
+>
+> (4) Odnětím svobody na osm až osmnáct let nebo propadnutím majetku bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 těžkou újmu na zdraví nejméně dvou osob nebo smrt,
+>
+> - b) spáchá-li takový čin v úmyslu získat pro sebe nebo pro jiného prospěch velkého rozsahu, nebo
+>
+> - c) spáchá-li takový čin ve spojení s organizovanou skupinou působící ve více státech.
+>
+> (5) Příprava je trestná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=17e28b19c7e624043631 -->
+
 ### § 283a — Nedovolená výroba a nakládání s konopím (mírnější)
 
 **Nová SP zavedená novelou č. 418/2021 Sb.** — **mírnější** sazby pro konopí (cannabis) než pro „tvrdé" drogy podle § 283.
@@ -771,6 +1539,94 @@ Pokud jde o **konopí**, použije se § 283a (lex specialis). Pro ostatní drogy
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=90d23d10f9112fed96e5 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 283a — Nedovolená výroba a jiné nakládání s konopím
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo neoprávněně vyrobí, doveze, vyveze, proveze, nabídne, zprostředkuje, prodá nebo jinak jinému opatří konopí nebo přípravek obsahující omamnou nebo psychotropní látku získanou z konopí, bude potrestán odnětím svobody až na jeden rok.
+>
+> (2) Odnětím svobody až na dvě léta bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 ve větším rozsahu.
+>
+> (3) Odnětím svobody až na tři léta bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1
+>
+> - a) jako člen organizované skupiny,
+>
+> - b) ač byl za takový čin v posledních třech letech odsouzen nebo potrestán,
+>
+> - c) ve značném rozsahu.
+>
+> (4) Odnětím svobody až na pět let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1
+>
+> - a) ve velkém rozsahu,
+>
+> - b) vůči dítěti.
+>
+> (5) Odnětím svobody na dvě léta až osm let nebo propadnutím majetku bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1
+>
+> - a) v úmyslu získat pro sebe nebo pro jiného značný prospěch,
+>
+> - b) ve spojení s organizovanou skupinou působící ve více státech.
+>
+> (6) Odnětím svobody na pět až deset let nebo propadnutím majetku bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1
+>
+> - a) ve větším rozsahu vůči dítěti nebo vůči dítěti mladšímu patnácti let,
+>
+> - b) v úmyslu získat pro sebe nebo pro jiného prospěch velkého rozsahu.
+>
+> (7) Odnětím svobody na pět až dvanáct let nebo propadnutím majetku bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 těžkou újmu na zdraví,
+>
+> - b) spáchá-li takový čin ve větším rozsahu vůči dítěti mladšímu patnácti let.
+>
+> (8) Odnětím svobody na osm až osmnáct let nebo propadnutím majetku bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 těžkou újmu na zdraví nejméně dvou osob nebo smrt,
+>
+> - b) spáchá-li čin uvedený v odstavci 1 ve spojení s organizovanou skupinou působící ve více státech v úmyslu získat značný prospěch pro sebe nebo pro jiného.
+>
+> (9) Příprava je trestná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=90d23d10f9112fed96e5 -->
+
 ### § 284 — Přechovávání pro vlastní potřebu
 
 #### Pojem
@@ -820,6 +1676,56 @@ Drobné množství (do hranice „větší než malé") = **přestupek** (§ 30 
 **Typicky rozhodné důkazy / podklady:** vážení a toxikologická analýza, fotodokumentace nálezu (balení, dávkování), absence/přítomnost distribučního vybavení, finanční stopy, výpověď uživatele.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9b65a6ff28fffb213852 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 284 — Neoprávněné přechovávání omamné nebo psychotropní látky nebo jedu pro vlastní potřebu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo neoprávněně pro vlastní potřebu přechovává omamnou nebo psychotropní látku nebo jed v množství větším než malém, bude potrestán odnětím svobody až na dvě léta, zákazem činnosti nebo propadnutím věci.
+>
+> (2) Odnětím svobody na šest měsíců až pět let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 ve větším rozsahu.
+>
+> (3) Odnětím svobody na dvě léta až osm let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 ve značném rozsahu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9b65a6ff28fffb213852 -->
 
 ### § 285 — Pěstování pro vlastní potřebu
 
@@ -879,6 +1785,80 @@ Sazba: až 6 měsíců (základ).
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5938e81e299ead039eb7 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 285 — Neoprávněné pěstování rostliny nebo houby obsahující omamnou nebo psychotropní látku a jiné nakládání s ní pro vlastní potřebu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo neoprávněně pro vlastní potřebu pěstuje, sklízí nebo zpracovává více než 5 rostlin z rodu konopí, nejde-li o rostlinu konopí obsahující nejvýše 1 % látek ze skupiny tetrahydrokanabinolů, bude potrestán odnětím svobody až na šest měsíců, zákazem činnosti nebo propadnutím věci.
+>
+> (2) Stejně bude potrestán, kdo neoprávněně pro vlastní potřebu přechovává omamnou látku konopí anebo jinou omamnou nebo psychotropní látku získanou zpracováním rostliny konopí obsahující více než 1 % látek ze skupiny tetrahydrokanabinolů
+>
+> - a) v celkovém množství větším než 200 g ve svém obydlí, nebo
+>
+> - b) v celkovém množství větším než 50 g mimo své obydlí.
+>
+> (3) Kdo neoprávněně pro vlastní potřebu v množství větším než malém pěstuje, sklízí, sbírá nebo zpracovává jinou rostlinu obsahující omamnou nebo psychotropní látku než rostlinu konopí nebo houbu obsahující omamnou nebo psychotropní látku, nebo kdo neoprávněně pro vlastní potřebu v množství větším než malém přechovává omamnou nebo psychotropní látku získanou zpracováním takové rostliny nebo houby, bude potrestán odnětím svobody až na jeden rok, zákazem činnosti nebo propadnutím věci.
+>
+> (4) Odnětím svobody až na tři léta bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 v množství větším než 50 rostlin,
+>
+> - b) spáchá-li čin uvedený v odstavci 2 písm. a) v celkovém množství větším než 2 000 g,
+>
+> - c) spáchá-li čin uvedený v odstavci 2 písm. b) v celkovém množství větším než 500 g, nebo
+>
+> - d) spáchá-li čin uvedený v odstavci 3 ve větším rozsahu.
+>
+> (5) Odnětím svobody na šest měsíců až pět let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 v množství větším než 500 rostlin,
+>
+> - b) spáchá-li čin uvedený v odstavci 2 písm. a) v celkovém množství větším než 20 000 g,
+>
+> - c) spáchá-li čin uvedený v odstavci 2 písm. b) v celkovém množství větším než 5 000 g, nebo
+>
+> - d) spáchá-li čin uvedený v odstavci 3 ve značném rozsahu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5938e81e299ead039eb7 -->
+
 ### § 286 — Prekursory
 
 #### Pojem
@@ -926,6 +1906,62 @@ Sazba: až 6 měsíců (základ).
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7745e14bb4a21ec76008 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 286 — Výroba nebo držení předmětu k neoprávněné výrobě omamné nebo psychotropní látky nebo jedu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo vyrobí, sobě nebo jinému opatří anebo přechovává prekursor nebo jiný předmět určený k neoprávněné výrobě omamné nebo psychotropní látky, přípravku, který obsahuje omamnou nebo psychotropní látku, nebo jedu, bude potrestán odnětím svobody až na pět let, zákazem činnosti nebo propadnutím věci.
+>
+> (2) Odnětím svobody na dvě léta až deset let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 jako člen organizované skupiny,
+>
+> - b) spáchá-li takový čin ve značném rozsahu,
+>
+> - c) spáchá-li takový čin ve větším rozsahu vůči dítěti, nebo
+>
+> - d) získá-li takovým činem pro sebe nebo pro jiného značný prospěch.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7745e14bb4a21ec76008 -->
+
 ### § 286a — Zařazené psychoaktivní látky (NPS)
 
 **Nová SP** pro **nové psychoaktivní látky** (NPS — *new psychoactive substances*, často „**designer drugs**" či „**legal highs**"). Sazba: až 2 roky / 6 m—5 / 2—8 let.
@@ -971,6 +2007,68 @@ Tradičně byly tyto látky **„legální"** kvůli mezerám v seznamu omamnýc
 **Typicky rozhodné důkazy / podklady:** chemická analýza a identifikace látky, doklad o jejím zařazení na seznam a datu zařazení, vážení, dokumentace prodeje (e-shop, objednávky), komunikace se zákazníky.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=85c6c0120176f2f25730 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 286a — Neoprávněná výroba a jiné nakládání se zařazenými psychoaktivními látkami
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo v množství větším než malém neoprávněně vyrobí, doveze, vyveze, proveze, nabídne, zprostředkuje, prodá nebo jinak jinému opatří nebo pro jiného přechovává zařazenou psychoaktivní látku, bude potrestán odnětím svobody až na dvě léta nebo zákazem činnosti.
+>
+> (2) Odnětím svobody na šest měsíců až pět let nebo zákazem činnosti bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 značnou škodu,
+>
+> - b) způsobí-li činem uvedeným v odstavci 1 těžkou újmu na zdraví, nebo
+>
+> - c) získá-li takovým činem pro sebe nebo pro jiného značný prospěch.
+>
+> (3) Odnětím svobody na dvě léta až osm let bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 škodu velkého rozsahu,
+>
+> - b) způsobí-li činem uvedeným v odstavci 1 těžkou újmu na zdraví nejméně dvou osob nebo smrt, nebo
+>
+> - c) získá-li takovým činem pro sebe nebo pro jiného prospěch velkého rozsahu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=85c6c0120176f2f25730 -->
 
 ### § 287 — Šíření toxikomanie
 
@@ -1023,6 +2121,62 @@ Tradičně byly tyto látky **„legální"** kvůli mezerám v seznamu omamnýc
 **Typicky rozhodné důkazy / podklady:** záznamy a přepisy obsahu (videa, příspěvky), statistiky a věkové složení publika, dosah a interakce, kontext a způsob prezentace (glorifikace vs. prevence).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6ff609a40c9fb08bfda6 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 287 — Šíření toxikomanie
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo svádí jiného ke zneužívání jiné návykové látky než alkoholu nebo psychomodulační látky nebo ho v tom podporuje anebo kdo zneužívání takové látky jinak podněcuje nebo šíří, bude potrestán odnětím svobody až na tři léta nebo zákazem činnosti.
+>
+> (2) Odnětím svobody na jeden rok až pět let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1
+>
+> - a) jako člen organizované skupiny,
+>
+> - b) vůči dítěti, nebo
+>
+> - c) tiskem, filmem, rozhlasem, televizí, veřejně přístupnou počítačovou sítí nebo jiným obdobně účinným způsobem.
+>
+> (3) Odnětím svobody na dvě léta až osm let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 vůči dítěti mladšímu patnácti let.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6ff609a40c9fb08bfda6 -->
 
 ### § 288 — Anabolika a doping
 
@@ -1078,6 +2232,78 @@ Sazba: až 1 rok (základ), 1—3 / 2—8 / 5—12 let kvalifikované.
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=266ae3b7fd4a97b5ae17 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 288 — Výroba a jiné nakládání s látkami s hormonálním účinkem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo neoprávněně ve větším množství vyrobí, přechovává, doveze, vyveze, proveze, nabízí, prodá, jinému poskytne nebo podá látku s anabolickým nebo jiným hormonálním účinkem za jiným než léčebným účelem, nebo kdo vůči jinému použije metodu spočívající ve zvyšování přenosu kyslíku v lidském organismu nebo jinou metodu s dopingovým účinkem za jiným než léčebným účelem, bude potrestán odnětím svobody až na jeden rok.
+>
+> (2) Odnětím svobody na jeden rok až tři léta bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 jako člen organizované skupiny,
+>
+> - b) spáchá-li takový čin vůči dítěti mladšímu patnácti let, nebo
+>
+> - c) spáchá-li takový čin ve značném rozsahu vůči dítěti staršímu patnácti let.
+>
+> (3) Odnětím svobody na dvě léta až osm let bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 těžkou újmu na zdraví,
+>
+> - b) spáchá-li takový čin v úmyslu získat pro sebe nebo pro jiného značný prospěch,
+>
+> - c) spáchá-li takový čin ve značném rozsahu vůči dítěti mladšímu patnácti let,
+>
+> - d) spáchá-li takový čin jako lékař nebo jiná způsobilá zdravotnická osoba.
+>
+> (4) Odnětím svobody na pět let až dvanáct let bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 těžkou újmu na zdraví nejméně dvou osob nebo smrt,
+>
+> - b) spáchá-li takový čin v úmyslu získat pro sebe nebo pro jiného prospěch velkého rozsahu, nebo
+>
+> - c) spáchá-li takový čin ve spojení s organizovanou skupinou působící ve více státech.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=266ae3b7fd4a97b5ae17 -->
+
 ### § 289 — Společné ustanovení
 **Zákon a vláda nařízením stanoví:**
 - Co je omamná/psychotropní látka, přípravek, prekursor → **z. č. 167/1998 Sb. o návykových látkách** + jeho prováděcí předpisy.
@@ -1127,6 +2353,58 @@ Sazba: až 1 rok (základ), 1—3 / 2—8 / 5—12 let kvalifikované.
 **Typicky rozhodné důkazy / podklady:** znění a účinnost příslušných nařízení vlády k datu činu, judikatura k „rozsahu" a hranicím (Pl.ÚS 13/12, Tpjn 301/2013), analýza látky pro zařazení podle prováděcího předpisu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6a57ff580843c59136b9 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 289 — Společné ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Zákon stanoví, co se považuje za omamné látky, psychotropní látky, přípravky obsahující omamnou nebo psychotropní látku, prekursory používané pro nezákonnou výrobu omamných nebo psychotropních látek.
+>
+> (2) Vláda nařízením stanoví, co se považuje za jedy ve smyslu [[#§ 283|§ 283]], [[#§ 284|284]] a [[#§ 286|286]].
+>
+> (3) Vláda nařízením stanoví, které rostliny nebo houby se považují za rostliny a houby obsahující omamnou nebo psychotropní látku.
+>
+> (4) Vláda nařízením stanoví, co se považuje za látky s anabolickým a jiným hormonálním účinkem a jaké je větší množství ve smyslu [[#§ 288|§ 288]], a co se považuje za metodu spočívající ve zvyšování přenosu kyslíku v lidském organismu a jiné metody s dopingovým účinkem ve smyslu [[#§ 288|§ 288]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 283, § 284, § 286, § 288
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6a57ff580843c59136b9 -->
 
 ## DÍL 2 — TČ ohrožující vzdušný dopravní prostředek, civilní plavidlo a pevnou plošinu
 
@@ -1194,6 +2472,68 @@ Sazba: **8—15 let** + propadnutí majetku.
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ea2ec9c2e90c8e2f2aca generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 290 — Získání kontroly nad vzdušným dopravním prostředkem, civilním plavidlem a pevnou plošinou
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo na palubě vzdušného dopravního prostředku, civilního plavidla nebo na pevné plošině na pevninské mělčině v úmyslu získat nebo vykonávat kontrolu nad tímto vzdušným dopravním prostředkem, civilním plavidlem nebo pevnou plošinou,
+>
+> - a) užije proti jinému násilí nebo pohrůžky bezprostředního násilí,
+>
+> - b) vyhrožuje jinému usmrcením, ublížením na zdraví nebo způsobením škody velkého rozsahu, nebo
+>
+> - c) zneužije bezbrannosti jiného,
+>
+> bude potrestán odnětím svobody na osm až patnáct let nebo propadnutím majetku.
+>
+> (2) Odnětím svobody na dvanáct až dvacet let nebo výjimečným trestem, popřípadě vedle těchto trestů též propadnutím majetku bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 těžkou ujmu na zdraví nejméně dvou osob nebo smrt, nebo
+>
+> - b) spáchá-li takový čin za stavu ohrožení státu nebo za válečného stavu.
+>
+> (3) Příprava je trestná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ea2ec9c2e90c8e2f2aca -->
+
 ### § 291 — Ohrožení bezpečnosti letadla/plavidla
 **Sdělení nepravdivé informace** ohrožující bezpečnost provozu. Sazba: až 3 roky.
 
@@ -1237,6 +2577,52 @@ Sazba: **8—15 let** + propadnutí majetku.
 **Typicky rozhodné důkazy / podklady:** záznam a přepis hovoru/zprávy, lokalizace a identifikace volajícího, dokumentace evakuace a bezpečnostní kontroly, evidence zpožděných/zrušených letů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=fcd984a84f4ed1cc0ee7 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 291 — Ohrožení bezpečnosti vzdušného dopravního prostředku a civilního plavidla
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> Kdo sdělí nepravdivou informaci, která může ohrozit bezpečnost nebo provoz vzdušného dopravního prostředku za letu nebo civilního plavidla za plavby, bude potrestán odnětím svobody až na tři léta nebo zákazem činnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fcd984a84f4ed1cc0ee7 -->
 
 ### § 292 — Zavlečení letadla do ciziny
 
@@ -1286,6 +2672,62 @@ Sazba: **8—15 let** + propadnutí majetku.
 **Typicky rozhodné důkazy / podklady:** letové záznamy a skutečný kurz, komunikace s ATC, doklady o svěření a určení letu, výpovědi posádky a cestujících, dokumentace přistání v cizině.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6a1ecd57933ecea8c87f generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 292 — Zavlečení vzdušného dopravního prostředku do ciziny
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo za účelem zavlečení vzdušného dopravního prostředku do ciziny se takového dopravního prostředku zmocní nebo neoprávněně užije takového dopravního prostředku, který mu byl svěřen, bude potrestán odnětím svobody na tři léta až deset let nebo propadnutím majetku.
+>
+> (2) Odnětím svobody na osm až patnáct let, popřípadě vedle tohoto trestu též propadnutím majetku, nebo výjimečným trestem, bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 těžkou újmu na zdraví.
+>
+> (3) Odnětím svobody na dvanáct až dvacet let nebo výjimečným trestem, popřípadě vedle těchto trestů též propadnutím majetku bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 těžkou ujmu na zdraví nejméně dvou osob nebo smrt, nebo
+>
+> - b) spáchá-li takový čin za stavu ohrožení státu nebo za válečného stavu.
+>
+> (4) Příprava je trestná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6a1ecd57933ecea8c87f -->
 
 ## Shrnutí Hlavy VII
 

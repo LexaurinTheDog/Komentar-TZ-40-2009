@@ -89,6 +89,54 @@ V praxi § 12 funguje jako dvojí filtr: odst. 1 vylučuje trestnost stanovenou 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8b0192566f3f5257d914 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 12 — Zásada zákonnosti a zásada subsidiarity trestní represe
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Jen [[trestní zákon|trestní zákon]] vymezuje trestné činy a stanoví trestní sankce, které lze za jejich spáchání uložit.
+>
+> (2) Trestní odpovědnost pachatele a trestněprávní důsledky s ní spojené lze uplatňovat jen v případech společensky škodlivých, ve kterých nepostačuje uplatnění odpovědnosti podle jiného právního předpisu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8b0192566f3f5257d914 -->
+
 ### § 13 — Trestný čin
 
 > „(1) Trestným činem je protiprávní čin, který trestní zákon označuje za trestný a který vykazuje znaky uvedené v takovém zákoně.  
@@ -154,6 +202,54 @@ Defaultní pravidlo: **úmysl je vyžadován**. Pokud zákon u konkrétní skutk
 **Typicky rozhodné důkazy / podklady:** znalecké posudky k odborným znakům, listiny prokazující protiprávnost (chybějící povolení), důkazy o subjektivní stránce (úmysl/nedbalost), podklady k posouzení míry škodlivosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e1560adae84bbfdd9ba9 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 13 — Trestný čin
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Trestným činem je protiprávní čin, který [[trestní zákon|trestní zákon]] označuje za trestný a který vykazuje znaky uvedené v takovém zákoně.
+>
+> (2) K trestní odpovědnosti za trestný čin je třeba úmyslného zavinění, nestanoví-li [[trestní zákon|trestní zákon]] výslovně, že postačí zavinění z nedbalosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e1560adae84bbfdd9ba9 -->
 
 ### § 14 — Přečiny a zločiny
 
@@ -227,6 +323,56 @@ Nově (oproti starému zákonu, který znal „trestný čin" a vedle něj přes
 **Typicky rozhodné důkazy / podklady:** znění použité skutkové podstaty a její horní hranice, doklady o výši škody/rozsahu, posouzení formy zavinění, rejstřík trestů pro otázku recidivy.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=45725ab34556dd2e055b generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 14 — Přečiny a zločiny
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Trestné činy se dělí na přečiny a zločiny.
+>
+> (2) Přečiny jsou všechny nedbalostní trestné činy a ty úmyslné trestné činy, na něž [[trestní zákon|trestní zákon]] stanoví trest odnětí svobody s horní hranicí trestní sazby do pěti let.
+>
+> (3) Zločiny jsou všechny trestné činy, které nejsou podle trestního zákona přečiny; zvlášť závažnými zločiny jsou ty úmyslné trestné činy, na něž [[trestní zákon|trestní zákon]] stanoví trest odnětí svobody s horní hranicí trestní sazby nejméně deset let.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=45725ab34556dd2e055b -->
 
 ## Díl 2 — Zavinění
 
@@ -306,6 +452,58 @@ Srozumění obsahuje i **smíření** s následkem. Pachatel nemusí následek e
 **Typicky rozhodné důkazy / podklady:** znalecké posudky (mechanismus děje, míra rizika, možnost vyhnutí), záznamy a data (EDR, kamery), svědecké výpovědi o chování pachatele, jeho vyjádření k vnímání rizika.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=65a0835b395401374ad7 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 15 — Úmysl
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Trestný čin je spáchán úmyslně, jestliže pachatel
+>
+> - a) chtěl způsobem uvedeným v trestním zákoně porušit nebo ohrozit zájem chráněný takovým zákonem, nebo
+>
+> - b) věděl, že svým jednáním může takové porušení nebo ohrožení způsobit, a pro případ, že je způsobí, byl s tím srozuměn.
+>
+> (2) Srozuměním se rozumí i smíření pachatele s tím, že způsobem uvedeným v trestním zákoně může porušit nebo ohrozit zájem chráněný takovým zákonem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=65a0835b395401374ad7 -->
 
 ### § 16 — Nedbalost
 
@@ -387,6 +585,58 @@ Nový institut zavedený TZ 2009. **Hrubá nedbalost** je kvalifikovaná forma n
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f0ae5bee554d9a3e18ca generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 16 — Nedbalost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Trestný čin je spáchán z nedbalosti, jestliže pachatel
+>
+> - a) věděl, že může způsobem uvedeným v trestním zákoně porušit nebo ohrozit zájem chráněný takovým zákonem, ale bez přiměřených důvodů spoléhal, že takové porušení nebo ohrožení nezpůsobí, nebo
+>
+> - b) nevěděl, že svým jednáním může takové porušení nebo ohrožení způsobit, ač o tom vzhledem k okolnostem a k svým osobním poměrům vědět měl a mohl.
+>
+> (2) Trestný čin je spáchán z hrubé nedbalosti, jestliže přístup pachatele k požadavku náležité opatrnosti svědčí o zřejmé bezohlednosti pachatele k zájmům chráněným trestním zákonem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f0ae5bee554d9a3e18ca -->
+
 ### § 17 — Zavinění k okolnosti zvlášť přitěžující
 
 > „K okolnosti, která podmiňuje použití vyšší trestní sazby, se přihlédne,  
@@ -445,6 +695,56 @@ Mnohé skutkové podstaty mají **kvalifikované formy** s vyšší sazbou (nap�
 **Typicky rozhodné důkazy / podklady:** doklady o kvalifikační okolnosti (věk, množství, postavení), fotodokumentace a svědectví o její rozpoznatelnosti, znalecké posouzení následku a jeho příčinné souvislosti, podklady k osobním poměrům pachatele.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=fc8886fde79ad903b419 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 17 — Zavinění k okolnosti zvlášť přitěžující
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> K okolnosti, která podmiňuje použití vyšší trestní sazby, se přihlédne,
+>
+> - a) jde-li o těžší následek, i tehdy, zavinil-li jej pachatel z nedbalosti, vyjímaje případy, že [[trestní zákon|trestní zákon]] vyžaduje i zde zavinění úmyslné, nebo
+>
+> - b) jde-li o jinou skutečnost, i tehdy, jestliže o ní pachatel nevěděl, ač o ní vzhledem k okolnostem a k svým osobním poměrům vědět měl a mohl, vyjímaje případy, kdy [[trestní zákon|trestní zákon]] vyžaduje, aby o ní pachatel věděl.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fc8886fde79ad903b419 -->
 
 ### § 18 — Omyl skutkový
 
@@ -521,6 +821,58 @@ Pokud pachatel **neví** o kvalifikační okolnosti (např. neví, že droga je 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3c17016ddf6a4fea293f generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 18 — Omyl skutkový
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo při spáchání činu nezná ani nepředpokládá jako možnou skutkovou okolnost, která je znakem trestného činu, nejedná úmyslně; tím není dotčena odpovědnost za trestný čin spáchaný z nedbalosti.
+>
+> (2) Kdo při spáchání činu mylně předpokládá skutkové okolnosti, které by naplňovaly znaky mírnějšího úmyslného trestného činu, bude potrestán jen za tento mírnější trestný čin, nejde-li o trestný čin spáchaný z nedbalosti.
+>
+> (3) Kdo při spáchání činu mylně předpokládá skutkové okolnosti, které by naplňovaly znaky přísnějšího úmyslného trestného činu, bude potrestán za pokus tohoto přísnějšího trestného činu.
+>
+> (4) Kdo při spáchání činu mylně předpokládá skutkovou okolnost, která vylučuje jeho protiprávnost, nejedná úmyslně; tím není dotčena odpovědnost za trestný čin spáchaný z nedbalosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3c17016ddf6a4fea293f -->
+
 ### § 19 — Omyl právní
 
 > „(1) Kdo při spáchání trestného činu neví, že jeho čin je protiprávní, nejedná zaviněně, nemohl-li se omylu vyvarovat.  
@@ -584,6 +936,54 @@ Velmi úzký prostor — v praxi se omluvitelný právní omyl objevuje **velmi 
 **Typicky rozhodné důkazy / podklady:** povaha a dostupnost porušené normy, doklady o postavení/povolání zakládajícím povinnost ji znát, zjištění o možnostech pachatele seznámit se s úpravou, případné předchozí poučení pachatele.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8101dc2642250f85252f generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 19 — Omyl právní
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo při spáchání trestného činu neví, že jeho čin je protiprávní, nejedná zaviněně, nemohl-li se omylu vyvarovat.
+>
+> (2) Omylu bylo možno se vyvarovat, pokud povinnost seznámit se s příslušnou právní úpravou vyplývala pro pachatele ze zákona nebo jiného právního předpisu, úředního rozhodnutí nebo smlouvy, z jeho zaměstnání, povolání, postavení nebo funkce, anebo mohl-li pachatel protiprávnost činu rozpoznat bez zřejmých obtíží.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8101dc2642250f85252f -->
 
 ## Díl 3 — Příprava a pokus trestného činu
 
@@ -673,6 +1073,64 @@ Typicky: vražda (§ 140), terorismus (§ 311), padělání peněz velkého rozs
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c3976285769b378ba86f generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 20 — Příprava
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Jednání, které záleží v úmyslném vytváření podmínek pro spáchání zvlášť závažného zločinu (§ 14 odst. 3), zejména v jeho organizování, opatřování nebo přizpůsobování prostředků nebo nástrojů k jeho spáchání, ve spolčení, srocení, v návodu nebo pomoci k takovému zločinu, je přípravou jen tehdy, jestliže to [[trestní zákon|trestní zákon]] u příslušného trestného činu výslovně stanoví a pokud nedošlo k pokusu ani dokonání zvlášť závažného zločinu.
+>
+> (2) Příprava je trestná podle trestní sazby stanovené na zvlášť závažný zločin, k němuž směřovala, jestliže [[trestní zákon|trestní zákon]] nestanoví něco jiného.
+>
+> (3) Trestní odpovědnost za přípravu k zvlášť závažnému zločinu zaniká, jestliže pachatel dobrovolně upustil od dalšího jednání směřujícího k spáchání zvlášť závažného zločinu a
+>
+> - a) odstranil nebezpečí, které vzniklo zájmu chráněnému trestním zákonem z podniknuté přípravy, nebo
+>
+> - b) učinil o přípravě k zvlášť závažnému zločinu oznámení v době, kdy nebezpečí, které vzniklo zájmu chráněnému trestním zákonem z podniknuté přípravy, mohlo být ještě odstraněno; oznámení je nutno učinit státnímu zástupci nebo policejnímu orgánu, voják může místo toho učinit oznámení nadřízenému.
+>
+> (4) Je-li na činu zúčastněno více osob, nebrání zániku trestní odpovědnosti za přípravu pachatele, který takto jednal, je-li čin dokonán ostatními pachateli nezávisle na jeho dřívějším přispění k činu nebo přes jeho včasné oznámení.
+>
+> (5) Ustanovením odstavců 3 a [[#§ 4|4]] není dotčena trestní odpovědnost pachatele za jiný dokonaný trestný čin, který již jednáním uvedeným v odstavci 1 spáchal.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 14, § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c3976285769b378ba86f -->
+
 ### § 21 — Pokus
 
 > „(1) Jednání, které bezprostředně směřuje k dokonání trestného činu a jehož se pachatel dopustil v úmyslu trestný čin spáchat, je pokusem trestného činu, jestliže k dokonání trestného činu nedošlo.  
@@ -747,6 +1205,64 @@ Analogická úprava jako u přípravy: dobrovolné upuštění + odstranění ne
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7fefe38b32e35a11bb46 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 21 — Pokus
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Jednání, které bezprostředně směřuje k dokonání trestného činu a jehož se pachatel dopustil v úmyslu trestný čin spáchat, je pokusem trestného činu, jestliže k dokonání trestného činu nedošlo.
+>
+> (2) Pokus trestného činu je trestný podle trestní sazby stanovené na dokonaný trestný čin.
+>
+> (3) Trestní odpovědnost za pokus trestného činu zaniká, jestliže pachatel dobrovolně upustil od dalšího jednání směřujícího k dokonání trestného činu a
+>
+> - a) odstranil nebezpečí, které vzniklo zájmu chráněnému trestním zákonem z podniknutého pokusu trestného činu, nebo
+>
+> - b) učinil o pokusu trestného činu oznámení v době, kdy nebezpečí, které vzniklo zájmu chráněnému trestním zákonem z podniknutého pokusu trestného činu, mohlo být ještě odstraněno; oznámení je nutno učinit státnímu zástupci nebo policejnímu orgánu, voják může místo toho učinit oznámení nadřízenému.
+>
+> (4) Je-li na činu zúčastněno více osob, nebrání zániku trestní odpovědnosti za pokus pachatele, který takto jednal, je-li čin dokonán ostatními pachateli nezávisle na jeho dřívějším přispění k činu nebo přes jeho včasné oznámení.
+>
+> (5) Ustanovením odstavců 3 a [[#§ 4|4]] není dotčena trestní odpovědnost pachatele za jiný dokonaný trestný čin, který již jednáním uvedeným v odstavci 1 spáchal.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7fefe38b32e35a11bb46 -->
+
 ## Díl 4 — Pachatel, spolupachatel a účastník trestného činu
 
 ### § 22 — Pachatel
@@ -807,6 +1323,54 @@ Analogická úprava jako u přípravy: dobrovolné upuštění + odstranění ne
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a2875d5524bb51cd5a27 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 22 — Pachatel
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Pachatelem trestného činu je, kdo svým jednáním naplnil znaky skutkové podstaty trestného činu nebo jeho pokusu či přípravy, je-li trestná.
+>
+> (2) Pachatelem trestného činu je i ten, kdo k provedení činu užil jiné osoby, která není trestně odpovědná pro nedostatek věku, nepříčetnost, omyl, anebo proto, že jednala v nutné obraně, krajní nouzi či za jiné okolnosti vylučující protiprávnost, anebo sama nejednala nebo nejednala zaviněně. Pachatelem trestného činu je i ten, kdo k provedení činu užil takové osoby, která nejednala ve zvláštním úmyslu či z pohnutky předpokládané zákonem; v těchto případech není vyloučena trestní odpovědnost takové osoby za jiný trestný čin, který tímto jednáním spáchala.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a2875d5524bb51cd5a27 -->
+
 ### § 23 — Spolupachatel
 
 > „Byl-li trestný čin spáchán úmyslným společným jednáním dvou nebo více osob, odpovídá každá z nich, jako by trestný čin spáchala sama (spolupachatelé)."
@@ -860,6 +1424,52 @@ Spolupachatel odpovídá za **celý** spáchaný TČ, ne jen za svůj přínos. 
 **Typicky rozhodné důkazy / podklady:** důkazy o existenci a obsahu společné dohody (komunikace, výpovědi, plánování), stopy a záznamy dokládající rozdělení rolí, znalecké posouzení následku, podklady k rozsahu společného úmyslu a k srozumění s eskalací.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0ef61dff75dd8f83a0d3 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 23 — Spolupachatel
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> Byl-li trestný čin spáchán úmyslným společným jednáním dvou nebo více osob, odpovídá každá z nich, jako by trestný čin spáchala sama (spolupachatelé).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0ef61dff75dd8f83a0d3 -->
 
 ### § 24 — Účastník
 
@@ -946,6 +1556,70 @@ V praxi často sporné — např. řidič vozu při loupeži: spolupachatel (pok
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f621b76fc4219f1687d5 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 24 — Účastník
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Účastníkem na dokonaném trestném činu nebo jeho pokusu je, kdo úmyslně
+>
+> - a) spáchání trestného činu zosnoval nebo řídil (organizátor),
+>
+> - b) vzbudil v jiném rozhodnutí spáchat trestný čin (návodce), nebo
+>
+> - c) umožnil nebo usnadnil jinému spáchání trestného činu, zejména opatřením prostředků, odstraněním překážek, vylákáním poškozeného na místo činu, hlídáním při činu, radou, utvrzováním v předsevzetí nebo slibem přispět po trestném činu (pomocník).
+>
+> (2) Na trestní odpovědnost a trestnost účastníka se užije ustanovení o trestní odpovědnosti a trestnosti pachatele, jestliže [[trestní zákon|trestní zákon]] nestanoví něco jiného.
+>
+> (3) Trestní odpovědnost účastníka zaniká, jestliže dobrovolně upustil od dalšího účastenství na trestném činu a
+>
+> - a) odstranil nebezpečí, které vzniklo zájmu chráněnému trestním zákonem z podniknutého účastenství, nebo
+>
+> - b) učinil o účastenství na trestném činu oznámení v době, kdy nebezpečí, které vzniklo zájmu chráněnému trestním zákonem z podniknutého účastenství, mohlo být ještě odstraněno; oznámení je nutno učinit státnímu zástupci nebo policejnímu orgánu, voják může místo toho učinit oznámení nadřízenému.
+>
+> (4) Je-li na činu zúčastněno více osob, nebrání zániku trestní odpovědnosti účastníka, který takto jednal, je-li čin spáchán ostatními pachateli nezávisle na jeho dřívějším přispění k činu nebo přes jeho včasné oznámení.
+>
+> (5) Ustanovení odstavců 3 a [[#§ 4|4]] se nevztahuje na trestní odpovědnost účastníka za jiný trestný čin, který již jednáním uvedeným v odstavci 1 spáchal.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f621b76fc4219f1687d5 -->
+
 ### § 25 — Věk
 
 > „Kdo v době spáchání činu nedovršil patnáctý rok svého věku, není trestně odpovědný."
@@ -1003,6 +1677,52 @@ Děti pod 15 let, které spáchaly jednání jinak trestné, podléhají **opat�
 **Typicky rozhodné důkazy / podklady:** doklad o datu narození (rodný list, OP), přesné určení doby spáchání činu, zprávy OSPOD a o poměrech dítěte, u pokračujících deliktů časové vymezení jednotlivých dílčích útoků.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8a00d5dac672b343724b generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 25 — Věk
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> Kdo v době spáchání činu nedovršil patnáctý rok svého věku, není trestně odpovědný.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8a00d5dac672b343724b -->
 
 ### § 26 — Nepříčetnost
 
@@ -1070,6 +1790,52 @@ Sebenavození nepříčetnosti **nevylučuje** trestní odpovědnost (§ 360 TZ 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5c2d9d7d42e770967455 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 26 — Nepříčetnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> Kdo pro duševní poruchu v době spáchání činu nemohl rozpoznat jeho protiprávnost nebo ovládat své jednání, není za tento čin trestně odpovědný.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5c2d9d7d42e770967455 -->
+
 ### § 27 — Zmenšená příčetnost
 
 > „Kdo pro duševní poruchu v době spáchání činu měl podstatně sníženou schopnost rozpoznat jeho protiprávnost nebo ovládat své jednání, je zmenšeně příčetný."
@@ -1128,6 +1894,52 @@ Posouzení nepříčetnosti a zmenšené příčetnosti vyžaduje znalecký posu
 **Typicky rozhodné důkazy / podklady:** znalecký posudek z oboru psychiatrie vymezující míru snížení schopností, zdravotnická dokumentace, podklady k zaviněnosti/nezaviněnosti vzniku poruchy, okolnosti činu a posouzení nebezpečnosti pachatele.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8d65f94616a92122057e generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 27 — Zmenšená příčetnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> Kdo pro duševní poruchu v době spáchání činu měl podstatně sníženou schopnost rozpoznat jeho protiprávnost nebo ovládat své jednání, je zmenšeně příčetný.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8d65f94616a92122057e -->
 
 ## Shrnutí Hlavy II
 

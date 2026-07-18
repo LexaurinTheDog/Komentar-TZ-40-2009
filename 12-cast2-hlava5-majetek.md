@@ -101,6 +101,84 @@ Krádež podle § 205 vyžaduje aktivní zmocnění se cizí věci a alespoň je
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=bf3b76f05626dd18a341 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 205 — Krádež
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo si přisvojí cizí věc tím, že se jí zmocní, a
+>
+> - a) způsobí tak na cizím majetku škodu nikoliv nepatrnou,
+>
+> - b) čin spáchá vloupáním,
+>
+> - c) bezprostředně po činu se pokusí uchovat si věc násilím nebo pohrůžkou bezprostředního násilí,
+>
+> - d) čin spáchá na věci, kterou má jiný na sobě nebo při sobě,
+>
+> - e) čin spáchá na území, na němž je prováděna nebo byla provedena evakuace osob, nebo
+>
+> - f) byl za takový čin v posledních třech letech odsouzen nebo potrestán,
+>
+> bude potrestán odnětím svobody až na dvě léta, zákazem činnosti nebo propadnutím věci.
+>
+> (2) Odnětím svobody na jeden rok až pět let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 větší škodu.
+>
+> (3) Odnětím svobody na dvě léta až osm let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 jako člen organizované skupiny,
+>
+> - b) spáchá-li takový čin za stavu ohrožení státu nebo za válečného stavu, za živelní pohromy nebo jiné události vážně ohrožující život nebo zdraví lidí, veřejný pořádek nebo majetek, nebo
+>
+> - c) způsobí-li takovým činem značnou škodu.
+>
+> (4) Odnětím svobody na pět až deset let bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 škodu velkého rozsahu, nebo
+>
+> - b) spáchá-li takový čin v úmyslu umožnit nebo usnadnit spáchání teroristického trestného činu, trestného činu financování terorismu ([[#§ 312d|§ 312d]]) nebo vyhrožování teroristickým trestným činem ([[#§ 312f|§ 312f]]).
+>
+> (5) Příprava je trestná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 312d, § 312f
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bf3b76f05626dd18a341 -->
+
 ### § 206 — Zpronevěra
 
 #### Pojem
@@ -167,6 +245,72 @@ Zpronevěra postihuje defraudaci věci, kterou pachatel již legálně drží ja
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=dbd1c7432b441ece16dd generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 206 — Zpronevěra
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo si přisvojí cizí věc, která mu byla svěřena, a způsobí tak na cizím majetku škodu nikoli nepatrnou, bude potrestán odnětím svobody až na dvě léta, zákazem činnosti nebo propadnutím věci.
+>
+> (2) Odnětím svobody na jeden rok až pět let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 větší škodu.
+>
+> (3) Odnětím svobody na dvě léta až osm let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 jako člen organizované skupiny,
+>
+> - b) spáchá-li takový čin jako osoba, která má zvlášť uloženou povinnost hájit zájmy poškozeného,
+>
+> - c) spáchá-li takový čin za stavu ohrožení státu nebo za válečného stavu, za živelní pohromy nebo jiné události vážně ohrožující život nebo zdraví lidí, veřejný pořádek nebo majetek, nebo
+>
+> - d) způsobí-li takovým činem značnou škodu.
+>
+> (4) Odnětím svobody na pět až deset let bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 škodu velkého rozsahu, nebo
+>
+> - b) spáchá-li takový čin v úmyslu umožnit nebo usnadnit spáchání teroristického trestného činu, trestného činu financování terorismu ([[#§ 312d|§ 312d]]) nebo vyhrožování teroristickým trestným činem ([[#§ 312f|§ 312f]]).
+>
+> (5) Příprava je trestná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 312d, § 312f
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dbd1c7432b441ece16dd -->
+
 ### § 207 — Neoprávněné užívání cizí věci
 
 #### Pojem (odst. 1)
@@ -222,6 +366,68 @@ Ustanovení postihuje „joyriding" — dočasné neoprávněné užití cizí v
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=cdfc00cee40f834331e1 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 207 — Neoprávněné užívání cizí věci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo se zmocní cizí věci nikoli malé hodnoty nebo motorového vozidla v úmyslu je přechodně užívat, nebo
+> kdo na cizím majetku způsobí škodu nikoli malou tím, že neoprávněně takové věci, které mu byly svěřeny, přechodně užívá,
+> bude potrestán odnětím svobody až na dvě léta nebo zákazem činnosti.
+>
+> (2) Odnětím svobody na šest měsíců až tři léta nebo zákazem činnosti bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 jako osoba, která má zvlášť uloženou povinnost hájit zájmy poškozeného,
+>
+> - b) spáchá-li takový čin jako člen organizované skupiny, nebo
+>
+> - c) způsobí-li takovým činem značnou škodu.
+>
+> (3) Odnětím svobody na jeden rok až pět let bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 škodu velkého rozsahu, nebo
+>
+> - b) spáchá-li takový čin v úmyslu umožnit nebo usnadnit spáchání teroristického trestného činu, trestného činu financování terorismu ([[#§ 312d|§ 312d]]) nebo vyhrožování teroristickým trestným činem ([[#§ 312f|§ 312f]]).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 312d, § 312f
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cdfc00cee40f834331e1 -->
+
 ### § 208 — Neoprávněný zásah do práva k domu, bytu nebo nebytovému prostoru
 
 #### Pojem
@@ -272,6 +478,60 @@ Ustanovení chrání faktický výkon práva k bydlení/nebytovým prostorům pr
 **Typicky rozhodné důkazy / podklady:** nájemní smlouva a výpověď, listy vlastnictví, fotodokumentace obsazení/výměny zámků, svědecké výpovědi, případně civilní rozhodnutí o platnosti nájmu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=65d4d5af682f92770e91 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 208 — Neoprávněný zásah do práva k domu, bytu nebo k nebytovému prostoru
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo protiprávně obsadí nebo užívá dům, byt nebo nebytový prostor jiného, bude potrestán odnětím svobody až na dvě léta.
+>
+> (2) Stejně bude potrestán, kdo oprávněné osobě v užívání domu, bytu nebo nebytového prostoru neoprávněně brání.
+>
+> (3) Odnětím svobody na šest měsíců až pět let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 nebo [[#§ 2|2]] jako člen organizované skupiny, nebo
+>
+> - b) způsobí-li takovým činem škodu velkého rozsahu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=65d4d5af682f92770e91 -->
 
 ## B. Podvodné TČ
 
@@ -357,6 +617,72 @@ Podvod vyžaduje obohacení dosažené klamavým jednáním (uvedení v omyl, vy
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=88d8214dde0158da48f4 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 209 — Podvod
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo sebe nebo jiného obohatí tím, že uvede někoho v omyl, využije něčího omylu nebo zamlčí podstatné skutečnosti, a způsobí tak na cizím majetku škodu nikoli nepatrnou, bude potrestán odnětím svobody až na dvě léta, zákazem činnosti nebo propadnutím věci.
+>
+> (2) Odnětím svobody na jeden rok až pět let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 větší škodu.
+>
+> (3) Odnětím svobody na dvě léta až osm let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 jako člen organizované skupiny,
+>
+> - b) spáchá-li takový čin jako osoba, která má zvlášť uloženou povinnost hájit zájmy poškozeného,
+>
+> - c) spáchá-li takový čin za stavu ohrožení státu nebo za válečného stavu, za živelní pohromy nebo jiné události vážně ohrožující život nebo zdraví lidí, veřejný pořádek nebo majetek, nebo
+>
+> - d) způsobí-li takovým činem značnou škodu.
+>
+> (4) Odnětím svobody na pět až deset let bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 škodu velkého rozsahu, nebo
+>
+> - b) spáchá-li takový čin v úmyslu umožnit nebo usnadnit spáchání teroristického trestného činu, trestného činu financování terorismu ([[#§ 312d|§ 312d]]) nebo vyhrožování teroristickým trestným činem ([[#§ 312f|§ 312f]]).
+>
+> (5) Příprava je trestná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 312d, § 312f
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=88d8214dde0158da48f4 -->
+
 ### § 210 — Pojistný podvod
 
 #### Pojem
@@ -417,6 +743,80 @@ Pojistný podvod je speciální skutková podstata postihující nepravdivé/zkr
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=520f9d4a0ff6dfd5e7c5 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 210 — Pojistný podvod
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo uvede nepravdivé nebo hrubě zkreslené údaje nebo podstatné údaje zamlčí
+>
+> - a) v souvislosti s uzavíráním nebo změnou pojistné smlouvy,
+>
+> - b) v souvislosti s likvidací pojistné události, nebo
+>
+> - c) při uplatnění práva na plnění z pojištění nebo jiné obdobné plnění,
+>
+> bude potrestán odnětím svobody až na dvě léta, zákazem činnosti nebo propadnutím věci.
+>
+> (2) Stejně bude potrestán, kdo v úmyslu opatřit sobě nebo jinému prospěch vyvolá nebo předstírá událost, s níž je spojeno právo na plnění z pojištění nebo jiné obdobné plnění, nebo stav vyvolaný pojistnou událostí udržuje, a způsobí tak na cizím majetku škodu nikoli nepatrnou.
+>
+> (3) Odnětím svobody na jeden rok až pět let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 nebo [[#§ 2|2]] větší škodu.
+>
+> (4) Odnětím svobody na dvě léta až osm let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 nebo [[#§ 2|2]] jako člen organizované skupiny,
+>
+> - b) spáchá-li takový čin jako osoba, která má zvlášť uloženou povinnost hájit zájmy poškozeného, nebo
+>
+> - c) způsobí-li takovým činem značnou škodu.
+>
+> (5) Odnětím svobody na pět až deset let bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 nebo [[#§ 2|2]] škodu velkého rozsahu, nebo
+>
+> - b) spáchá-li takový čin v úmyslu umožnit nebo usnadnit spáchání teroristického trestného činu, trestného činu financování terorismu ([[#§ 312d|§ 312d]]) nebo vyhrožování teroristickým trestným činem ([[#§ 312f|§ 312f]]).
+>
+> (6) Příprava je trestná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 312d, § 312f
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=520f9d4a0ff6dfd5e7c5 -->
+
 ### § 211 — Úvěrový podvod
 
 #### Pojem
@@ -472,6 +872,72 @@ Sazba: až 2 roky / 1—5 / 2—8 / 5—10 let.
 **Typicky rozhodné důkazy / podklady:** úvěrová žádost a přílohy, potvrzení o příjmu/zaměstnání a jejich ověření, úvěrová smlouva s vymezením účelu, výpisy o čerpání a použití prostředků, interní úvěrová pravidla banky.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8608155de16c703d0a41 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 211 — Úvěrový podvod
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo při sjednávání úvěrové smlouvy nebo při čerpání úvěru uvede nepravdivé nebo hrubě zkreslené údaje nebo podstatné údaje zamlčí, bude potrestán odnětím svobody až na dvě léta nebo zákazem činnosti.
+>
+> (2) Stejně bude potrestán, kdo bez souhlasu věřitele, v nikoli malém rozsahu, použije prostředky získané účelovým úvěrem na jiný než určený účel.
+>
+> (3) Odnětím svobody na jeden rok až pět let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 nebo [[#§ 2|2]] větší škodu.
+>
+> (4) Odnětím svobody na dvě léta až osm let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 nebo [[#§ 2|2]] jako člen organizované skupiny,
+>
+> - b) spáchá-li takový čin jako osoba, která má zvlášť uloženou povinnost hájit zájmy poškozeného, nebo
+>
+> - c) způsobí-li takovým činem značnou škodu.
+>
+> (5) Odnětím svobody na pět až deset let bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 nebo [[#§ 2|2]] škodu velkého rozsahu, nebo
+>
+> - b) spáchá-li takový čin v úmyslu umožnit nebo usnadnit spáchání teroristického trestného činu, trestného činu financování terorismu ([[#§ 312d|§ 312d]]) nebo vyhrožování teroristickým trestným činem ([[#§ 312f|§ 312f]]).
+>
+> (6) Příprava je trestná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 312d, § 312f
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8608155de16c703d0a41 -->
 
 ### § 212 — Dotační podvod
 
@@ -530,6 +996,72 @@ Dotační podvod je analogií úvěrového podvodu pro dotace, subvence a přís
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0f1c81d031ec320e2349 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 212 — Dotační podvod
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo v žádosti o poskytnutí dotace, subvence nebo návratné finanční výpomoci nebo příspěvku uvede nepravdivé nebo hrubě zkreslené údaje nebo podstatné údaje zamlčí, bude potrestán odnětím svobody až na dvě léta nebo zákazem činnosti.
+>
+> (2) Stejně bude potrestán, kdo použije, v nikoli malém rozsahu, prostředky získané účelovou dotací, subvencí nebo návratnou finanční výpomocí nebo příspěvkem na jiný než určený účel.
+>
+> (3) Odnětím svobody na jeden rok až pět let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 nebo [[#§ 2|2]] větší škodu.
+>
+> (4) Odnětím svobody na dvě léta až osm let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 nebo [[#§ 2|2]] jako člen organizované skupiny,
+>
+> - b) spáchá-li takový čin jako osoba, která má zvlášť uloženou povinnost hájit zájmy poškozeného, nebo
+>
+> - c) způsobí-li takovým činem značnou škodu.
+>
+> (5) Odnětím svobody na pět až deset let bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 nebo [[#§ 2|2]] škodu velkého rozsahu, nebo
+>
+> - b) spáchá-li takový čin v úmyslu umožnit nebo usnadnit spáchání teroristického trestného činu, trestného činu financování terorismu ([[#§ 312d|§ 312d]]) nebo vyhrožování teroristickým trestným činem ([[#§ 312f|§ 312f]]).
+>
+> (6) Příprava je trestná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 312d, § 312f
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0f1c81d031ec320e2349 -->
+
 ### § 213 — Provozování nepoctivých her a sázek
 
 #### Pojem
@@ -580,6 +1112,72 @@ Ustanovení postihuje hry a sázky s pravidly, jež systémově nezaručují rov
 **Typicky rozhodné důkazy / podklady:** smlouvy a propagační materiály schématu, kompletní bankovní toky, znalecký posudek (ekonomika/účetnictví) k povaze schématu, výpovědi investorů a zprostředkovatelů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=cef8621a35fb3d04305e generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 213 — Provozování nepoctivých her a sázek
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo provozuje peněžní nebo jinou podobnou hru nebo sázku, jejíž pravidla nezaručují rovné možnosti výhry všem účastníkům, bude potrestán odnětím svobody až na dvě léta nebo zákazem činnosti.
+>
+> (2) Odnětím svobody na jeden rok až pět let bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 větší škodu, nebo
+>
+> - b) získá-li takovým činem pro sebe nebo pro jiného větší prospěch.
+>
+> (3) Odnětím svobody na dvě léta až osm let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 jako člen organizované skupiny,
+>
+> - b) způsobí-li takovým činem značnou škodu, nebo
+>
+> - c) získá-li takovým činem pro sebe nebo pro jiného značný prospěch.
+>
+> (4) Odnětím svobody na pět až deset let bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 škodu velkého rozsahu, nebo
+>
+> - b) získá-li takovým činem pro sebe nebo pro jiného prospěch velkého rozsahu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cef8621a35fb3d04305e -->
 
 ## C. Legalizace výnosů a lichva
 
@@ -653,6 +1251,87 @@ Legalizace výnosů (po novele č. 333/2020 Sb. a transpozici směrnice 2018/167
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=378b65aeb5381f9cc7c0 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 216 — Legalizace výnosů z trestné činnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo ukryje, na sebe nebo na jiného převede, přechovává nebo užívá věc, která je výnosem z trestné činnosti spáchané na území České republiky nebo v cizině jinou osobou, nebo
+> kdo takovou věc přemění v úmyslu umožnit jiné osobě, aby unikla trestnímu stíhání, trestu nebo ochrannému opatření nebo jejich výkonu, nebo
+> kdo se ke spáchání takového trestného činu spolčí,
+> bude potrestán odnětím svobody až na čtyři léta, zákazem činnosti nebo propadnutím věci.
+>
+> (2) Kdo zastírá původ věci, která je výnosem z trestné činnosti spáchané na území České republiky nebo v cizině, zejména tím, že zakrývá nebo utajuje její skutečnou povahu, umístění, pohyb, nakládání s ní, vlastnické nebo jiné právo k ní, nebo kdo jinak usiluje, aby bylo podstatně ztíženo nebo znemožněno zjištění jejího původu, nebo
+> kdo se ke spáchání takového trestného činu spolčí,
+> bude potrestán odnětím svobody na šest měsíců až pět let, zákazem činnosti nebo propadnutím věci.
+>
+> (3) Odnětím svobody na jeden rok až šest let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 nebo [[#§ 2|2]] ve vztahu k věci pocházející ze zločinu,
+>
+> - b) spáchá-li takový čin ve vztahu k věci, která má větší hodnotu, nebo
+>
+> - c) získá-li takovým činem pro sebe nebo pro jiného větší prospěch.
+>
+> (4) Odnětím svobody na dvě léta až osm let nebo propadnutím majetku bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 nebo [[#§ 2|2]] jako člen organizované skupiny,
+>
+> - b) spáchá-li takový čin ve vztahu k věci pocházející ze zvlášť závažného zločinu,
+>
+> - c) spáchá-li takový čin ve vztahu k věci, která má značnou hodnotu,
+>
+> - d) získá-li takovým činem pro sebe nebo pro jiného značný prospěch, nebo
+>
+> - e) spáchá-li takový čin proto, že porušil důležitou povinnost vyplývající z jeho zaměstnání, povolání, postavení nebo funkce nebo uloženou mu podle zákona.
+>
+> (5) Odnětím svobody na tři léta až deset let nebo propadnutím majetku bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 nebo [[#§ 2|2]] ve spojení s organizovanou skupinou působící ve více státech,
+>
+> - b) spáchá-li takový čin ve vztahu k věci, která má hodnotu velkého rozsahu, nebo
+>
+> - c) získá-li takovým činem pro sebe nebo pro jiného prospěch velkého rozsahu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=378b65aeb5381f9cc7c0 -->
+
 ### § 216a — Zvláštní ustanovení o trestání
 Soud při ukládání trestu za § 216 odst. 1—2 přihlédne k sazbě **zdrojového TČ** — pokud má **mírnější sazbu**, lze ji použít jako limit.
 
@@ -695,6 +1374,52 @@ Ustanovení je korektivem proporcionality: brání tomu, aby pachatel praní pen
 **Typicky rozhodné důkazy / podklady:** zjištění o povaze a kvalifikaci zdrojového TČ, jeho zákonná sazba, popis role pachatele legalizace, odůvodnění výměry trestu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=23ba5c01557f4883ecf1 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 216a — Zvláštní ustanovení o trestání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> Při stanovení druhu trestu a jeho výměry za trestný čin legalizace výnosů z trestné činnosti podle § 216 odst. 1 a [[#§ 2|2]] soud přihlédne také k výši trestní sazby stanovené na trestný čin, ze kterého pochází výnos z trestné činnosti, pokud [[trestní zákon|trestní zákon]] na tento trestný čin stanoví trest mírnější.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 216, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=23ba5c01557f4883ecf1 -->
 
 ### § 217 — Legalizace z nedbalosti
 
@@ -744,6 +1469,72 @@ Ustanovení postihuje nedbalostní (z hrubé nedbalosti) umožnění legalizace 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=82426716341029f2b5fd generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 217 — Legalizace výnosů z trestné činnosti z nedbalosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo jinému z nedbalosti umožní zastřít původ nebo zjištění původu věci větší hodnoty, která je výnosem z trestné činnosti spáchané na území České republiky nebo v cizině, bude potrestán odnětím svobody až na jeden rok, zákazem činnosti nebo propadnutím věci.
+>
+> (2) Stejně bude potrestán, kdo z nedbalosti ukryje, na sebe nebo na jiného převede, přechovává nebo užívá věc větší hodnoty, která je výnosem z trestné činnosti spáchané na území České republiky nebo v cizině jinou osobou.
+>
+> (3) Odnětím svobody až na tři léta bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 nebo [[#§ 2|2]] proto, že porušil důležitou povinnost vyplývající z jeho zaměstnání, povolání, postavení nebo funkce nebo uloženou mu podle zákona,
+>
+> - b) spáchá-li takový čin ve vztahu k věci pocházející ze zločinu,
+>
+> - c) spáchá-li takový čin ve vztahu k věci, která má značnou hodnotu, nebo
+>
+> - d) získá-li takovým činem pro sebe nebo pro jiného značný prospěch.
+>
+> (4) Odnětím svobody na jeden rok až pět let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 nebo [[#§ 2|2]] ve vztahu k věci pocházející ze zvlášť závažného zločinu,
+>
+> - b) spáchá-li takový čin ve vztahu k věci, která má hodnotu velkého rozsahu, nebo
+>
+> - c) získá-li takovým činem pro sebe nebo pro jiného prospěch velkého rozsahu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=82426716341029f2b5fd -->
+
 ### § 217a — Společné ustanovení
 **Trestnost zdrojového TČ se posuzuje podle českého TZ**, bez ohledu na trestnost v zemi spáchání. Klíčové: praní špinavých peněz z TČ spáchaného v cizině je trestné v ČR, i kdyby tam zdrojový TČ formálně nebyl trestný.
 
@@ -784,6 +1575,52 @@ Společné ustanovení zajišťuje, že praní výnosů z trestné činnosti sp�
 **Typicky rozhodné důkazy / podklady:** zjištění o zahraničním zdrojovém jednání (mezinárodní právní pomoc), právní analýza jeho kvalifikace dle českého TZ, doklady o tocích prostředků do ČR.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e485458c622e817203c1 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 217a — Společné ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> Za trestnou činnost spáchanou v cizině se pro účely [[#§ 216|§ 216]] a [[#§ 217|217]] považuje čin spáchaný v cizině, který naplňuje znaky trestného činu podle zákona České republiky, bez ohledu na to, zda je trestný i podle zákona státu, na jehož území byl spáchán.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 216, § 217
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e485458c622e817203c1 -->
 
 ### § 218 — Lichva
 
@@ -847,6 +1684,68 @@ Lichva postihuje aktivní zneužití slabosti, tísně či nezkušenosti oběti 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=25257b4ad69cc20238f6 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 218 — Lichva
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo zneužívaje něčí rozumové slabosti, tísně, nezkušenosti, lehkomyslnosti nebo něčího rozrušení, dá sobě nebo jinému poskytnout nebo slíbit plnění, jehož hodnota je k hodnotě vzájemného plnění v hrubém nepoměru, nebo
+> kdo takovou pohledávku uplatní nebo v úmyslu uplatnit ji na sebe převede,
+> bude potrestán odnětím svobody až na dvě léta nebo zákazem činnosti.
+>
+> (2) Odnětím svobody na šest měsíců až pět let bude pachatel potrestán,
+>
+> - a) získá-li činem uvedeným v odstavci 1 pro sebe nebo pro jiného značný prospěch,
+>
+> - b) spáchá-li takový čin jako člen organizované skupiny, nebo
+>
+> - c) způsobí-li takovým činem jinému stav těžké nouze.
+>
+> (3) Odnětím svobody na tři léta až osm let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 za stavu ohrožení státu nebo za válečného stavu, za živelní pohromy nebo jiné události vážně ohrožující život nebo zdraví lidí, veřejný pořádek nebo majetek, nebo
+>
+> - b) získá-li takovým činem pro sebe nebo pro jiného prospěch velkého rozsahu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=25257b4ad69cc20238f6 -->
+
 ### § 219 — Zatajení věci
 
 #### Pojem
@@ -903,6 +1802,56 @@ Zatajení věci postihuje přisvojení cizí věci (≥ 10 000 Kč), kterou pach
 **Typicky rozhodné důkazy / podklady:** kamerové záznamy, obsah a doklady umožňující identifikaci vlastníka, výpověď vlastníka o hodnotě a okolnostech ztráty, údaje o nakládání s věcí (zahození, prodej).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b242809dfa69d0abc814 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 219 — Zatajení věci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo si přisvojí cizí věc nikoli nepatrné hodnoty, která se dostala do jeho moci nálezem, omylem nebo jinak bez přivolení osoby oprávněné, bude potrestán odnětím svobody až na jeden rok nebo zákazem činnosti.
+>
+> (2) Odnětím svobody na šest měsíců až pět let bude pachatel potrestán, získá-li činem uvedeným v odstavci 1 pro sebe nebo pro jiného značný prospěch.
+>
+> (3) Odnětím svobody na dvě léta až osm let bude pachatel potrestán, získá-li činem uvedeným v odstavci 1 pro sebe nebo pro jiného prospěch velkého rozsahu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b242809dfa69d0abc814 -->
 
 ## D. Porušení správy cizího majetku
 
@@ -972,6 +1921,60 @@ Ustanovení je hlavním nástrojem manažerské trestní odpovědnosti (tunelov�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c79d0349b2d39205ceba generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 220 — Porušení povinnosti při správě cizího majetku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo poruší podle zákona mu uloženou nebo smluvně převzatou povinnost opatrovat nebo spravovat cizí majetek, a tím jinému způsobí škodu nikoli malou, bude potrestán odnětím svobody až na dvě léta nebo zákazem činnosti.
+>
+> (2) Odnětím svobody na šest měsíců až pět let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 jako osoba, která má zvlášť uloženou povinnost hájit zájmy poškozeného, nebo
+>
+> - b) způsobí-li takovým činem značnou škodu.
+>
+> (3) Odnětím svobody na dvě léta až osm let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 škodu velkého rozsahu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c79d0349b2d39205ceba -->
+
 ### § 221 — Porušení povinnosti z nedbalosti
 
 #### Pojem
@@ -1022,6 +2025,58 @@ Nedbalostní forma porušení správy cizího majetku má proti § 220 vyšší 
 **Typicky rozhodné důkazy / podklady:** statut/smlouva vymezující povinnosti, investiční a rozhodovací dokumentace, znalecký posudek o standardu obezřetné správy, účetní doložení výše škody.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=43cab10194eefed6e23a generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 221 — Porušení povinnosti při správě cizího majetku z nedbalosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo z hrubé nedbalosti poruší podle zákona mu uloženou nebo smluvně převzatou důležitou povinnost při opatrování nebo správě cizího majetku, a tím jinému způsobí značnou škodu, bude potrestán odnětím svobody až na šest měsíců nebo zákazem činnosti.
+>
+> (2) Odnětím svobody až na tři léta bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 jako osoba, která má zvlášť uloženou povinnost hájit zájmy poškozeného, nebo
+>
+> - b) způsobí-li takovým činem škodu velkého rozsahu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=43cab10194eefed6e23a -->
 
 ## E. Insolvenční TČ
 
@@ -1077,6 +2132,90 @@ Ustanovení postihuje dlužníka (odst. 1) i pomáhající třetí osobu (odst. 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f6d8214f3f136d4d1681 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 222 — Poškození věřitele
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo, byť i jen částečně, zmaří uspokojení svého věřitele tím, že
+>
+> - a) zničí, poškodí, zatají, zcizí, učiní neupotřebitelnou, nebo odstraní, byť i jen část svého majetku,
+>
+> - b) postoupí svou pohledávku, anebo převezme dluh jiného,
+>
+> - c) zatíží věc, která je předmětem závazku, nebo ji pronajme,
+>
+> - d) předstírá nebo uzná neexistující právo nebo závazek,
+>
+> - e) předstírá nebo uzná právo nebo závazek ve větším rozsahu, než odpovídá skutečnosti,
+>
+> - f) předstírá splnění závazku, nebo
+>
+> - g) předstírá úpadek nebo svůj majetek jinak zdánlivě zmenšuje nebo předstírá jeho zánik,
+>
+> a způsobí tím na cizím majetku škodu nikoli malou, bude potrestán odnětím svobody až na dvě léta nebo zákazem činnosti.
+>
+> (2) Stejně bude potrestán, kdo, byť i jen částečně, zmaří uspokojení věřitele jiné osoby tím, že
+>
+> - a) zničí, poškodí, zatají, zcizí, učiní neupotřebitelnou nebo odstraní, byť i jen část majetku dlužníka, nebo
+>
+> - b) k majetku dlužníka uplatní neexistující právo nebo pohledávku nebo existující právo nebo pohledávku ve vyšší hodnotě či lepším pořadí, než jaké má,
+>
+> a způsobí tím na cizím majetku škodu nikoli malou.
+>
+> (3) Odnětím svobody na šest měsíců až pět let bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 nebo [[#§ 2|2]] značnou škodu, nebo
+>
+> - b) získá-li takovým činem pro sebe nebo pro jiného značný prospěch.
+>
+> (4) Odnětím svobody na tři léta až osm let bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 nebo [[#§ 2|2]] škodu velkého rozsahu,
+>
+> - b) získá-li takovým činem pro sebe nebo pro jiného prospěch velkého rozsahu, nebo
+>
+> - c) způsobí-li takovým činem jinému úpadek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f6d8214f3f136d4d1681 -->
+
 ### § 223 — Zvýhodnění věřitele
 
 #### Pojem
@@ -1125,6 +2264,60 @@ Ustanovení postihuje selektivní (přednostní) uspokojení jednoho věřitele 
 **Typicky rozhodné důkazy / podklady:** účetnictví a přehled závazků/věřitelů, bankovní výpisy o sporné platbě, doklady o splatnosti pohledávek, insolvenční spis a stanovisko insolvenčního správce, případně znalecký výpočet poměrného uspokojení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=cee3c1ff67db11534663 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 223 — Zvýhodnění věřitele
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo jako dlužník, který je v úpadku, zmaří, byť i jen částečně, uspokojení svého věřitele zvýhodněním jiného věřitele, a způsobí tím na cizím majetku škodu nikoli malou, bude potrestán odnětím svobody až na jeden rok nebo zákazem činnosti.
+>
+> (2) Odnětím svobody na šest měsíců až tři léta bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 značnou škodu.
+>
+> (3) Odnětím svobody na dvě léta až osm let bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 škodu velkého rozsahu, nebo
+>
+> - b) způsobí-li takovým činem jinému úpadek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cee3c1ff67db11534663 -->
 
 ### § 224 — Způsobení úpadku
 
@@ -1180,6 +2373,70 @@ Ustanovení postihuje dlužníka, který si z hrubé nedbalosti sám přivodí �
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=566fcd10be1b635b64e1 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 224 — Způsobení úpadku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo, byť i z hrubé nedbalosti, si přivodí úpadek tím, že
+>
+> - a) činí vydání hrubě nepřiměřená svým majetkovým poměrům,
+>
+> - b) spravuje svůj majetek způsobem, který neodpovídá zákonem mu uloženým nebo smluvně převzatým povinnostem nebo je s nimi v hrubém nepoměru,
+>
+> - c) užívá poskytnutý úvěr v rozporu nebo hrubém nepoměru s jeho účelem,
+>
+> - d) poskytuje ze svého majetku půjčky nebo úvěry jiným osobám, ač to je v hrubém nepoměru k jeho majetkovým poměrům, nebo
+>
+> - e) učiní nad rámec obvyklého podnikatelského rizika obchod nebo operaci, která nenáleží k jeho pravidelné podnikatelské činnosti nebo je v hrubém nepoměru k jeho majetkovým poměrům,
+>
+> bude potrestán odnětím svobody až na jeden rok nebo zákazem činnosti.
+>
+> (2) Stejně bude potrestán, kdo, byť i z hrubé nedbalosti, přijme nový závazek nebo zřídí zástavu, ač ví, že je v úpadku, a tím zhorší postavení dosavadních věřitelů.
+>
+> (3) Odnětím svobody až na tři léta bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 nebo [[#§ 2|2]] značnou škodu.
+>
+> (4) Odnětím svobody na šest měsíců až pět let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 nebo [[#§ 2|2]] škodu velkého rozsahu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=566fcd10be1b635b64e1 -->
+
 ### § 225 — Porušení povinnosti v insolvenčním řízení
 
 #### Pojem
@@ -1229,6 +2486,52 @@ Ustanovení (ohrožovací delikt) postihuje dlužníka (typicky), který maří 
 **Typicky rozhodné důkazy / podklady:** výzvy IS k součinnosti a doklady o jejich nesplnění, protokoly o pokusech o přístup/převzetí dokumentace, doklady o (později zjištěném) zatajeném majetku, insolvenční spis.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4ecc1354f64efd1b542d generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 225 — Porušení povinnosti v insolvenčním řízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> Kdo v insolvenčním řízení maří nebo hrubě ztěžuje výkon funkce insolvenčního správce, a tím ohrozí účel insolvenčního řízení, bude potrestán odnětím svobody na šest měsíců až tři léta nebo zákazem činnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4ecc1354f64efd1b542d -->
 
 ### § 226 — Pletichy v insolvenčním řízení
 
@@ -1281,6 +2584,70 @@ Ustanovení je speciální skutkovou podstatou úplatkářství v insolvenčním
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=85e8293d3d02559e0f37 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 226 — Pletichy v insolvenčním řízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo jako věřitel v souvislosti s hlasováním věřitelů v insolvenčním řízení přijme nebo si dá slíbit v rozporu se zásadami a pravidly insolvenčního řízení majetkový nebo jiný prospěch, bude potrestán odnětím svobody až na jeden rok nebo zákazem činnosti.
+>
+> (2) Stejně bude potrestán, kdo věřiteli v souvislosti s hlasováním věřitelů v insolvenčním řízení poskytne, nabídne nebo slíbí v rozporu se zásadami a pravidly insolvenčního řízení majetkový nebo jiný prospěch.
+>
+> (3) Odnětím svobody až na dvě léta nebo zákazem činnosti bude potrestán, kdo jako insolvenční správce, člen věřitelského výboru nebo zástupce věřitelů v insolvenčním řízení přijme nebo si dá slíbit pro sebe nebo jiného ke škodě věřitelů majetkový nebo jiný prospěch, který mu nepřísluší.
+>
+> (4) Odnětím svobody na šest měsíců až tři léta bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1, [[#§ 2|2]] nebo [[#§ 3|3]] značnou škodu,
+>
+> - b) získá-li takovým činem pro sebe nebo pro jiného značný prospěch, nebo
+>
+> - c) spáchá-li takový čin jako úřední osoba.
+>
+> (5) Odnětím svobody na dvě léta až šest let bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1, [[#§ 2|2]] nebo [[#§ 3|3]] škodu velkého rozsahu, nebo
+>
+> - b) získá-li takovým činem pro sebe nebo pro jiného prospěch velkého rozsahu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=85e8293d3d02559e0f37 -->
+
 ### § 227 — Porušení povinnosti učinit pravdivé prohlášení o majetku
 
 #### Pojem
@@ -1330,6 +2697,52 @@ Ustanovení chrání pravdivost zákonných prohlášení o majetku (exekuce, in
 **Typicky rozhodné důkazy / podklady:** protokol o prohlášení o majetku a poučení, výpisy z katastru, registru vozidel a obchodního rejstříku, doklady o příjmech, exekuční/insolvenční spis.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=49593ea9a75ee4b899e5 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 227 — Porušení povinnosti učinit pravdivé prohlášení o majetku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> Kdo v řízení před soudem nebo jiným orgánem veřejné moci odmítne splnit zákonnou povinnost učinit prohlášení o majetku nebo se takové povinnosti vyhýbá nebo v takovém prohlášení uvede nepravdivé nebo hrubě zkreslené údaje, bude potrestán odnětím svobody na šest měsíců až tři léta nebo zákazem činnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=49593ea9a75ee4b899e5 -->
 
 ## F. Poškození a zneužití věci
 
@@ -1386,6 +2799,66 @@ Ustanovení postihuje zničení či poškození cizí věci se škodou nikoli ne
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=132128ad0051323b6681 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 228 — Poškození cizí věci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo zničí, poškodí nebo učiní neupotřebitelnou cizí věc, a způsobí tak na cizím majetku škodu nikoli nepatrnou, bude potrestán odnětím svobody až na jeden rok, zákazem činnosti nebo propadnutím věci.
+>
+> (2) Stejně bude potrestán, kdo poškodí cizí věc tím, že ji postříká, pomaluje či popíše barvou nebo jinou látkou.
+>
+> (3) Odnětím svobody na šest měsíců až tři léta bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 nebo [[#§ 2|2]] na věci svědka, znalce nebo tlumočníka pro výkon jejich povinnosti,
+>
+> - b) spáchá-li takový čin na věci jiného pro jeho skutečnou nebo domnělou rasu, příslušnost k etnické nebo sociální skupině, národnost, věk, pohlaví, sexuální orientaci, zdravotní postižení, politické přesvědčení, vyznání nebo proto, že je skutečně nebo domněle bez vyznání, anebo pro jeho skutečnou nebo domnělou příslušnost k jiné skupině osob,
+>
+> - c) spáchá-li takový čin na věci, která požívá ochrany podle jiného právního předpisu, nebo
+>
+> - d) způsobí-li takovým činem značnou škodu.
+>
+> (4) Odnětím svobody na dvě léta až šest let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 nebo [[#§ 2|2]] škodu velkého rozsahu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=132128ad0051323b6681 -->
+
 ### § 229 — Zneužívání vlastnictví
 
 #### Pojem
@@ -1435,6 +2908,52 @@ Ustanovení je výjimkou z dispoziční volnosti vlastníka: postihuje zničení
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o prohlášení za kulturní památku / evidence památného stromu či chráněného druhu, znalecké ocenění věci, fotodokumentace a odborné posouzení rozsahu poškození, stavební/správní spis.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=46ed86df51d919c8a4d0 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 229 — Zneužívání vlastnictví
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> Kdo poškodí důležitý zájem kulturní, vědecký, na ochraně přírody, krajiny nebo životního prostředí, chráněný jiným právním předpisem, tím, že zničí, poškodí, učiní neupotřebitelnou nebo zašantročí vlastní věc větší hodnoty, která požívá ochrany podle jiného právního předpisu, bude potrestán odnětím svobody až na dvě léta, zákazem činnosti nebo propadnutím věci.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=46ed86df51d919c8a4d0 -->
 
 ## G. Kybernetické trestné činy (§§ 230—232)
 
@@ -1508,6 +3027,88 @@ Klíčový kybernetický TČ postihuje neoprávněný přístup po překonání 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e171fc8e6cdce69f9864 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 230 — Neoprávněný přístup k počítačovému systému a neoprávněný zásah do počítačového systému nebo nosiče informací
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo překoná bezpečnostní opatření, a tím neoprávněně získá přístup k počítačovému systému nebo k jeho části, bude potrestán odnětím svobody až na dvě léta, zákazem činnosti nebo propadnutím věci.
+>
+> (2) Kdo zasáhne do počítačového systému nebo nosiče informací tím, že
+>
+> - a) neoprávněně užije data uložená v počítačovém systému nebo na nosiči informací,
+>
+> - b) data uložená v počítačovém systému nebo na nosiči informací neoprávněně vymaže nebo jinak zničí, poškodí, změní, potlačí, sníží jejich kvalitu nebo je učiní neupotřebitelnými,
+>
+> - c) padělá nebo pozmění data uložená v počítačovém systému nebo na nosiči informací tak, aby byla považována za pravá nebo podle nich bylo jednáno tak, jako by to byla data pravá, bez ohledu na to, zda jsou tato data přímo čitelná a srozumitelná, nebo
+>
+> - d) neoprávněně vloží nebo přenese data do počítačového systému nebo na nosič informací nebo učiní jiný zásah do programového nebo technického vybavení počítačového systému nebo jiného technického zařízení pro zpracování dat,
+>
+> bude potrestán odnětím svobody až na tři léta, zákazem činnosti nebo propadnutím věci.
+>
+> (3) Odnětím svobody na šest měsíců až čtyři léta, zákazem činnosti nebo propadnutím věci bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 nebo [[#§ 2|2]]
+>
+> - a) v úmyslu způsobit jinému škodu nebo jinou újmu nebo získat sobě nebo jinému neoprávněný prospěch, nebo
+>
+> - b) v úmyslu neoprávněně omezit funkčnost počítačového systému nebo jiného technického zařízení pro zpracování dat.
+>
+> (4) Odnětím svobody na jeden rok až pět let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 nebo [[#§ 2|2]] jako člen organizované skupiny,
+>
+> - b) způsobí-li takovým činem značnou škodu,
+>
+> - c) spáchá-li takový čin proti počítačovému systému, jehož narušení by mělo závažný dopad na fungování státu, zdraví osob, bezpečnost, hospodářství nebo zajištění základních životních potřeb obyvatel,
+>
+> - d) získá-li takovým činem pro sebe nebo pro jiného značný prospěch, nebo
+>
+> - e) způsobí-li takovým činem vážnou poruchu v činnosti právnické nebo fyzické osoby, která je podnikatelem.
+>
+> (5) Odnětím svobody na tři léta až osm let bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 nebo [[#§ 2|2]] škodu velkého rozsahu, nebo
+>
+> - b) získá-li takovým činem pro sebe nebo pro jiného prospěch velkého rozsahu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e171fc8e6cdce69f9864 -->
+
 ### § 231 — Opatření a přechovávání přístupového zařízení/hesla
 
 #### Pojem
@@ -1563,6 +3164,66 @@ Ustanovení postihuje předstupeň hackingu — výrobu, distribuci, prodej či 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=77d69f00d3eb94984980 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 231 — Opatření a přechovávání přístupového zařízení a hesla k počítačovému systému a jiných takových dat
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo vyrobí, uvede do oběhu, doveze, vyveze, proveze, nabízí, zprostředkuje, prodá nebo jinak zpřístupní, sobě nebo jinému opatří nebo přechovává
+>
+> - a) zařízení nebo jeho součást, postup, nástroj nebo jakýkoli jiný prostředek, včetně počítačového programu, vytvořený nebo přizpůsobený k neoprávněnému přístupu do sítě elektronických komunikací, k počítačovému systému nebo k jeho části nebo k neoprávněnému zásahu do počítačového systému nebo nosiče informací, nebo
+>
+> - b) počítačové heslo, přístupový kód, data, postup nebo jakýkoli jiný podobný prostředek, pomocí něhož lze získat přístup k počítačovému systému nebo jeho části,
+>
+> v úmyslu, aby jej bylo užito ke spáchání trestného činu porušení tajemství dopravovaných zpráv podle § 182 odst. 1 písm. b) nebo c) nebo trestného činu neoprávněného přístupu k počítačovému systému a neoprávněného zásahu do počítačového systému nebo nosiče informací podle § 230 odst. 1 nebo [[#§ 2|2]], bude potrestán odnětím svobody až na dvě léta, propadnutím věci nebo zákazem činnosti.
+>
+> (2) Odnětím svobody až na tři léta, zákazem činnosti nebo propadnutím věci bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 jako člen organizované skupiny, nebo
+>
+> - b) získá-li takovým činem pro sebe nebo pro jiného značný prospěch.
+>
+> (3) Odnětím svobody na šest měsíců až pět let bude pachatel potrestán, získá-li činem uvedeným v odstavci 1 pro sebe nebo pro jiného prospěch velkého rozsahu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 182, § 230, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=77d69f00d3eb94984980 -->
+
 ### § 232 — Z nedbalosti
 
 #### Pojem
@@ -1612,6 +3273,60 @@ Nedbalostní kybernetický TČ postihuje správce IT/bezpečnostní pracovníky,
 **Typicky rozhodné důkazy / podklady:** interní bezpečnostní směrnice a popis pracovních povinností, logy o stavu zabezpečení a varováních, forenzní analýza incidentu a způsobu průniku, vyčíslení škody a rozsahu poškození dat.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b53782cfd4922dc47366 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 232 — Neoprávněný zásah do počítačového systému nebo nosiče informací z nedbalosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo z hrubé nedbalosti porušením povinnosti vyplývající ze zaměstnání, povolání, postavení nebo funkce nebo uložené podle zákona nebo smluvně převzaté
+>
+> - a) data uložená v počítačovém systému nebo na nosiči informací zničí, poškodí, pozmění nebo učiní neupotřebitelnými, nebo
+>
+> - b) učiní zásah do technického nebo programového vybavení počítačového systému nebo jiného technického zařízení pro zpracování dat,
+>
+> a tím způsobí na cizím majetku značnou škodu, bude potrestán odnětím svobody až na šest měsíců, zákazem činnosti nebo propadnutím věci.
+>
+> (2) Odnětím svobody až na dvě léta, zákazem činnosti nebo propadnutím věci bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 škodu velkého rozsahu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b53782cfd4922dc47366 -->
 
 ## Shrnutí Hlavy V
 
