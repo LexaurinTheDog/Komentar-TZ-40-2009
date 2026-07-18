@@ -66,54 +66,6 @@ Ustanovení postihuje „útěk ze zdraví" — úmyslné snížení vlastní č
 
 **Typicky rozhodné důkazy / podklady:** zdravotnická dokumentace, znalecký posudek (lékařství), povolávací rozkaz, komunikace pachatele s pomocníkem, časová osa.
 
-
-<!-- LEGAL-REVISION:BEGIN id=77ccef5af5345c8e4164 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 369 — Maření způsobilosti k službě
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Kdo sebe nebo jiného učiní trvale nebo dočasně nezpůsobilým nebo méně způsobilým k plnění branné povinnosti v době míru, bude potrestán odnětím svobody až na dvě léta.
->
-> (2) Odnětím svobody na jeden rok až deset let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 za stavu ohrožení státu nebo za válečného stavu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=77ccef5af5345c8e4164 -->
-
 ### § 370 — Neplnění odvodní povinnosti
 **Nedostavení se k odvodu** v úmyslu nesplnit/oddálit povinnost. Sazba: až 6 měsíců / 6 m—3 r (válka).
 
@@ -152,54 +104,6 @@ Postihuje úmyslné nedostavení se k odvodu, ať už definitivní, nebo jen zdr
 - [ ] Jde o mír, nebo válečný stav (sazba)?
 
 **Typicky rozhodné důkazy / podklady:** doručenka výzvy, evidence odvodního řízení, zdravotní dokumentace, výpověď povolávaného.
-
-
-<!-- LEGAL-REVISION:BEGIN id=3b9fa5564e918214df94 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 370 — Neplnění odvodní povinnosti
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Kdo se nedostaví k odvodnímu řízení v úmyslu svou odvodní povinnost nesplnit nebo její splnění oddálit, bude potrestán odnětím svobody až na šest měsíců.
->
-> (2) Odnětím svobody na šest měsíců až tři léta bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 za stavu ohrožení státu nebo za válečného stavu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=3b9fa5564e918214df94 -->
 
 ### § 371 — Obcházení branné povinnosti
 
@@ -247,62 +151,6 @@ Sazba: až 1 rok / 6 m—2 r / 6 m—5 let (válka).
 
 **Typicky rozhodné důkazy / podklady:** padělané/nepravdivé listiny, písmoznalecký posudek, doklady o finančních tocích, výpovědi účastníků odvodního řízení.
 
-
-<!-- LEGAL-REVISION:BEGIN id=ef22c0660b4b235c73f1 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 371 — Obcházení branné povinnosti
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Kdo se dopustí pletich v úmyslu dosáhnout úlev v plnění branné povinnosti, bude potrestán odnětím svobody až na jeden rok.
->
-> (2) Kdo se dopustí pletich v úmyslu
->
-> - a) sám se zcela nebo zčásti vyhnout plnění branné povinnosti, nebo
->
-> - b) jiného zcela nebo zčásti vymknout z plnění branné povinnosti,
->
-> bude potrestán odnětím svobody na šest měsíců až dvě léta.
->
-> (3) Odnětím svobody na šest měsíců až pět let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 nebo [[#§ 2|2]] za stavu ohrožení státu nebo za válečného stavu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 2
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=ef22c0660b4b235c73f1 -->
-
 ### § 372 — Nenastoupení služby v ozbrojených silách
 **Za nouzového stavu** nenastoupení po doručeném povolávacím rozkazu (do 24 h). Sazba: až **1 rok**.
 
@@ -346,52 +194,6 @@ Sazba: až 1 rok / 6 m—2 r / 6 m—5 let (válka).
 - [ ] Nejde spíše o § 373 (stav ohrožení/válka) nebo § 374 (nedbalost)?
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o vyhlášení nouzového stavu, povolávací rozkaz, doručenka, evidence nástupů, zdravotní dokumentace.
-
-
-<!-- LEGAL-REVISION:BEGIN id=85e37453e24afb5be65b generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 372 — Nenastoupení služby v ozbrojených silách
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Kdo na základě řádně mu doručeného povolávacího rozkazu nenastoupí za nouzového stavu službu v ozbrojených silách do 24 hodin po uplynutí lhůty stanovené v takovém povolávacím rozkaze, ač mu v tom nebránila žádná zákonem předpokládaná překážka, bude potrestán odnětím svobody až na jeden rok.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=85e37453e24afb5be65b -->
 
 ### § 373 — Nenastoupení **mimořádné** služby v ozbrojených silách
 
@@ -439,54 +241,6 @@ Klíčový TČ při **mobilizaci**. Zákon č. 222/1999 Sb. o zajišťování ob
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o stavu ohrožení/válce, znění mobilizační vyhlášky, doručenka povolávacího rozkazu, evidence branné povinnosti, doklad o nedostavení.
 
-
-<!-- LEGAL-REVISION:BEGIN id=ae92abb8ce89d32f2824 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 373 — Nenastoupení mimořádné služby v ozbrojených silách
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Kdo na základě řádně mu doručeného povolávacího rozkazu nenastoupí za stavu ohrožení státu nebo za válečného stavu mimořádnou službu v ozbrojených silách do 24 hodin po uplynutí lhůty stanovené v takovém povolávacím rozkaze, ač mu v tom nebránila žádná zákonem předpokládaná překážka, bude potrestán odnětím svobody na jeden rok až pět let.
->
-> (2) Kdo, v případě, že neobdrží povolávací rozkaz, nenastoupí za stavu ohrožení státu nebo za válečného stavu mimořádnou službu v ozbrojených silách na základě veřejné vyhlášky nebo mobilizační výzvy, ač mu v tom nebránila žádná zákonem předpokládaná překážka, bude potrestán odnětím svobody až na tři léta.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=ae92abb8ce89d32f2824 -->
-
 ### § 374 — Z nedbalosti
 **Nedbalostní** nenastoupení (zapomněl, ignoroval). Sazba: až 3 roky / 1 rok.
 
@@ -527,54 +281,6 @@ Klíčový TČ při **mobilizaci**. Zákon č. 222/1999 Sb. o zajišťování ob
 **Typicky rozhodné důkazy / podklady:** doručenka rozkazu, vyhlášení stavu/mobilizace, vysvětlení pachatele, doklady o následném dostavení, okolnosti svědčící o formě zavinění.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=ef3b15025023c5edc124 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 374 — Nenastoupení mimořádné služby v ozbrojených silách z nedbalosti
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Kdo na základě řádně mu doručeného povolávacího rozkazu z nedbalosti nenastoupí za stavu ohrožení státu nebo za válečného stavu mimořádnou službu v ozbrojených silách do 24 hodin po uplynutí lhůty stanovené v takovém povolávacím rozkaze, ač mu v tom nebránila žádná zákonem předpokládaná překážka, bude potrestán odnětím svobody až na tři léta.
->
-> (2) Kdo, v případě, že neobdrží povolávací rozkaz, nenastoupí z nedbalosti za stavu ohrožení státu nebo za válečného stavu mimořádnou službu v ozbrojených silách na základě veřejné vyhlášky nebo mobilizační výzvy, ač mu v tom nebránila žádná zákonem předpokládaná překážka, bude potrestán odnětím svobody až na jeden rok.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=ef3b15025023c5edc124 -->
 
 ## HLAVA XII — Trestné činy vojenské
 
@@ -643,72 +349,6 @@ Klíčový TČ při **mobilizaci**. Zákon č. 222/1999 Sb. o zajišťování ob
 
 **Typicky rozhodné důkazy / podklady:** obsah a zákonnost rozkazu, výpovědi velitele a přítomných vojáků, dokumentace cvičení/operace, doklady o významu úkolu a bojové pohotovosti.
 
-
-<!-- LEGAL-REVISION:BEGIN id=d578a65134eb2870b0f6 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 375 — Neuposlechnutí rozkazu
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Kdo odepře provést nebo úmyslně neprovede rozkaz, bude potrestán odnětím svobody až na pět let.
->
-> (2) Odnětím svobody na tři léta až deset let bude pachatel potrestán,
->
-> - a) spáchá-li čin uvedený v odstavci 1 se skupinou vojáků,
->
-> - b) spáchá-li takový čin se zbraní,
->
-> - c) spáchá-li takový čin za okolností, že by tím mohl zmařit nebo podstatně ztížit splnění důležitého služebního úkolu,
->
-> - d) způsobí-li takovým činem ohrožení bojové pohotovosti vojenského útvaru, vojenského zařízení, vojenského záchranného útvaru nebo jiné organizační jednotky v působnosti Ministerstva obrany,
->
-> - e) způsobí-li takovým činem škodu velkého rozsahu nebo poškození životního prostředí, k jehož odstranění je třeba vynaložit náklady nejméně ve velkém rozsahu,
->
-> - f) způsobí-li takovým činem těžkou újmu na zdraví, nebo
->
-> - g) způsobí-li takovým činem smrt.
->
-> (3) Odnětím svobody na osm až dvacet let nebo výjimečným trestem bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 za stavu ohrožení státu, za válečného stavu nebo za bojové situace.
->
-> (4) Příprava je trestná.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=d578a65134eb2870b0f6 -->
-
 ### § 376 — Z nedbalosti
 **Nedbalostní** nesplnění rozkazu vedoucí k zmaření úkolu. Sazba: až 1 / 6 m—5 / 3—10 let.
 
@@ -747,64 +387,6 @@ Klíčový TČ při **mobilizaci**. Zákon č. 222/1999 Sb. o zajišťování ob
 - [ ] Odpovídá sazba situaci (mír / bojová pohotovost / válka)?
 
 **Typicky rozhodné důkazy / podklady:** dokumentace cvičení/operace, záznamy o následku (výpadek, ztráta), výpovědi nadřízeného a spolusloužících, doklad o důležitosti úkolu.
-
-
-<!-- LEGAL-REVISION:BEGIN id=2ea141ea77d79a8921ad generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 376 — Neuposlechnutí rozkazu z nedbalosti
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Kdo z nedbalosti neprovede rozkaz, a tím zmaří nebo podstatně ztíží splnění důležitého služebního úkolu, bude potrestán odnětím svobody až na jeden rok.
->
-> (2) Odnětím svobody na šest měsíců až pět let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1
->
-> - a) vážné ohrožení bojové pohotovosti vojenského útvaru, vojenského zařízení, vojenského záchranného útvaru nebo jiné organizační jednotky v působnosti Ministerstva obrany,
->
-> - b) škodu velkého rozsahu nebo poškození životního prostředí, k jehož odstranění je třeba vynaložit náklady nejméně ve velkém rozsahu,
->
-> - c) těžkou újmu na zdraví, nebo
->
-> - d) smrt.
->
-> (3) Odnětím svobody na tři léta až deset let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 za stavu ohrožení státu, za válečného stavu nebo za bojové situace.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=2ea141ea77d79a8921ad -->
 
 ### § 377 — Zprotivení a donucení k porušení vojenské povinnosti
 **Odpor** vojáku plnícímu povinnost NEBO **donucení** k jejímu porušení. Sazba: až 3 / 2—10 / 8—20 + výjimečný.
@@ -845,70 +427,6 @@ Klíčový TČ při **mobilizaci**. Zákon č. 222/1999 Sb. o zajišťování ob
 
 **Typicky rozhodné důkazy / podklady:** výpovědi poškozeného a svědků, lékařské zprávy o zranění, rozkaz/evidence služby poškozeného, záznamy o incidentu.
 
-
-<!-- LEGAL-REVISION:BEGIN id=51dc6e90f05530d1b8bf generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 377 — Zprotivení a donucení k porušení vojenské povinnosti
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Kdo klade odpor vojáku, který plní vojenskou povinnost, nebo jej donutí k porušení vojenské povinnosti, bude potrestán odnětím svobody až na tři léta.
->
-> (2) Odnětím svobody na dvě léta až deset let bude pachatel potrestán,
->
-> - a) spáchá-li čin uvedený v odstavci 1 se skupinou osob,
->
-> - b) spáchá-li takový čin se zbraní,
->
-> - c) spáchá-li takový čin za bojové situace, nebo
->
-> - d) způsobí-li takovým činem těžkou újmu na zdraví.
->
-> (3) Odnětím svobody na osm až dvacet let nebo výjimečným trestem bude pachatel potrestán,
->
-> - a) způsobí-li činem uvedeným v odstavci 1 smrt, nebo
->
-> - b) spáchá-li čin uvedený v odstavci 2 za stavu ohrožení státu nebo za válečného stavu.
->
-> (4) Příprava je trestná.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=51dc6e90f05530d1b8bf -->
-
 ### § 378 — Urážka mezi vojáky
 **Verbální urážka** mezi vojáky (nadřízený-podřízený, stejná hodnost ve službě). Sazba: až 1 rok / 3 roky (hate crime).
 
@@ -947,62 +465,6 @@ Klíčový TČ při **mobilizaci**. Zákon č. 222/1999 Sb. o zajišťování ob
 - [ ] Nepřistoupilo násilí/pohrůžka (§ 379 / § 380)?
 
 **Typicky rozhodné důkazy / podklady:** výpovědi svědků, zvukový/obrazový záznam, dokumentace nástupu/služby, doklady o služebním vztahu a hodnostech.
-
-
-<!-- LEGAL-REVISION:BEGIN id=f216f56d4d526decead8 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 378 — Urážka mezi vojáky
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Kdo urazí
->
-> - a) nadřízeného nebo vojáka s vyšší hodností,
->
-> - b) podřízeného nebo vojáka s nižší hodností, nebo
->
-> - c) vojáka stejné hodnosti v době, kdy sám nebo uražený vykonává strážní, dozorčí nebo jinou službu,
->
-> bude potrestán odnětím svobody až na jeden rok.
->
-> (2) Odnětím svobody až na tři léta bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 na jiném pro jeho skutečnou nebo domnělou rasu, příslušnost k etnické nebo sociální skupině, národnost, věk, pohlaví, sexuální orientaci, zdravotní postižení, politické přesvědčení, vyznání nebo proto, že je skutečně nebo domněle bez vyznání, anebo pro jeho skutečnou nebo domnělou příslušnost k jiné skupině osob.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=f216f56d4d526decead8 -->
 
 ### § 379 — Urážka mezi vojáky **násilím / pohrůžkou**
 Násilí nadřízeného-podřízeného. Sazba: až 3 / 1—5 let.
@@ -1043,70 +505,6 @@ Násilí nadřízeného-podřízeného. Sazba: až 3 / 1—5 let.
 
 **Typicky rozhodné důkazy / podklady:** lékařské zprávy, výpovědi svědků, doklady o hodnostech a služebním vztahu, záznamy incidentu.
 
-
-<!-- LEGAL-REVISION:BEGIN id=5b4a1a675026cb532a37 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 379 — Urážka mezi vojáky násilím nebo pohrůžkou násilí
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Kdo násilím nebo pohrůžkou bezprostředního násilí urazí
->
-> - a) nadřízeného nebo vojáka s vyšší hodností, nebo
->
-> - b) podřízeného nebo vojáka s nižší hodností,
->
-> bude potrestán odnětím svobody až na tři léta.
->
-> (2) Odnětím svobody na jeden rok až pět let bude pachatel potrestán,
->
-> - a) spáchá-li čin uvedený v odstavci 1 v době, kdy sám nebo uražený vykonává strážní, dozorčí nebo jinou službu,
->
-> - b) spáchá-li takový čin proti vojenské stráži,
->
-> - c) spáchá-li takový čin se zbraní nebo nejméně se dvěma osobami,
->
-> - d) spáchá-li takový čin na jiném pro jeho skutečnou nebo domnělou rasu, příslušnost k etnické nebo sociální skupině, národnost, věk, pohlaví, sexuální orientaci, zdravotní postižení, politické přesvědčení, vyznání nebo proto, že je skutečně nebo domněle bez vyznání, anebo pro jeho skutečnou nebo domnělou příslušnost k jiné skupině osob, nebo
->
-> - e) způsobí-li takovým činem ublížení na zdraví.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=5b4a1a675026cb532a37 -->
-
 ### § 380 — Urážka vojáka stejné hodnosti násilím
 Násilí mezi stejnou hodností **ve službě**. Sazba: až 2 / 6 m—5 let.
 
@@ -1145,62 +543,6 @@ Násilí mezi stejnou hodností **ve službě**. Sazba: až 2 / 6 m—5 let.
 - [ ] Nejde spíše o § 382 (soustavné porušování práv) nebo souběh s § 146?
 
 **Typicky rozhodné důkazy / podklady:** rozpis služeb, doklady o hodnostech, výpovědi svědků, lékařské zprávy.
-
-
-<!-- LEGAL-REVISION:BEGIN id=fe83eafce7e17031d726 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 380 — Urážka vojáka stejné hodnosti násilím nebo pohrůžkou násilí
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Kdo násilím nebo pohrůžkou bezprostředního násilí urazí vojáka stejné hodnosti v době, kdy sám nebo uražený vykonává strážní, dozorčí nebo jinou službu, bude potrestán odnětím svobody až na dvě léta.
->
-> (2) Odnětím svobody na šest měsíců až pět let bude pachatel potrestán,
->
-> - a) spáchá-li čin uvedený v odstavci 1 proti vojenské stráži,
->
-> - b) spáchá-li takový čin se zbraní nebo nejméně se dvěma osobami,
->
-> - c) spáchá-li takový čin na jiném pro jeho skutečnou nebo domnělou rasu, příslušnost k etnické nebo sociální skupině, národnost, věk, pohlaví, sexuální orientaci, zdravotní postižení, politické přesvědčení, vyznání nebo proto, že je skutečně nebo domněle bez vyznání, anebo pro jeho skutečnou nebo domnělou příslušnost k jiné skupině osob, nebo
->
-> - d) způsobí-li takovým činem ublížení na zdraví.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=fe83eafce7e17031d726 -->
 
 ### § 381 — Násilí vůči nadřízenému
 
@@ -1246,72 +588,6 @@ Násilí mezi stejnou hodností **ve službě**. Sazba: až 2 / 6 m—5 let.
 
 **Typicky rozhodné důkazy / podklady:** lékařské zprávy, výpovědi svědků, dokumentace rozkazu/kázeňského postihu (motiv), doklady o služební podřízenosti.
 
-
-<!-- LEGAL-REVISION:BEGIN id=beaa51a0e47c612338eb generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 381 — Násilí vůči nadřízenému
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Kdo užije násilí vůči nadřízenému
->
-> - a) v úmyslu působit na výkon jeho vojenských povinností, nebo
->
-> - b) pro výkon jeho vojenských povinností,
->
-> bude potrestán odnětím svobody na šest měsíců až pět let.
->
-> (2) Odnětím svobody na tři léta až deset let bude pachatel potrestán,
->
-> - a) způsobí-li činem uvedeným v odstavci 1 těžkou újmu na zdraví, nebo
->
-> - b) spáchá-li takový čin se zbraní nebo nejméně se dvěma osobami.
->
-> (3) Odnětím svobody na deset až dvacet let nebo výjimečným trestem bude pachatel potrestán,
->
-> - a) způsobí-li činem uvedeným v odstavci 1 smrt, nebo
->
-> - b) spáchá-li takový čin za stavu ohrožení státu, za válečného stavu nebo za bojové situace.
->
-> (4) Příprava je trestná.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=beaa51a0e47c612338eb -->
-
 ### § 382 — Porušování práv vojáků stejné hodnosti
 
 #### Pojem
@@ -1355,74 +631,6 @@ Násilí mezi stejnou hodností **ve službě**. Sazba: až 2 / 6 m—5 let.
 - [ ] Není dán souběh (vydírání, omezování osobní svobody, újma na zdraví)?
 
 **Typicky rozhodné důkazy / podklady:** výpovědi oběti a svědků, záznamy o službě/odpočinku, komunikace, lékařské zprávy, doklady o hodnostech.
-
-
-<!-- LEGAL-REVISION:BEGIN id=a99fe8f10740700a149e generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 382 — Porušování práv a chráněných zájmů vojáků stejné hodnosti
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Kdo vojáka stejné hodnosti nutí k osobním úsluhám nebo ho omezuje na právech nebo svévolně ztěžuje výkon jeho služby, bude potrestán odnětím svobody až na dvě léta.
->
-> (2) Odnětím svobody na šest měsíců až pět let bude pachatel potrestán,
->
-> - a) spáchá-li čin uvedený v odstavci 1 násilím nebo pohrůžkou násilí nebo pohrůžkou jiné těžké újmy,
->
-> - b) spáchá-li takový čin nejméně se dvěma osobami,
->
-> - c) spáchá-li takový čin na jiném pro jeho skutečnou nebo domnělou rasu, příslušnost k etnické nebo sociální skupině, národnost, věk, pohlaví, sexuální orientaci, zdravotní postižení, politické přesvědčení, vyznání nebo proto, že je skutečně nebo domněle bez vyznání, anebo pro jeho skutečnou nebo domnělou příslušnost k jiné skupině osob, nebo
->
-> - d) způsobí-li takovým činem ublížení na zdraví.
->
-> (3) Odnětím svobody na dvě léta až osm let bude pachatel potrestán,
->
-> - a) spáchá-li čin uvedený v odstavci 1 zvlášť surovým způsobem nebo se zbraní,
->
-> - b) způsobí-li takovým činem těžkou újmu na zdraví, nebo
->
-> - c) spáchá-li takový čin za stavu ohrožení státu, za válečného stavu nebo za bojové situace.
->
-> (4) Odnětím svobody na osm až šestnáct let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 smrt.
->
-> (5) Příprava je trestná.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=a99fe8f10740700a149e -->
 
 ### § 383 — Porušování práv podřízených
 
@@ -1470,74 +678,6 @@ Násilí mezi stejnou hodností **ve službě**. Sazba: až 2 / 6 m—5 let.
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=084ff9395c7f8dbed749 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 383 — Porušování práv a chráněných zájmů vojáků podřízených nebo s nižší hodností
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Kdo podřízeného vojáka nebo vojáka s nižší hodností nutí k osobním úsluhám nebo ho omezuje na právech nebo svévolně ztěžuje výkon jeho služby anebo mu uloží kázeňský trest v rozporu s jiným právním předpisem, bude potrestán odnětím svobody na šest měsíců až tři léta.
->
-> (2) Odnětím svobody na jeden rok až pět let bude pachatel potrestán,
->
-> - a) spáchá-li čin uvedený v odstavci 1 násilím nebo pohrůžkou násilí nebo pohrůžkou jiné těžké újmy,
->
-> - b) spáchá-li takový čin nejméně se dvěma osobami,
->
-> - c) spáchá-li takový čin na jiném pro jeho skutečnou nebo domnělou rasu, příslušnost k etnické nebo sociální skupině, národnost, věk, pohlaví, sexuální orientaci, zdravotní postižení, politické přesvědčení, vyznání nebo proto, že je skutečně nebo domněle bez vyznání, anebo pro jeho skutečnou nebo domnělou příslušnost k jiné skupině osob, nebo
->
-> - d) způsobí-li takovým činem ublížení na zdraví.
->
-> (3) Odnětím svobody na tři léta až deset let bude pachatel potrestán,
->
-> - a) spáchá-li čin uvedený v odstavci 1 zvlášť surovým způsobem nebo se zbraní,
->
-> - b) způsobí-li takovým činem těžkou újmu na zdraví, nebo
->
-> - c) spáchá-li takový čin za stavu ohrožení státu, za válečného stavu nebo za bojové situace.
->
-> (4) Odnětím svobody na osm až šestnáct let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 smrt.
->
-> (5) Příprava je trestná.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=084ff9395c7f8dbed749 -->
-
 ## DÍL 2 — TČ proti povinnosti konat vojenskou službu
 
 ### § 384 — Vyhýbání se výkonu služby
@@ -1583,54 +723,6 @@ Sazba: až 3 roky / **8—20 + výjimečný** (válka/bojová situace).
 
 **Typicky rozhodné důkazy / podklady:** zdravotní dokumentace, znalecký posudek (lékařství), toxikologické vyšetření, padělaná listina a písmoznalecký posudek, doklad o vyhlášení nouzového stavu.
 
-
-<!-- LEGAL-REVISION:BEGIN id=cb0a9475113a87d8c339 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 384 — Vyhýbání se výkonu služby
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Kdo se za nouzového stavu v úmyslu vyhnout se výkonu služby poškodí na zdraví, předstírá nemoc, padělá listinu, zneužije návykovou látku nebo použije jiného úskoku, bude potrestán odnětím svobody až na tři léta.
->
-> (2) Odnětím svobody na osm až dvacet let nebo výjimečným trestem bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 za stavu ohrožení státu, za válečného stavu nebo za bojové situace.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=cb0a9475113a87d8c339 -->
-
 ### § 385 — Z nedbalosti
 **Z nedbalosti** zneužití návykové látky → nezpůsobilost ve válce. Sazba: **1—5 let**.
 
@@ -1669,52 +761,6 @@ Sazba: až 3 roky / **8—20 + výjimečný** (válka/bojová situace).
 - [ ] Jaký je vztah k § 360 (opilství)?
 
 **Typicky rozhodné důkazy / podklady:** toxikologické vyšetření, záznam o nenastoupení směny, výpovědi, doklad o válečném stavu.
-
-
-<!-- LEGAL-REVISION:BEGIN id=a3e9fb80897100e1625a generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 385 — Vyhýbání se výkonu služby z nedbalosti
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Kdo se za stavu ohrožení státu, za válečného stavu nebo za bojové situace učiní z nedbalosti nezpůsobilým vykonávat službu tím, že zneužije návykovou látku, bude potrestán odnětím svobody na jeden rok až pět let.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=a3e9fb80897100e1625a -->
 
 ### § 386 — Zběhnutí
 
@@ -1759,58 +805,6 @@ Klasický **vojenský TČ** — útěk z útvaru s úmyslem definitivně. Univer
 - [ ] Uplatní se univerzalita (§ 7/1) při činu v cizině?
 
 **Typicky rozhodné důkazy / podklady:** komunikace/dopisy prozrazující úmysl, doklady o vycestování a zrušení zázemí, evidence nepřítomnosti, výpovědi.
-
-
-<!-- LEGAL-REVISION:BEGIN id=76e142b8de4dd387421a generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 386 — Zběhnutí
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Kdo se svémocně vzdaluje v úmyslu vyhnout se vojenské službě, bude potrestán odnětím svobody na jeden rok až šest let.
->
-> (2) Odnětím svobody na tři léta až deset let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 se zbraní.
->
-> (3) Odnětím svobody na osm až dvacet let nebo výjimečným trestem bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 za stavu ohrožení státu nebo za válečného stavu.
->
-> (4) Příprava je trestná.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=76e142b8de4dd387421a -->
 
 ### § 387 — Svémocné odloučení
 
@@ -1862,63 +856,6 @@ Klasický **vojenský TČ** — útěk z útvaru s úmyslem definitivně. Univer
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=24084cc5c5c475c7099e generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 387 — Svémocné odloučení
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Kdo se svémocně vzdaluje tím, že se nedostaví včas k odjezdu nebo odletu vojenského transportu, bude potrestán odnětím svobody až na jeden rok.
->
-> (2) Kdo se svémocně vzdaluje po dobu delší než tři dny,
-> kdo se svémocně vzdaluje opakovaně po dobu delší než 24 hodiny, ačkoliv již byl v posledním roce za takový čin kázeňsky potrestán,
-> kdo se svémocně vzdaluje po dobu delší než dva dny v době plnění zvlášť důležitých úkolů, nebo
-> kdo se při službě v zahraničí svémocně vzdaluje po dobu delší než 24 hodiny,
-> bude potrestán odnětím svobody až na tři léta.
->
-> (3) Kdo se svémocně vzdaluje po dobu delší než čtrnáct dnů,
-> kdo se svémocně vzdaluje po dobu delší než šest dnů v době plnění zvlášť důležitých úkolů, nebo
-> kdo se při službě v zahraničí svémocně vzdaluje po dobu delší než tři dny,
-> bude potrestán odnětím svobody na šest měsíců až pět let.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=24084cc5c5c475c7099e -->
-
 ## DÍL 3 — TČ proti povinnostem strážní, dozorčí nebo jiné služby
 
 ### § 388 — Vyhýbání se výkonu strážní/dozorčí služby
@@ -1959,54 +896,6 @@ Analogie k § 384 pro specifickou službu. Sazba: až 2 / **1—10 + výjimečn�
 - [ ] Není dán souběh (§ 348) a nejde spíše o § 389/390 (po nástupu)?
 
 **Typicky rozhodné důkazy / podklady:** rozpis strážní/dozorčí služby, zdravotní dokumentace a znalecký posudek, padělaná listina a písmoznalecký posudek, výpovědi.
-
-
-<!-- LEGAL-REVISION:BEGIN id=b4c802a60120afe95ff3 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 388 — Vyhýbání se výkonu strážní, dozorčí nebo jiné služby
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Kdo se v úmyslu vyhnout se výkonu strážní, dozorčí nebo jiné služby poškodí na zdraví, předstírá nemoc, padělá listinu, zneužije návykovou látku nebo použije jiného úskoku, bude potrestán odnětím svobody až na dvě léta.
->
-> (2) Odnětím svobody na jeden rok až deset let nebo výjimečným trestem bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 za stavu ohrožení státu, za válečného stavu nebo za bojové situace.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=b4c802a60120afe95ff3 -->
 
 ### § 389 — Porušení povinnosti strážní služby
 
@@ -2056,66 +945,6 @@ Analogie k § 384 pro specifickou službu. Sazba: až 2 / **1—10 + výjimečn�
 
 **Typicky rozhodné důkazy / podklady:** strážní rozkaz a předpisy, záznam kontroly stráží, kamerové záznamy, výpovědi velitele stráže a spolusloužících, doklady o povaze střeženého objektu.
 
-
-<!-- LEGAL-REVISION:BEGIN id=3ca1e453df9be620320c generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 389 — Porušení povinnosti strážní služby
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Kdo ve strážní nebo jiné obdobné službě poruší, byť i z nedbalosti, předpisy nebo pravidla této služby nebo zvláštní nařízení podle nich vydaná, bude potrestán odnětím svobody až na tři léta.
->
-> (2) Odnětím svobody na dvě léta až deset let bude pachatel potrestán,
->
-> - a) spáchá-li čin uvedený v odstavci 1 při výkonu strážní služby, která má zvlášť důležitý státní nebo vojenský význam,
->
-> - b) spáchá-li takový čin hrubým porušením své povinnosti,
->
-> - c) způsobí-li takovým činem škodlivý následek, k jehož odvrácení výkon strážní nebo jiné obdobné služby měl směřovat, nebo
->
-> - d) spáchá-li takový čin za stavu ohrožení státu nebo za válečného stavu.
->
-> (3) Odnětím svobody na osm až dvacet let nebo výjimečným trestem bude pachatel potrestán, jestliže úmyslně spáchá čin uvedený v odstavci 1 za bojové situace a je zde některá z okolností uvedených v odstavci 2.
->
-> (4) Příprava je trestná.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=3ca1e453df9be620320c -->
-
 ### § 390 — Porušení povinnosti dozorčí nebo jiné služby
 **Méně závažná** služba (dozorčí, kontrolní). Sazba: až 1 / 2 / 1—5 let.
 
@@ -2154,56 +983,6 @@ Analogie k § 384 pro specifickou službu. Sazba: až 2 / **1—10 + výjimečn�
 - [ ] Nejde spíše o § 389 (strážní, významný objekt) nebo o kázeňský delikt?
 
 **Typicky rozhodné důkazy / podklady:** rozkaz a předpisy dozorčí služby, záznamy o průběhu služby, výpovědi, doklady o povaze a významu služby.
-
-
-<!-- LEGAL-REVISION:BEGIN id=ac8ce35f2522d292d41e generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 390 — Porušení povinnosti dozorčí nebo jiné služby
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Kdo v dozorčí nebo jiné službě, byť i z nedbalosti, poruší předpisy nebo pravidla této služby, bude potrestán odnětím svobody až na jeden rok.
->
-> (2) Odnětím svobody až na dvě léta bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 zvlášť závažný následek, jemuž byl povinen zabránit.
->
-> (3) Odnětím svobody na jeden rok až pět let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 za bojové situace.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=ac8ce35f2522d292d41e -->
 
 ### § 391 — Porušení povinnosti služby při obraně vzdušného prostoru
 
@@ -2253,58 +1032,6 @@ Klíčové pro **NATO integrovaný systém vzdušné obrany** (NATO IADS). Pochy
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=b70ec607551c463fd075 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 391 — Porušení povinnosti služby při obraně vzdušného prostoru
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Kdo poruší, byť i z nedbalosti, pravidla služby v zařízeních určených k zajištění bezpečnosti vzdušného prostoru, bude potrestán odnětím svobody až na tři léta.
->
-> (2) Odnětím svobody na dvě léta až deset let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 zvlášť závažný následek, jemuž byl povinen zabránit.
->
-> (3) Odnětím svobody na osm až dvacet let nebo výjimečným trestem bude pachatel potrestán, jestliže čin uvedený v odstavci 1 spáchá za stavu ohrožení státu nebo za válečného stavu a způsobí jím zvlášť závažný následek, jemuž byl povinen zabránit.
->
-> (4) Příprava je trestná.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=b70ec607551c463fd075 -->
-
 ## DÍL 4 — TČ ohrožující bojeschopnost ozbrojených sil
 
 ### § 392 — Ohrožování morálního stavu vojáků
@@ -2352,58 +1079,6 @@ Klíčové pro **NATO integrovaný systém vzdušné obrany** (NATO IADS). Pochy
 - [ ] Nejde spíše o § 375/378 (individuální čin) a kde leží hranice přípustné kritiky?
 
 **Typicky rozhodné důkazy / podklady:** písemné a elektronické materiály, záznamy projevů, výpovědi spolusloužících, doklady o dosahu na jednotku a o situaci (válečný stav).
-
-
-<!-- LEGAL-REVISION:BEGIN id=e701ca5aa4d1053f5dfd generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 392 — Ohrožování morálního stavu vojáků
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Kdo popuzuje vojáky proti vojenské službě nebo proti nadřízenému, nebo
-> kdo závažným způsobem nebo soustavně rozvrací vojenskou kázeň,
-> bude potrestán odnětím svobody až na tři léta.
->
-> (2) Odnětím svobody na tři léta až dvacet let nebo výjimečným trestem bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 za stavu ohrožení státu nebo za válečného stavu nebo za bojové situace.
->
-> (3) Příprava je trestná.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=e701ca5aa4d1053f5dfd -->
 
 ### § 393 — Porušení služební povinnosti vojáka
 
@@ -2456,68 +1131,6 @@ Sazba: až 2 / 3 / 2—8 / 3—10 / **8—20 + výjimečný** (válka).
 
 **Typicky rozhodné důkazy / podklady:** evidence a stav techniky, servisní/údržbové záznamy, knihy jízd, rozkazy a předpisy o hospodaření, znalecké posudky, výpovědi.
 
-
-<!-- LEGAL-REVISION:BEGIN id=d8b4a06ac52eb7ef2fc5 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 393 — Porušení služební povinnosti vojáka
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Kdo ke škodě ozbrojených sil nesplněním uložené služební povinnosti podle svého služebního zařazení, byť i z nedbalosti, podstatně sníží použitelnost vojenského materiálu, bude potrestán odnětím svobody až na dvě léta nebo zákazem činnosti.
->
-> (2) Kdo bez oprávnění užije vojenský materiál větší hodnoty k účelu, pro který není určen, nebo k takovému užití dá souhlas, nebo
-> kdo zneužije nebo umožní zneužití podřízených k úkolům nad rámec služebních povinností,
-> bude potrestán odnětím svobody až na tři léta, zákazem činnosti nebo propadnutím věci.
->
-> (3) Odnětím svobody na dvě léta až osm let bude pachatel potrestán,
->
-> - a) opatří-li činem uvedeným v odstavci 2 sobě nebo jinému značný prospěch, nebo
->
-> - b) způsobí-li úmyslně spáchaným činem uvedeným v odstavci 1 nebo [[#§ 2|2]] snížení bojeschopnosti ozbrojených sil nebo značnou škodu.
->
-> (4) Odnětím svobody na tři léta až deset let bude pachatel potrestán, způsobí-li úmyslně spáchaným činem uvedeným v odstavci 1 nebo [[#§ 2|2]] škodu velkého rozsahu.
->
-> (5) Odnětím svobody na osm až dvacet let nebo výjimečným trestem bude pachatel potrestán, spáchá-li úmyslně čin uvedený v odstavci 1 nebo [[#§ 2|2]] za bojové situace, za stavu ohrožení státu nebo za válečného stavu.
->
-> (6) Příprava je trestná.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 2
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=d8b4a06ac52eb7ef2fc5 -->
-
 ### § 394 — Zbabělost před nepřítelem
 **Vzdání se do zajetí ze zbabělosti/malomyslnosti** za bojové situace. Sazba: **5—20 let**.
 
@@ -2559,52 +1172,6 @@ Klasický **vojenský zločin** — vyžaduje **úmyslné** rozhodnutí ze zbab�
 - [ ] Nejde spíše o § 395 (opuštění místa, odepření zbraně) nebo o jednání v krajní nouzi (§ 28)?
 
 **Typicky rozhodné důkazy / podklady:** výpovědi přeživších a svědků, bojová a velitelská dokumentace, údaje o stavu munice a sil, rekonstrukce taktické situace, znalecké (vojensko-taktické) posouzení.
-
-
-<!-- LEGAL-REVISION:BEGIN id=6f87037667afa4dd2a73 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 394 — Zbabělost před nepřítelem
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Kdo se za bojové situace ze zbabělosti nebo malomyslnosti vzdá do zajetí, bude potrestán odnětím svobody na pět až dvacet let.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=6f87037667afa4dd2a73 -->
 
 ### § 395 — Nesplnění bojového úkolu
 
@@ -2650,56 +1217,6 @@ Klasický **vojenský zločin** — vyžaduje **úmyslné** rozhodnutí ze zbab�
 
 **Typicky rozhodné důkazy / podklady:** bojová a velitelská dokumentace, obsah a zákonnost rozkazu/úkolu, výpovědi účastníků boje, rekonstrukce situace, vojensko-taktické posouzení.
 
-
-<!-- LEGAL-REVISION:BEGIN id=b08729f873db2eb1bd8d generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 395 — Nesplnění bojového úkolu
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Kdo se bez dovolení vzdálí z místa výkonu služby za bojové situace, bude potrestán odnětím svobody na pět až dvacet let.
->
-> (2) Kdo se za bojové situace vyhýbá povinnosti splnit bojový úkol nebo odepře použít zbraně, bude potrestán odnětím svobody na deset až dvacet let.
->
-> (3) Příprava je trestná.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=b08729f873db2eb1bd8d -->
-
 ### § 396 — Opuštění vojenského materiálu
 **Odhození/opuštění** vojenské výzbroje za bojové situace. Sazba: 5—12 / 8—20 let.
 
@@ -2738,56 +1255,6 @@ Klasický **vojenský zločin** — vyžaduje **úmyslné** rozhodnutí ze zbab�
 - [ ] Nejde spíše o § 393 (mimo boj), § 395 (místo služby/zbraň) nebo § 397 (velitel)?
 
 **Typicky rozhodné důkazy / podklady:** bojová dokumentace, evidence přidělené a ztracené výzbroje, výpovědi účastníků, rekonstrukce situace.
-
-
-<!-- LEGAL-REVISION:BEGIN id=0e313af35dea097cb87f generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 396 — Opuštění vojenského materiálu
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Kdo za bojové situace odhodí, opustí nebo učiní neupotřebitelnou vojenskou výzbroj nebo jinou vojenskou techniku, bude potrestán odnětím svobody na pět až dvanáct let.
->
-> (2) Odnětím svobody na osm až dvacet let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 snížení bojeschopnosti ozbrojených sil nebo značnou škodu.
->
-> (3) Příprava je trestná.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=0e313af35dea097cb87f -->
 
 ### § 397 — Vydání vojáků a materiálu nepříteli
 **Velitel** vydá vojáky/materiál nepříteli bez vynucení bojovou situací. Sazba: **5—20 let** (pokud nejednal v úmyslu podporovat nepřítele — jinak vlastizrada).
@@ -2831,54 +1298,6 @@ Klasický **vojenský zločin** — vyžaduje **úmyslné** rozhodnutí ze zbab�
 **Typicky rozhodné důkazy / podklady:** velitelská a bojová dokumentace, výpovědi podřízených a svědků, rekonstrukce taktické situace, posouzení subjektivní stránky (komunikace, jednání před a po vydání).
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=fb3bb92a9975c3c5056e generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 397 — Vydání vojáků a vojenského materiálu nepříteli
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Velitel, který, aniž to bylo vyvoláno bojovou situací, nepříteli vydá, byť i z nedbalosti, vojáky nebo ponechá mu vojenskou výzbroj, vojenskou techniku nebo technická zařízení, bude potrestán, nejednal-li v úmyslu podporovat nepřítele, odnětím svobody na pět až dvacet let.
->
-> (2) Příprava je trestná.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=fb3bb92a9975c3c5056e -->
 
 ## DÍL 5 — TČ proti služebním povinnostem příslušníků bezpečnostních sborů
 
@@ -2935,66 +1354,6 @@ Aplikuje se na **policisty, vězeňské dozorce, celníky** — analogicky k § 
 
 **Typicky rozhodné důkazy / podklady:** evidence a stav výzbroje/výstroje, servisní a kontrolní záznamy, interní předpisy sboru, výpovědi, doklady o zneužití prostředku/podřízených.
 
-
-<!-- LEGAL-REVISION:BEGIN id=dc7dcd5fb48435b41973 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 398 — Porušení služební povinnosti příslušníka bezpečnostního sboru
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Kdo ke škodě bezpečnostního sboru nesplněním uložené služební povinnosti, byť i z nedbalosti, podstatně sníží použitelnost výzbroje, výstroje nebo jiných věcných prostředků, bude potrestán odnětím svobody až na dvě léta nebo zákazem činnosti.
->
-> (2) Kdo bez oprávnění užije věcného prostředku větší hodnoty uvedeného v odstavci 1 k účelu, pro který není určen, nebo k takovému užití dá souhlas, nebo
-> kdo zneužije nebo umožní zneužití podřízených nebo nižších k mimoslužebním úkonům,
-> bude potrestán odnětím svobody až na tři léta, zákazem činnosti nebo propadnutím věci.
->
-> (3) Odnětím svobody na dvě léta až osm let bude pachatel potrestán,
->
-> - a) opatří-li činem uvedeným v odstavci 2 sobě nebo jinému značný prospěch, nebo
->
-> - b) způsobí-li úmyslně spáchaným činem uvedeným v odstavci 1 nebo [[#§ 2|2]] značnou škodu.
->
-> (4) Odnětím svobody na tři léta až deset let bude pachatel potrestán, způsobí-li úmyslně spáchaným činem uvedeným v odstavci 1 nebo [[#§ 2|2]] škodu velkého rozsahu.
->
-> (5) Příprava je trestná.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 2
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=dc7dcd5fb48435b41973 -->
-
 ### § 399 — Společné ustanovení
 **Na příslušníky BS se vztahují i:**
 - § 375 Neuposlechnutí rozkazu.
@@ -3044,52 +1403,6 @@ Aplikuje se na **policisty, vězeňské dozorce, celníky** — analogicky k § 
 **Typicky rozhodné důkazy / podklady:** služební dokumentace a rozkazy, doklad o příslušnosti k BS, výpovědi, podklady ke konkrétní rozšířené skutkové podstatě (např. strážní předpisy u § 389).
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=24c1a492f288f3ba275e generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 399 — Společné ustanovení
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Na příslušníky bezpečnostního sboru se vztahují i ustanovení o trestných činech neuposlechnutí rozkazu ([[#§ 375|§ 375]]), neuposlechnutí rozkazu z nedbalosti ([[#§ 376|§ 376]]), urážka mezi vojáky ([[#§ 378|§ 378]]), urážka mezi vojáky násilím nebo pohrůžkou násilí ([[#§ 379|§ 379]]), urážka vojáka stejné hodnosti násilím nebo pohrůžkou násilí ([[#§ 380|§ 380]]), násilí vůči nadřízenému ([[#§ 381|§ 381]]), porušení povinnosti strážní služby ([[#§ 389|§ 389]]) a porušení povinnosti dozorčí nebo jiné služby ([[#§ 390|§ 390]]).
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 375, § 376, § 378, § 379, § 380, § 381, § 389, § 390
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=24c1a492f288f3ba275e -->
 
 ## Shrnutí Hlav XI + XII
 
